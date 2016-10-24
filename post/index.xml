@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Return to laughter</title>
-    <link>https://jxtsai.github.io/post/</link>
+    <link>https://blog.jxtsai.info/post/</link>
     <description>Recent content in Posts on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Oct 2016 11:14:00 +0000</lastBuildDate>
-    <atom:link href="https://jxtsai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.jxtsai.info/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>新站啟用</title>
-      <link>https://jxtsai.github.io/2016/10/24/hugo-site</link>
+      <link>https://blog.jxtsai.info/2016/10/24/hugo-site</link>
       <pubDate>Mon, 24 Oct 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://jxtsai.github.io/2016/10/24/hugo-site</guid>
+      <guid>https://blog.jxtsai.info/2016/10/24/hugo-site</guid>
       <description>
 
 &lt;p&gt;之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;開源靜態網頁生成器&lt;/a&gt;網站，的確是蠻一目了然的實用指南。
@@ -44,7 +44,7 @@
 
 &lt;h5 id=&#34;新站啟用&#34;&gt;新站啟用&lt;/h5&gt;
 
-&lt;p&gt;既然橫下心想要多採用MD寫作與保持文檔了，未來blogger也不會再作更新，畢竟同一文章卻得在不同格式之間地貼來貼去還真是蠻麻煩的，且我的部落格瀏覧量向來很低，尤其在社群社交網站當道的年代中自己並不使用臉書，如此在台灣逐漸被臉書單一化的網路應用層世界裏，一直乏人問津。不過書寫本身是一件蠻有趣的事，在數位時代中可以胡亂實驗各種平台或寫作方式，探索各種不斷開發前進的網頁技術變化，這些始終是我接觸互聯網世界以來最大樂趣之一，所以我當然還是會繼續公開地分享一些以文字為主的記錄。blogger有另一個網路大神當靠山，但blogger自定網域卻無法提供ssl支援，這點讓我心裏蠻介意不痛快的，更別提其最近又默默修改用戶隱私條款的作法，讓我想逐步脫離對其依賴（果然是難相處啊我）。之後&lt;a href=&#34;http://self.jxtsai.info&#34;&gt;blogger.com&lt;/a&gt;上面只會保留來作舊文的存檔連結，未來網路寫作的發佈平台會轉向利用hugo作成,存放在github的空間: &lt;a href=&#34;https://blog.jxtsai.info&#34;&gt;https//:blog.jxtsai.info&lt;/a&gt;。(其實比較想存放在開源的gitlab，但一直看不懂它的ci設定方法)&lt;/p&gt;
+&lt;p&gt;既然橫下心想要多採用MD寫作與保持文檔了，未來blogger也不會再作更新，畢竟同一文章卻得在不同格式之間地貼來貼去還真是蠻麻煩的，且我的部落格瀏覧量向來很低，尤其在社群社交網站當道的年代中自己並不使用臉書，如此在台灣逐漸被臉書單一化的網路應用層世界裏，一直乏人問津。不過書寫本身是一件蠻有趣的事，在數位時代中可以胡亂實驗各種平台或寫作方式，探索各種不斷開發前進的網頁技術變化，這些始終是我接觸互聯網世界以來最大樂趣之一，所以我當然還是會繼續公開地分享一些以文字為主的記錄。blogger有另一個網路大神當靠山，但blogger自定網域卻無法提供ssl支援，這點讓我心裏蠻介意不痛快的，更別提其最近又&lt;a href=&#34;https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking&#34;&gt;默默修改用戶隱私條款&lt;/a&gt;的作法，讓我想逐步脫離對其依賴（果然是難相處啊我）。之後&lt;a href=&#34;http://self.jxtsai.info&#34;&gt;blogger.com&lt;/a&gt;上面只會保留來作舊文的存檔連結，未來網路寫作的發佈平台會轉向利用hugo作成,存放在github的空間: &lt;a href=&#34;https://blog.jxtsai.info&#34;&gt;https//:blog.jxtsai.info&lt;/a&gt;。(其實比較想存放在開源的gitlab，但一直看不懂它的ci設定方法)&lt;/p&gt;
 
 &lt;h5 id=&#34;靜態網頁生成器的精進修練&#34;&gt;靜態網頁生成器的精進修練&lt;/h5&gt;
 
