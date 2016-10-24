@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Return to laughter</title>
     <link>https://jxtsai.github.io/</link>
     <description>Recent content on Return to laughter</description>
@@ -51,26 +50,6 @@
 
 &lt;p&gt;雖然看似有這麼多各家語言寫成的靜態網頁生成器，可以在彈指之間就架好一個可發佈的網站內容，但是若想調校出與眾不同的模版樣式，就得花時間在摸熟CSS/SASS，一整個就是人生沒有捷徑可以偷懶的感覺啊。&lt;/p&gt;
 </description>
-=======
-    <title>return to laughter</title>
-    <link>https://jxtsai.github.io/index.xml</link>
-    <description>Recent content on return to laughter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 08:55:16 +0800</lastBuildDate>
-    <atom:link href="https://jxtsai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>new site</title>
-      <link>https://jxtsai.github.io/2016/10/24/new-site</link>
-      <pubDate>Mon, 24 Oct 2016 08:55:16 +0800</pubDate>
-      
-      <guid>https://jxtsai.github.io/2016/10/24/new-site</guid>
-      <description>&lt;p&gt;hello world&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
->>>>>>> 2cd50e1f9dcfe5b7428a66c1ca8addccaa258491
     </item>
     
   </channel>
