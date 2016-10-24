@@ -3,12 +3,21 @@
   
   <url>
     <loc>https://jxtsai.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2016-10-24T11:14:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jxtsai.github.io/2016/10/24/hugo-site</loc>
     <lastmod>2016-10-24T11:14:00+00:00</lastmod>
+=======
+    <lastmod>2016-10-24T08:55:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/2016/10/24/new-site</loc>
+    <lastmod>2016-10-24T08:55:16+08:00</lastmod>
+>>>>>>> 2cd50e1f9dcfe5b7428a66c1ca8addccaa258491
   </url>
   
 </urlset>
