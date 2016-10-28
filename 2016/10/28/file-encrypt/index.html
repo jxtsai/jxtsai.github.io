@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-    <title>Return to laughter</title>
+    <title>檔案或目錄加密軟體 &middot; Return to laughter</title>
     <meta name="generator" content="Hugo 0.16" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -10,10 +10,7 @@
       <meta name="description" content="">
     
     
-      <link href="https://blog.jxtsai.info/index.xml" rel="alternate" type="application/rss+xml" title="Return to laughter" />
-      <link href="https://blog.jxtsai.info/index.xml" rel="feed" type="application/rss+xml" title="Return to laughter" />
-    
-    <link rel="canonical" href="https://blog.jxtsai.info/"/>
+    <link rel="canonical" href="https://blog.jxtsai.info/2016/10/28/file-encrypt"/>
     <link rel="icon" href="https://blog.jxtsai.info/favicon.ico">
     <link rel="apple-touch-icon" href="https://blog.jxtsai.info/apple-touch-icon.png" />
     <link rel="stylesheet" href="https://blog.jxtsai.info/css/style.css">
@@ -22,10 +19,12 @@
     <link rel="stylesheet" href="https://blog.jxtsai.info/fancybox/jquery.fancybox.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
-    <meta property="og:title" content="Return to laughter" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://blog.jxtsai.info/" />
+    <meta property="og:title" content="檔案或目錄加密軟體" />
+<meta property="og:description" content="雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料有些需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.jxtsai.info/2016/10/28/file-encrypt" />
 
 
 <meta property="og:updated_time" content="2016-10-28T11:14:00&#43;00:00"/>
@@ -38,13 +37,35 @@
 
 
 
-    
-    
-<meta itemprop="name" content="Return to laughter">
-<meta itemprop="description" content="">
-
 
     
+    
+<meta itemprop="name" content="檔案或目錄加密軟體">
+<meta itemprop="description" content="雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料有些需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。
+">
+
+
+<meta itemprop="dateModified" content="2016-10-28T11:14:00&#43;00:00" />
+<meta itemprop="wordCount" content="47">
+
+
+
+<meta itemprop="keywords" content="blogging,human-rights,security,encryption,git,hexo,hugo,javascript,netlify,privacy," />
+
+    
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="檔案或目錄加密軟體"/>
+<meta name="twitter:description" content="雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料有些需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。
+"/>
+<meta name="twitter:site" content="@a5288"/>
+
+
     
 
     
@@ -57,7 +78,7 @@
 
 
 <div id="container">
-    <header id="header">
+	<header id="header">
   <div id="header-main" class="header-inner">
     <div class="outer">
       <a href="https://blog.jxtsai.info/" id="logo">
@@ -145,9 +166,10 @@
   </div>
 </header>
 
-
-    <div class="outer">
-    <aside id="profile">
+   	
+   	<div class="outer">
+   		
+	    <aside id="profile">
   <div class="inner profile-inner">
     <div class="base-info profile-block">
       <img id="avatar" src="https://blog.jxtsai.info/css/images/avatar.png">
@@ -238,20 +260,21 @@
 <td><a href="//twitter.com/a5288" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
 
 
-          <td><a href="https://blog.jxtsai.info/index.xml" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+          <td><a href="" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
         </tr>
       </table>
     </div>
   </div>
 </aside>
 
-    <section id="main">
-    
-    
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+	    
+
+	    
+<section id="main">
+
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
         <div class="article-inner">
             
-            </a>
 
             <header class="article-header">
     <a href="https://blog.jxtsai.info/2016/10/28/file-encrypt">
@@ -304,16 +327,67 @@
 </header>
 
             <div class="article-entry" itemprop="articleBody">
-                <p>
-                    雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
-不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料<strong>有些</strong>需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://blog.jxtsai.info/2016/10/28/file-encrypt">
-                        Read more
-                    </a>
-                </p>
+                
+
+<p>雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料<strong>有些</strong>需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。</p>
+
+<h3 id="cryptomator">cryptomator</h3>
+
+<p>這款軟體是從調查記者的安全工具指南上看到的推薦。先從<a href="https://cryptomator.org/">其官網</a>下載符合自己電腦作業系統的安全軟體，以我為例(ubuntu 14.04 64)，即是下載Version 1.2.0 • For Debian-based OS版本，稍後透過ubuntu software center 安裝（安裝後居然要佔200多mb）
+<img src="https://i.imgur.com/6qWZSaQ.png" alt="" /></p>
+
+<p>官網的使用示範影片（以window作業系統為例）
+<a href="https://www.youtube.com/watch?v=zhDg2qnLgfo">https://www.youtube.com/watch?v=zhDg2qnLgfo</a></p>
+
+<p>啟動後的圖形介面
+<img src="https://i.imgur.com/6RkxLz5.png" alt="" /></p>
+
+<p>按著其操作指南，使用者得先在硬碟（或是本地端與雲端儲存同步的專用資料夾底下）建立一個「保險庫」（vault）,用它來儲放欲加密的檔案。
+<img src="https://i.imgur.com/cMOJsC0.png" alt="" /></p>
+
+<p>先試試把一些檔案搬進去這個保險庫，重新啟動cryptomator，好讓它可以開始進行加密程序。目前看起來是有在進行一個加密的動作。照理說，原來拖入在此保險庫的未加密檔案，在完成加密後，理應把它刪除才是，所以我就徑行了刪除。
+<img src="https://i.imgur.com/STQGyae.png" alt="" /></p>
+
+<p>現在試著操作保險庫中加密檔案解密，當然解密前一定會詢問當初給這個vault設的主密碼，正確輸入後才會開始進行解密。
+<img src="https://i.imgur.com/lUhJiu8.png" alt="" /></p>
+
+<p>在原作業的電腦上可以在輸入主密碼後，解密保險庫中的檔案，正常地讀取其內容。但是當我在另一台電腦上實驗能否解密dropbox保險庫中的加密檔案，卻傳回了失敗無法掛載該磁區的訊息。也不知要去哪裏查log檔案找出錯誤。
+<img src="https://i.imgur.com/xhyMaGa.png" alt="" /></p>
+
+<h3 id="cryfs">CryFS</h3>
+
+<p>因為上述使用cryptomator的過程不算順利，從官網的說明與操示影片也是讓我看得一知半解，故決定再找找其它提供加密的開源軟體試試。
+目前有一款被推薦的CryFS,主要以linux系統為運行平台。反正這些需要加密的資料也用不著與其它人共用分享，故「毅然」來試用看看。</p>
+
+<p>同樣也是在<a href="https://www.cryfs.org/tutorial">其官網</a>下載，再透過ubuntu software center 安裝（安裝後只佔2mb左右，大勝）
+<img src="https://i.imgur.com/dkoRtR4.png" alt="" /></p>
+
+<p>目前CryFS的操作主要以純文字介面為主，透過在cli環境下指令來建置欲加密檔案的存放目錄以及解密目錄。後者下指令建立後,cryfs會將其弄成一個「虛擬的目錄」，換言之，被搬移到存放目錄的檔案或資料夾在此會自動被加密，只能透過解密目錄的開啟來察看其內容。但因為它又是一個「虛擬目錄」，故即便電腦落入它人手中，也無法隨便開啟，得先要啟動cryfs還原掛載該虛擬目錄，再輸入主密碼來讀取其內容。
+解密還原檔案前，先會要求輸入正確的主密碼
+<img src="https://i.imgur.com/q1xKoTf.png" alt="" /></p>
+
+<p>它也支援雲端儲存加密，作法其實是先在本地端雲端同步備分的目錄下建立一個欲存放加密資料的目錄夾與解密夾。
+我自己先試著在第一台電腦上作了一個dropbox的加密資料夾，並放上經過CryFS加密後的檔案。所以一般人在這個加密的資料夾看到的檔案內容長得這個樣子：
+<img src="https://i.imgur.com/GQgNpVl.png" alt="" /></p>
+
+<p>接下來我試著在第二台電腦上來試試能否解密還原dropbox加密資料夾當中的原始內容，按其教學指南所示，我先在cli環境下輸入：
+<code>$acryfs Dropbox/encryt moundir</code>
+#encryp是我在dropbox存放加密文件的資料夾，而moundir則是本地端欲開啟該文件的解密資料夾。
+輸入完上述指令後，系統因為找不到moundir這個目錄，故會問我是否要在本地端建立一個mountdir目錄，然後接下來詢問我encryt密碼。我先故意輸入錯誤密碼，結果系統回覆說因密碼錯誤無法載入設定檔也無法解密encrypt目錄下的加密文件。
+<img src="https://i.imgur.com/VedMvBY.png" alt="" /></p>
+
+<p>第二次我方輸入正常密碼，這時就成功地掛載了本地端的解密目錄。當然按CryFS的設計，它在第二台電腦中也是一個「虛擬出來的」目錄。
+<img src="https://i.imgur.com/ppZ3deF.png" alt="" /></p>
+
+<p>而要卸除mountdir這個虛擬目錄的掛載，只要輸入：
+<code>$fusermount -u mountdir</code></p>
+
+<p>則這個目錄就會自動從第二台電腦上的掛載消失，雖然還是可以看到該目錄，但點擊後其內容空無一物。
+<img src="https://i.imgur.com/BmEsXbY.png" alt="" /></p>
+
+<p>我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。</p>
+
             </div>
             <footer class="article-footer">
     <a data-url="https://blog.jxtsai.info/2016/10/28/file-encrypt" data-id="84ce131680c77f450ba0a0eaa1fc37af" class="article-share-link">
@@ -393,316 +467,50 @@
 </footer>
 
         </div>
-    </article>
+
+        
+<nav id="article-nav">
     
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://blog.jxtsai.info/2016/10/26/hexo-site">
-    <h1 class="article-title" itemprop="name">
-        another hexo site 
-    </h1>
-    </a>
-    <div class="article-meta">
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-10-26 14:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-10-26</time>
-            &middot;
-            8
-            words
-            &middot;
-            1
-            minute read
-        </div>
-
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/categories/human-rights">human rights</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/tags/hexo">hexo</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/tags/netlify">netlify</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/tags/javascript">javascript</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的<a href="https://hexo.io">靜態網頁生成器hexo</a>，順便動手來整理昨天沒來由地無理頭的想法：
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://blog.jxtsai.info/2016/10/26/hexo-site">
-                        Read more
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://blog.jxtsai.info/2016/10/26/hexo-site" data-id="200ee06dcf79339c024dc533e72a1a53" class="article-share-link">
-        <i class="fa fa-share"></i>
-        Share
-    </a>
-    
-    <a href="https://blog.jxtsai.info/2016/10/26/hexo-site/#disqus_thread" class="article-comment-link">
-        Comments
+    <a href="https://blog.jxtsai.info/2016/10/26/hexo-site" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          Older
+      </strong>
+      <div class="article-nav-title">another hexo site </div>
     </a>
     
 
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
     
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://blog.jxtsai.info/2016/10/24/hugo-site">
-    <h1 class="article-title" itemprop="name">
-        新站啟用
-    </h1>
-    </a>
-    <div class="article-meta">
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-10-24 11:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-10-24</time>
-            &middot;
-            47
-            words
-            &middot;
-            1
-            minute read
-        </div>
-
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/categories/blogging">blogging</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/tags/hugo">hugo</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://blog.jxtsai.info/tags/git">git</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的<a href="https://www.staticgen.com/">開源靜態網頁生成器</a>網站，的確是蠻一目了然的實用指南。
-<img src="https://i.imgur.com/cBJrokm.png" alt="" /></p>
-
-<p>例如之前試過的jekyll就是其中排名第一（以得到星號、觀注度和fork次數計算）的靜態網頁生成器。從這個網站，我才知道之前曾試用的gitbook原來也是一個開源專案，除了提供網頁版的電子書線上編輯與作品發表外，另有客戶端的套件可下載安裝，讓使用者可以在自己的電腦端安裝gitbook-cli後即可以利用自己習慣愛用的純文字編輯器來寫作文本,再將之發佈到網路上。此單機版雖然理論上可以佈署在某個雲端虛擬機器上來運行，但似乎無法如gitbook網頁版支援多人協同編輯工作，不過其優點在於可以自行調校需要的版型與應用外掛功能（原來gitbook志願者開發的外掛已多達近500個！！）
-`
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://blog.jxtsai.info/2016/10/24/hugo-site">
-                        Read more
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://blog.jxtsai.info/2016/10/24/hugo-site" data-id="aea9b0573f11f5c255bf6b5718e32b64" class="article-share-link">
-        <i class="fa fa-share"></i>
-        Share
-    </a>
-    
-    <a href="https://blog.jxtsai.info/2016/10/24/hugo-site/#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
-
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
-    
-
-    <nav id="page-nav">
-
 </nav>
 
+
+    </article>
+
+    
+    <section id="comments">
+        <div id="disqus_thread">
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'jxtsai';
+    var disqus_identifier = 'https:\/\/blog.jxtsai.info\/2016\/10\/28\/file-encrypt';
+    var disqus_title = '檔案或目錄加密軟體';
+    var disqus_url = 'https:\/\/blog.jxtsai.info\/2016\/10\/28\/file-encrypt';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+    </section>
+    
 </section>
 
 
-    <aside id="sidebar">
+	    
+	    <aside id="sidebar">
     
 <div class="widget-wrap">
     <h3 class="widget-title">
@@ -923,7 +731,8 @@
     <div id="toTop" class="fa fa-angle-up"></div>
 </aside>
 
-    </div>
+	    
+	</div>
 </div>
 
 <footer id="footer">

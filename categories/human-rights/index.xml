@@ -11,10 +11,10 @@
     
     <item>
       <title>another hexo site </title>
-      <link>https://blog.jxtsai.info/2016/10/26/hugo-site</link>
+      <link>https://blog.jxtsai.info/2016/10/26/hexo-site</link>
       <pubDate>Wed, 26 Oct 2016 14:14:00 +0000</pubDate>
       
-      <guid>https://blog.jxtsai.info/2016/10/26/hugo-site</guid>
+      <guid>https://blog.jxtsai.info/2016/10/26/hexo-site</guid>
       <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4co1VDF.png&#34; alt=&#34;&#34; /&gt;
