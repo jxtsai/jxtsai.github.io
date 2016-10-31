@@ -19,10 +19,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。&lt;/li&gt;
-&lt;li&gt;就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。
 
-&lt;p&gt;對於第一個問題，我在之前記錄jekyll的&lt;a href=&#34;http://self.jxtsai.info/2016/04/jekyll.html&#34;&gt;部落格文章&lt;/a&gt;簡單地解決了。而這篇文章，則是希望能寫出最平易白話的jekyll更換主題中文介紹,好讓網頁建置或網站佈署有更多元的選擇。至於為什麼目前從google搜尋引擊中，一直沒找到容易看得懂的指引介紹，我個人私自猜測jekyll使用者多是有一定程度的程式碼能力，故他們認為這種理所當然的方法，根本沒什麼做成技術文件的必要吧。&lt;/p&gt;
+對於第一個問題，我在之前記錄jekyll的&lt;a href=&#34;http://self.jxtsai.info/2016/04/jekyll.html&#34;&gt;部落格文章&lt;/a&gt;簡單地解決了。而這篇文章，則是希望能寫出最平易白話的jekyll更換主題中文介紹,好讓網頁建置或網站佈署有更多元的選擇。至於為什麼目前從google搜尋引擊中，一直沒找到容易看得懂的指引介紹，我個人私自猜測jekyll使用者多是有一定程度的程式碼能力，故他們認為這種理所當然的方法，根本沒什麼做成技術文件的必要吧。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;先前提假設,已經通過了ruby/gem安裝考驗，成功地在本機電腦端上裝設好了jekyll。故只要在命令列下新建網站專案指令：
 &lt;code&gt;$jekyll new mysite #mysite為新網站專案名稱，可自取&lt;/code&gt;
@@ -56,8 +56,7 @@
 &lt;p&gt;其它參考資源：
 &lt;a href=&#34;http://jekyllrb.com/docs/themes/&#34;&gt;jekyll 官網說明&lt;/a&gt;
 &lt;a href=&#34;http://www.jokinkuang.info/2016/09/03/how-to-create-the-jekyll-theme.html&#34;&gt;一步一步创建Jekyll主题&lt;/a&gt;
-&lt;a href=&#34;https://fraserxu.me/2013/06/02/change-jekyll-blog-layout-in-ten-minutes/&#34;&gt;教你10分鐘內替換Jekyll博客樣式&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;a href=&#34;https://fraserxu.me/2013/06/02/change-jekyll-blog-layout-in-ten-minutes/&#34;&gt;教你10分鐘內替換Jekyll博客樣式&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
