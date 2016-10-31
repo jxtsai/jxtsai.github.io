@@ -20,7 +20,12 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <meta property="og:title" content="如何更換jekyll 主題" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：
+
+
+安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。
+就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。
+" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://blog.jxtsai.info/2016/10/31/jekyll-theme" />
 
@@ -39,7 +44,12 @@
     
     
 <meta itemprop="name" content="如何更換jekyll 主題">
-<meta itemprop="description" content="">
+<meta itemprop="description" content="幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：
+
+
+安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。
+就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。
+">
 
 
 <meta itemprop="dateModified" content="2016-10-31T12:09:00&#43;00:00" />
@@ -56,7 +66,12 @@
 
 
 <meta name="twitter:title" content="如何更換jekyll 主題"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：
+
+
+安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。
+就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。
+"/>
 <meta name="twitter:site" content="@a5288"/>
 
 
@@ -322,10 +337,11 @@
 
 <ul>
 <li>安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。</li>
-<li>就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。
-
-對於第一個問題，我在之前記錄jekyll的<a href="http://self.jxtsai.info/2016/04/jekyll.html">部落格文章</a>簡單地解決了。而這篇文章，則是希望能寫出最平易白話的jekyll更換主題中文介紹,好讓網頁建置或網站佈署有更多元的選擇。至於為什麼目前從google搜尋引擊中，一直沒找到容易看得懂的指引介紹，我個人私自猜測jekyll使用者多是有一定程度的程式碼能力，故他們認為這種理所當然的方法，根本沒什麼做成技術文件的必要吧。</li>
+<li>就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。</li>
 </ul>
+
+<p>
+對於第一個問題，我在之前記錄jekyll的<a href="http://self.jxtsai.info/2016/04/jekyll.html">部落格文章</a>簡單地解決了。而這篇文章，則是希望能寫出最平易白話的jekyll更換主題中文介紹,好讓網頁建置或網站佈署有更多元的選擇。至於為什麼目前從google搜尋引擊中，一直沒找到容易看得懂的指引介紹，我個人私自猜測jekyll使用者多是有一定程度的程式碼能力，故他們認為這種理所當然的方法，根本沒什麼做成技術文件的必要吧。</p>
 
 <p>先前提假設,已經通過了ruby/gem安裝考驗，成功地在本機電腦端上裝設好了jekyll。故只要在命令列下新建網站專案指令：
 <code>$jekyll new mysite #mysite為新網站專案名稱，可自取</code>
