@@ -2,12 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blog.jxtsai.info/</link>
+    <link>https://blog.jxtsai.info/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Oct 2016 18:14:00 +0000</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Mon, 31 Oct 2016 12:09:00 +0000</lastBuildDate>
     <atom:link href="https://blog.jxtsai.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>如何更換jekyll 主題</title>
+      <link>https://blog.jxtsai.info/2016/10/31/jekyll-theme</link>
+      <pubDate>Mon, 31 Oct 2016 12:09:00 +0000</pubDate>
+      
+      <guid>https://blog.jxtsai.info/2016/10/31/jekyll-theme</guid>
+      <description>&lt;p&gt;幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;安裝時可能會被ruby的版本以及其套件管理平台gem給搞瘋。&lt;/li&gt;
+&lt;li&gt;就算成功完成了jekyll 在本地端電腦上的安裝運行，但接下來的調校工作，尤其是主題模版更換，很難找得到「新手」看得懂的文件說明。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;對於第一個問題，我在之前記錄jekyll的&lt;a href=&#34;http://self.jxtsai.info/2016/04/jekyll.html&#34;&gt;部落格文章&lt;/a&gt;簡單地解決了。而這篇文章，則是希望能寫出最平易白話的jekyll更換主題中文介紹,好讓網頁建置或網站佈署有更多元的選擇。至於為什麼目前從google搜尋引擊中，一直沒找到容易看得懂的指引介紹，我個人私自猜測jekyll使用者多是有一定程度的程式碼能力，故他們認為這種理所當然的方法，根本沒什麼做成技術文件的必要吧。&lt;/p&gt;
+
+&lt;p&gt;先前提假設,已經通過了ruby/gem安裝考驗，成功地在本機電腦端上裝設好了jekyll。故只要在命令列下新建網站專案指令：
+&lt;code&gt;$jekyll new mysite #mysite為新網站專案名稱，可自取&lt;/code&gt;
+電腦即會自動產生一個「mysite」資料夾，其底下有一些必要的檔案與目錄，也就是一個全新的網站。
+&lt;img src=&#34;https://i.imgur.com/SKYKmMk.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;若執行了jekyll 伺服器指令(&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;)後，打開瀏覧器可看到新網站的模樣，此時套用的是jekyll系統預設的主題：minima
+&lt;img src=&#34;https://i.imgur.com/k1S1nuP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;接下來同樣在文字指令環境下，打入：
+&lt;code&gt;$jekyll new-theme mynewtheme #mynewtheme為自取的主題名稱&lt;/code&gt;
+這時電腦又會自動生成一個「mynewtheme」資料夾，其目錄結構如下：
+&lt;img src=&#34;https://i.imgur.com/j7ahb7W.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;把「mysite」底下的東西全部複製搬移到「mynewtheme」底下，此時在「mynewtheme」的工作目錄下，再打入jekyll 伺服器指令&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;，這時候會看到一個最原始還未加入任何CSS模版設計與圖片的初胚網站。
+&lt;img src=&#34;https://i.imgur.com/5SLZFcl.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;找到自己看中意的jekyll theme，通常只要搜尋關鍵字，就會有許多豐富的網站，例如我google結果的前三名：
++ &lt;a href=&#34;http://themes.jekyllrc.org/&#34;&gt;themes.jekyllrc.org&lt;/a&gt;
++ &lt;a href=&#34;http://jekyllthemes.org/&#34;&gt;jekyllthemes.org&lt;/a&gt;
++ &lt;a href=&#34;https://jekyllthemes.io&#34;&gt;jekyllthemes.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;挑選好之後，可以透過：手動下載zip檔案，或是git clone 原始碼到本地端的電腦上。例如我挑選了一個： &lt;a href=&#34;http://jekyllthemes.org/themes/Jekyll-Stepbystep/&#34;&gt;Stepbystep主題&lt;/a&gt;，下戴其zip檔解壓後，先稍閱讀一下其安裝指南（readme.md）看看有什麼該注意的事項。接下來我是把「Stepbystep」資料夾內的東西全部複製移動到「mynewtheme」。當前工作目錄在「mynewtheme」，利用bundle exec執行jekyll 伺服器命令，沒遇上什麼阻礙順利地讓它跑起來。
+&lt;img src=&#34;https://i.imgur.com/t1ETZng.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這時候打開瀏覧器，輸入jekyll本地預設網址&lt;a href=&#34;http://127.0.0.1:4000&#34;&gt;http://127.0.0.1:4000&lt;/a&gt; ，耶終於順利更換了jekyll 網站主題。原來更換主題看似也不算太難嘛，那到底之前我東搞西補地探索了兩三個星期是在幹什麼啊(╯-_-)╯ ~╩╩
+&lt;img src=&#34;https://i.imgur.com/zKDErjg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;至於許多細部微調，得要再一一修改_config.yml等檔案。&lt;/p&gt;
+
+&lt;p&gt;其它參考資源：
+&lt;a href=&#34;http://jekyllrb.com/docs/themes/&#34;&gt;jekyll 官網說明&lt;/a&gt;
+&lt;a href=&#34;http://www.jokinkuang.info/2016/09/03/how-to-create-the-jekyll-theme.html&#34;&gt;一步一步创建Jekyll主题&lt;/a&gt;
+&lt;a href=&#34;https://fraserxu.me/2013/06/02/change-jekyll-blog-layout-in-ten-minutes/&#34;&gt;教你10分鐘內替換Jekyll博客樣式&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>大數據下的「我」？</title>
@@ -17,14 +69,14 @@
       <guid>https://blog.jxtsai.info/2016/10/29/aj-bigdata</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HTxzpHl.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;
+昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/xGE4tuU.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;
-</description>
+&lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,10 +85,9 @@
       <pubDate>Fri, 28 Oct 2016 11:14:00 +0000</pubDate>
       
       <guid>https://blog.jxtsai.info/2016/10/28/file-encrypt</guid>
-      <description>
-
-&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
-不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。&lt;/p&gt;
+      <description>&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。
+&lt;/p&gt;
 
 &lt;h3 id=&#34;cryptomator&#34;&gt;cryptomator&lt;/h3&gt;
 
@@ -92,8 +143,7 @@
 &lt;p&gt;則這個目錄就會自動從第二台電腦上的掛載消失，雖然還是可以看到該目錄，但點擊後其內容空無一物。
 &lt;img src=&#34;https://i.imgur.com/BmEsXbY.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;
-</description>
+&lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,9 +152,9 @@
       <pubDate>Wed, 26 Oct 2016 14:14:00 +0000</pubDate>
       
       <guid>https://blog.jxtsai.info/2016/10/26/hexo-site</guid>
-      <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：&lt;/p&gt;
+      <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：
 
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4co1VDF.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://i.imgur.com/4co1VDF.png&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://i.imgur.com/8NFAXdz.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;這個簡單網站的實質內容取材與方向是：&lt;/em&gt;
@@ -113,8 +163,7 @@
 
 &lt;p&gt;而這個平台的架設方法則先安裝hexo在本地端電腦，寫好md文章轉成html格式，先發佈到gitlab.com（因為一直看不懂gitlab pages得要使用其ci的設定方法，所以尚無法直接利用它的靜態網頁服務），再透過netlify.com 提供的免費靜態網頁部署服務（且具自定網域與SSL功能）。　&lt;/p&gt;
 
-&lt;p&gt;唉，如果小熊今年還是沒能拿到世界冠軍，我就。。。╰（‵□′）╯（發毒誓）再做另一個有關聯合國人權條約機構的網站。&lt;/p&gt;
-</description>
+&lt;p&gt;唉，如果小熊今年還是沒能拿到世界冠軍，我就。。。╰（‵□′）╯（發毒誓）再做另一個有關聯合國人權條約機構的網站。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -123,13 +172,11 @@
       <pubDate>Mon, 24 Oct 2016 11:14:00 +0000</pubDate>
       
       <guid>https://blog.jxtsai.info/2016/10/24/hugo-site</guid>
-      <description>
-
-&lt;p&gt;之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;開源靜態網頁生成器&lt;/a&gt;網站，的確是蠻一目了然的實用指南。
+      <description>&lt;p&gt;之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;開源靜態網頁生成器&lt;/a&gt;網站，的確是蠻一目了然的實用指南。
 &lt;img src=&#34;https://i.imgur.com/cBJrokm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;例如之前試過的jekyll就是其中排名第一（以得到星號、觀注度和fork次數計算）的靜態網頁生成器。從這個網站，我才知道之前曾試用的gitbook原來也是一個開源專案，除了提供網頁版的電子書線上編輯與作品發表外，另有客戶端的套件可下載安裝，讓使用者可以在自己的電腦端安裝gitbook-cli後即可以利用自己習慣愛用的純文字編輯器來寫作文本,再將之發佈到網路上。此單機版雖然理論上可以佈署在某個雲端虛擬機器上來運行，但似乎無法如gitbook網頁版支援多人協同編輯工作，不過其優點在於可以自行調校需要的版型與應用外掛功能（原來gitbook志願者開發的外掛已多達近500個！！）
-``&lt;/p&gt;
+&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;看到這麼多靜態網頁生成器的出現，讓我更動心地想把markdown語法練熟一點，慢慢調整自己的寫作習慣單純地回歸純文字環境而不必啟動太複雜的版面排列編輯器，也逐步減少在blogger.com　/wordpress 後台寫部落格草稿的麻煩，因為每一次存檔的post request都似乎是一趟趟本地與雲端機器之間來回回應的時間與能源耗損（是真的有這麼計較嗎？）&lt;/p&gt;
 
@@ -156,8 +203,7 @@
 
 &lt;h5 id=&#34;靜態網頁生成器的精進修練&#34;&gt;靜態網頁生成器的精進修練&lt;/h5&gt;
 
-&lt;p&gt;雖然看似有這麼多各家語言寫成的靜態網頁生成器，可以在彈指之間就架好一個可發佈的網站內容，但是若想調校出與眾不同的模版樣式，就得花時間在摸熟CSS/SASS，一整個就是人生沒有捷徑可以偷懶的感覺啊。&lt;/p&gt;
-</description>
+&lt;p&gt;雖然看似有這麼多各家語言寫成的靜態網頁生成器，可以在彈指之間就架好一個可發佈的網站內容，但是若想調校出與眾不同的模版樣式，就得花時間在摸熟CSS/SASS，一整個就是人生沒有捷徑可以偷懶的感覺啊。&lt;/p&gt;</description>
     </item>
     
   </channel>

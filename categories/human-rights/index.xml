@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Human Rights on Return to laughter</title>
-    <link>https://blog.jxtsai.info/categories/human-rights/</link>
-    <description>Recent content in Human Rights on Return to laughter</description>
+    <title>Return to laughter</title>
+    <link>https://blog.jxtsai.info/categories/human-rights/index.xml</link>
+    <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Oct 2016 18:14:00 +0000</lastBuildDate>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://blog.jxtsai.info/categories/human-rights/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,14 +17,14 @@
       <guid>https://blog.jxtsai.info/2016/10/29/aj-bigdata</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HTxzpHl.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;
+昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/xGE4tuU.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;
-</description>
+&lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,9 +33,9 @@
       <pubDate>Wed, 26 Oct 2016 14:14:00 +0000</pubDate>
       
       <guid>https://blog.jxtsai.info/2016/10/26/hexo-site</guid>
-      <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：&lt;/p&gt;
+      <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：
 
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4co1VDF.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://i.imgur.com/4co1VDF.png&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;https://i.imgur.com/8NFAXdz.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;這個簡單網站的實質內容取材與方向是：&lt;/em&gt;
@@ -44,8 +44,7 @@
 
 &lt;p&gt;而這個平台的架設方法則先安裝hexo在本地端電腦，寫好md文章轉成html格式，先發佈到gitlab.com（因為一直看不懂gitlab pages得要使用其ci的設定方法，所以尚無法直接利用它的靜態網頁服務），再透過netlify.com 提供的免費靜態網頁部署服務（且具自定網域與SSL功能）。　&lt;/p&gt;
 
-&lt;p&gt;唉，如果小熊今年還是沒能拿到世界冠軍，我就。。。╰（‵□′）╯（發毒誓）再做另一個有關聯合國人權條約機構的網站。&lt;/p&gt;
-</description>
+&lt;p&gt;唉，如果小熊今年還是沒能拿到世界冠軍，我就。。。╰（‵□′）╯（發毒誓）再做另一個有關聯合國人權條約機構的網站。&lt;/p&gt;</description>
     </item>
     
   </channel>
