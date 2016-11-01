@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Return to laughter</title>
-    <link>https://blog.jxtsai.info/tags/encryption/index.xml</link>
-    <description>Recent content on Return to laughter</description>
+    <title>Encryption on Return to laughter</title>
+    <link>https://blog.jxtsai.info/tags/encryption/</link>
+    <description>Recent content in Encryption on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Fri, 28 Oct 2016 11:14:00 +0000</lastBuildDate>
     <atom:link href="https://blog.jxtsai.info/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,9 +15,10 @@
       <pubDate>Fri, 28 Oct 2016 11:14:00 +0000</pubDate>
       
       <guid>https://blog.jxtsai.info/2016/10/28/file-encrypt</guid>
-      <description>&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
-不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。
-&lt;/p&gt;
+      <description>
+
+&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。&lt;/p&gt;
 
 &lt;h3 id=&#34;cryptomator&#34;&gt;cryptomator&lt;/h3&gt;
 
@@ -73,7 +74,8 @@
 &lt;p&gt;則這個目錄就會自動從第二台電腦上的掛載消失，雖然還是可以看到該目錄，但點擊後其內容空無一物。
 &lt;img src=&#34;https://i.imgur.com/BmEsXbY.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;</description>
+&lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;
+</description>
     </item>
     
   </channel>
