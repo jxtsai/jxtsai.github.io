@@ -28,7 +28,7 @@
 <meta property="og:url" content="https://blog.jxtsai.info/" />
 
 
-<meta property="og:updated_time" content="2016-11-09T12:14:00&#43;00:00"/>
+<meta property="og:updated_time" content="2016-11-15T17:14:00&#43;00:00"/>
 
 
 
@@ -174,7 +174,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        9
+        10
         <span>Posts</span>
       </div>
       <div class="article-info-block">
@@ -259,6 +259,158 @@
 
     <section id="main">
     
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://blog.jxtsai.info/2016/11/15/digital-security-tools">
+    <h1 class="article-title" itemprop="name">
+        （安全）網路使用工具清單-桌機筆電篇
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2016-11-15 17:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-11-15</time>
+            &middot;
+            86
+            words
+            &middot;
+            1
+            minute read
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/categories/internet">internet</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/tags/surveillance">surveillance</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/tags/privacy">privacy</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/tags/security">security</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    11月9日過後的幾天裏，我的推特圈上最充斥的是：一些美國人權組織發表募款訊息號召更多會員加入以準備對抗2017年１月之後所將面臨的長期抵抗。除此之外，不少教新聞記者、人權工作者以及內部吹哨者（whisleblower）如何加強自保以及強化通訊私密數位安全交戰手冊等，也再一次被拿出來推廣。</p>
+
+<p>看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）𦃝網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
+
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://blog.jxtsai.info/2016/11/15/digital-security-tools">
+                        Read more
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://blog.jxtsai.info/2016/11/15/digital-security-tools" data-id="f38b705c0d9b9784a1fe21aaf98121ff" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="https://blog.jxtsai.info/2016/11/15/digital-security-tools/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
     
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
@@ -1629,6 +1781,31 @@
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://blog.jxtsai.info/2016/11/15/digital-security-tools" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="https://blog.jxtsai.info/categories/internet">
+                        internet
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://blog.jxtsai.info/2016/11/15/digital-security-tools" class="title">（安全）網路使用工具清單-桌機筆電篇</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-11-15 17:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-11-15</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://blog.jxtsai.info/2016/11/09/5wofinformationonline" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -1727,31 +1904,6 @@
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://blog.jxtsai.info/2016/10/31/jekyll-theme" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        <a class="article-category-link" href="https://blog.jxtsai.info/categories/blogging">
-                        blogging
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://blog.jxtsai.info/2016/10/31/jekyll-theme" class="title">如何更換jekyll 主題</a></p>
-                    <p class="item-date">
-                        <time datetime="2016-10-31 12:09:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-10-31</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1783,7 +1935,7 @@
                 <a class="category-list-link" href="https://blog.jxtsai.info/categories/internet">
                     internet
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
             <li class="category-list-item">
@@ -1876,21 +2028,21 @@
                 <a class="category-list-link" href="https://blog.jxtsai.info/tags/privacy">
                     privacy
                 </a>
-                <span class="category-list-count">5</span>
+                <span class="category-list-count">6</span>
             </li>
             
             <li class="category-list-item">
                 <a class="category-list-link" href="https://blog.jxtsai.info/tags/security">
                     security
                 </a>
-                <span class="category-list-count">1</span>
+                <span class="category-list-count">2</span>
             </li>
             
             <li class="category-list-item">
                 <a class="category-list-link" href="https://blog.jxtsai.info/tags/surveillance">
                     surveillance
                 </a>
-                <span class="category-list-count">2</span>
+                <span class="category-list-count">3</span>
             </li>
             
             <li class="category-list-item">
@@ -1976,6 +2128,7 @@ MathJax.Hub.Config({
   });
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 
 </body>
 </html>
