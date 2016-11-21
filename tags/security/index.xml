@@ -5,7 +5,7 @@
     <link>https://blog.jxtsai.info/tags/security/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://blog.jxtsai.info/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
@@ -78,7 +78,7 @@
 
 &lt;h4 id=&#34;線上聊天室&#34;&gt;線上聊天室&lt;/h4&gt;
 
-&lt;p&gt;現在反而覺得20年前就出現的IRC線上聊天協議已差不多已夠我使用，有時間長掛在某聊天室中，有某種回到小時候在客廳巷口廟埕聽大人或三姑六婆聊天下大事與八卦之感。如果要花俏一點的網頁版，不妨試試&lt;a href=&#34;http://self.jxtsai.info/2016/09/2-riot.html&#34;&gt;riot.im&lt;/a&gt;,另一款分散型的開源聊天工具。之前也寫過slack替代開源工具&lt;a href=&#34;http://self.jxtsai.info/2016/08/mattermost.html&#34;&gt;mattermost&lt;/a&gt;, &lt;a href=&#34;http://self.jxtsai.info/2016/08/rocketchat.html&#34;&gt;rocket.cafe&lt;/a&gt;, 或是與riot.im 係出同門的matrix(又稱&lt;a href=&#34;http://self.jxtsai.info/2016/09/3-synapse.html&#34;&gt;synpase&lt;/a&gt;),這些都可作為「極度」重視隱私與資料自主控制者而又得須要協同工具平台聊天環境者自行架設其服務。&lt;/p&gt;
+&lt;p&gt;現在反而覺得20年前就出現的IRC線上聊天協議已差不多已夠我使用，長時間掛在某聊天室中，偶有某種回到小時候在客廳巷口廟埕聽大人或三姑六婆聊天下大事與八卦之感。如果要花俏一點的網頁版，不妨試試&lt;a href=&#34;http://self.jxtsai.info/2016/09/2-riot.html&#34;&gt;riot.im&lt;/a&gt;,另一款分散型的開源聊天工具。之前也寫過slack替代開源工具&lt;a href=&#34;http://self.jxtsai.info/2016/08/mattermost.html&#34;&gt;mattermost&lt;/a&gt;, &lt;a href=&#34;http://self.jxtsai.info/2016/08/rocketchat.html&#34;&gt;rocket.cafe&lt;/a&gt;, 或是與riot.im 係出同門的matrix(又稱&lt;a href=&#34;http://self.jxtsai.info/2016/09/3-synapse.html&#34;&gt;synpase&lt;/a&gt;),這些都可作為「極度」重視隱私與資料自主控制者而又得須要協同工具平台聊天環境者自行架設其服務。&lt;/p&gt;
 
 &lt;h4 id=&#34;雲端儲存空間&#34;&gt;雲端儲存空間&lt;/h4&gt;
 
