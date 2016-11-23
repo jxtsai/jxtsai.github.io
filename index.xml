@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Mon, 21 Nov 2016 19:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2016 11:14:00 +0000</lastBuildDate>
     <atom:link href="https://blog.jxtsai.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NGO 申請網域名之必要</title>
+      <link>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</link>
+      <pubDate>Wed, 23 Nov 2016 11:14:00 +0000</pubDate>
+      
+      <guid>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</guid>
+      <description>&lt;p&gt;先寫了一篇NGO在數位網路年代最好要有一個專屬代表單位的網域名介紹文章：&lt;a href=&#34;https://medium.com/@NGOnewsTW/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.vvs1xd2gz&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;接下來打算陸續寫：子網域設定轉址教學、電子報發送、social media 使用政策、另類辦公室生產力工具、專案管理軟體、NPO free webinar
+等內容，希望先能夠固定一週至少有一篇文章發表～～&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>twngo.xyz 上線</title>
