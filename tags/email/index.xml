@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blog.jxtsai.info/tags/digital-tools/index.xml</link>
+    <link>https://blog.jxtsai.info/tags/email/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blog.jxtsai.info/tags/digital-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.jxtsai.info/tags/email/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>小組織可免費使用的工作型郵件</title>
@@ -26,38 +26,6 @@
 &lt;p&gt;最後還是要不斷重覆的叮寧：這裏談的電子郵件及其服務，包括我們長期以來依賴與使用的，都是以「明文」方式（未予加密）地傳送與儲放在郵件伺服器上（儘管網路服務商宣稱傳送過程有加密或伺服器有加密，但那些技術都不是對訊息本身的加密），如果通訊被攔截或伺服器被駭，信件內容當然會被第三者看光光。這也是為什麼有些人權組織，包括重視言論自由與隱私保護的專家，都強調最好使用「端」對「端」加密通訊（end to end encryption），即在寄件端將郵件／檔案內容先經過加密處理而非以明文傳送，再由收件者以其密鑰解碼。這樣即使訊息中途被攔截或存放的伺服器被駭，若沒有密鑰解碼，要讀取其內容就得花不少折騰的工夫（意思是：密文並不是百分百絕對無法被破解，風險永遠存在）。&lt;/p&gt;
 
 &lt;!--more--&gt;</description>
-    </item>
-    
-    <item>
-      <title>NGO 申請網域名之必要</title>
-      <link>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</link>
-      <pubDate>Wed, 23 Nov 2016 11:14:00 +0000</pubDate>
-      
-      <guid>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</guid>
-      <description>&lt;p&gt;先寫了一篇NGO在數位網路年代最好要有一個專屬代表單位的網域名介紹文章：&lt;a href=&#34;https://medium.twngo.xyz/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.g8869esvs&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;接下來打算陸續寫：子網域設定轉址教學、電子報發送、social media 使用政策、另類辦公室生產力工具、專案管理軟體、NPO free webinar
-等內容，希望先能夠固定一週至少有一篇文章發表～～&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>twngo.xyz 上線</title>
-      <link>https://blog.jxtsai.info/2016/11/21/twngo-xyz</link>
-      <pubDate>Mon, 21 Nov 2016 19:14:00 +0000</pubDate>
-      
-      <guid>https://blog.jxtsai.info/2016/11/21/twngo-xyz</guid>
-      <description>&lt;p&gt;其實一開始只是被&lt;a href=&#34;https://gandi.net&#34;&gt;gandi.net&lt;/a&gt;正在特價促銷某些頂級網域名稱所打動，想隨便買個便宜的TLD來玩個一年看看。&lt;/p&gt;
-
-&lt;p&gt;
-後來不知怎麼地動念想說，既然要另買一個網域名，不如想一個較具「公共性」而非私人化的網域名稱。之前曾經倣效@GovNewsTw開了一個專門用來追踪轉推台灣倡議型社運團體的推𠞕特帳號，所以就草率地決定，取名為&lt;a href=&#34;https://twngo.xyz&#34;&gt;twngo.xyz&lt;/a&gt;。而選擇xyz的理由只是單純地從最便宜的價格考量。&lt;/p&gt;
-
-&lt;p&gt;我個人對臉書的成見與詬病由來已久，顯然這番理由也沒人想聽，那就是我自己的問題吧。最近看到這篇文章：&lt;a href=&#34;https://www.opendemocracy.net/5050/zara-rahman/internet-politics-feminist-guide-navigating-online-power&#34;&gt;Internet politics: a feminist guide to navigating online power&lt;/a&gt;。我不知道台灣（的社運工作者）是否還對&amp;rdquo;alternative&amp;rdquo;有所想像，而自己與其一直冷嘲旁觀，不如把一些另類技巧與實用數位工具整理分享出來，讓財氣人力相對有限的NGO可以在決定相關數位資源時有其它安全、自由的選項。&lt;/p&gt;
-
-&lt;p&gt;最後要說明的是，工具畢竟只是工具，它或許能省時省力省錢，但永遠提醒自己不要把手段變成目的，把人給工具化了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161121-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

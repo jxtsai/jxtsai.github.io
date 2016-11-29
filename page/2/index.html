@@ -28,7 +28,7 @@
 <meta property="og:url" content="https://blog.jxtsai.info/" />
 
 
-<meta property="og:updated_time" content="2016-10-26T14:14:00&#43;00:00"/>
+<meta property="og:updated_time" content="2016-10-28T11:14:00&#43;00:00"/>
 
 
 
@@ -174,12 +174,12 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        12
+        13
         <span>Posts</span>
       </div>
       <div class="article-info-block">
         
-          15
+          17
         
         <span>
             Tags
@@ -263,6 +263,154 @@
 
     <section id="main">
     
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://blog.jxtsai.info/2016/10/28/file-encrypt">
+    <h1 class="article-title" itemprop="name">
+        檔案或目錄加密軟體
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2016-10-28 11:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-10-28</time>
+            &middot;
+            46
+            words
+            &middot;
+            1
+            minute read
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/categories/security">security</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/tags/encryption">encryption</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://blog.jxtsai.info/tags/privacy">privacy</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
+不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料<strong>有些</strong>需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&mdash;cryptomator &amp; CryFS，本文為簡單的使用介紹。
+
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://blog.jxtsai.info/2016/10/28/file-encrypt">
+                        Read more
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://blog.jxtsai.info/2016/10/28/file-encrypt" data-id="84ce131680c77f450ba0a0eaa1fc37af" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+    <a href="https://blog.jxtsai.info/2016/10/28/file-encrypt/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
     
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
@@ -592,6 +740,31 @@
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://blog.jxtsai.info/2016/11/29/email-for-work" class="thumbnail">
+                    
+                        <span class="thumbnail-image thumbnail-none"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="https://blog.jxtsai.info/categories/internet">
+                        internet
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://blog.jxtsai.info/2016/11/29/email-for-work" class="title">小組織可免費使用的工作型郵件</a></p>
+                    <p class="item-date">
+                        <time datetime="2016-11-29 11:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-11-29</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://blog.jxtsai.info/2016/11/23/ngo-domain-name" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -690,31 +863,6 @@
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://blog.jxtsai.info/2016/11/03/corporate-surveillance" class="thumbnail">
-                    
-                        <span class="thumbnail-image thumbnail-none"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        <a class="article-category-link" href="https://blog.jxtsai.info/categories/human-rights">
-                        human rights
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://blog.jxtsai.info/2016/11/03/corporate-surveillance" class="title">Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy</a></p>
-                    <p class="item-date">
-                        <time datetime="2016-11-03 12:14:00 &#43;0000 &#43;0000" itemprop="datePublished">2016-11-03</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -746,7 +894,7 @@
                 <a class="category-list-link" href="https://blog.jxtsai.info/categories/internet">
                     internet
                 </a>
-                <span class="category-list-count">4</span>
+                <span class="category-list-count">5</span>
             </li>
             
             <li class="category-list-item">
@@ -778,6 +926,8 @@
         
         <a href="https://blog.jxtsai.info/tags/documentation" style="font-size: 12px;">documentation</a>
         
+        <a href="https://blog.jxtsai.info/tags/email" style="font-size: 12px;">email</a>
+        
         <a href="https://blog.jxtsai.info/tags/encryption" style="font-size: 12px;">encryption</a>
         
         <a href="https://blog.jxtsai.info/tags/git" style="font-size: 12px;">git</a>
@@ -801,6 +951,8 @@
         <a href="https://blog.jxtsai.info/tags/surveillance" style="font-size: 12px;">surveillance</a>
         
         <a href="https://blog.jxtsai.info/tags/toolkit" style="font-size: 12px;">toolkit</a>
+        
+        <a href="https://blog.jxtsai.info/tags/zoho" style="font-size: 12px;">zoho</a>
         
     </div>
 </div>
