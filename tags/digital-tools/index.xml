@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blig.jxtsai.info/tags/digital-tools/index.xml</link>
+    <link>https://blog.jxtsai.info/tags/digital-tools/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blig.jxtsai.info/tags/digital-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.jxtsai.info/tags/digital-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>小組織可免費使用的工作型郵件</title>
-      <link>https://blig.jxtsai.info/2016/11/29/email-for-work</link>
+      <link>https://blog.jxtsai.info/2016/11/29/email-for-work</link>
       <pubDate>Tue, 29 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/29/email-for-work</guid>
+      <guid>https://blog.jxtsai.info/2016/11/29/email-for-work</guid>
       <description>&lt;p&gt;繼twngo.xyz啟用後，寫了第一篇談NGO為何需要申請一個專屬代表單位的網域名：&lt;a href=&#34;https://medium.twngo.xyz/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.g8869esvs&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;，接下來第二篇介紹的是，如何透過這組網域名來設定&lt;a href=&#34;https://medium.twngo.xyz/ngo-%E5%B7%A5%E4%BD%9C%E7%94%A8-%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%A8%AD%E5%AE%9A-91a29225f3f6#.wvhfbedq4&#34;&gt;組織或單位的工作用電子郵件&lt;/a&gt;。
 &lt;/p&gt;
 
@@ -28,10 +28,10 @@
     
     <item>
       <title>NGO 申請網域名之必要</title>
-      <link>https://blig.jxtsai.info/2016/11/23/ngo-domain-name</link>
+      <link>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</link>
       <pubDate>Wed, 23 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/23/ngo-domain-name</guid>
+      <guid>https://blog.jxtsai.info/2016/11/23/ngo-domain-name</guid>
       <description>&lt;p&gt;先寫了一篇NGO在數位網路年代最好要有一個專屬代表單位的網域名介紹文章：&lt;a href=&#34;https://medium.twngo.xyz/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.g8869esvs&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;接下來打算陸續寫：子網域設定轉址教學、電子報發送、social media 使用政策、另類辦公室生產力工具、專案管理軟體、NPO free webinar
@@ -42,10 +42,10 @@
     
     <item>
       <title>twngo.xyz 上線</title>
-      <link>https://blig.jxtsai.info/2016/11/21/twngo-xyz</link>
+      <link>https://blog.jxtsai.info/2016/11/21/twngo-xyz</link>
       <pubDate>Mon, 21 Nov 2016 19:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/21/twngo-xyz</guid>
+      <guid>https://blog.jxtsai.info/2016/11/21/twngo-xyz</guid>
       <description>&lt;p&gt;其實一開始只是被&lt;a href=&#34;https://gandi.net&#34;&gt;gandi.net&lt;/a&gt;正在特價促銷某些頂級網域名稱所打動，想隨便買個便宜的TLD來玩個一年看看。&lt;/p&gt;
 
 &lt;p&gt;
@@ -55,7 +55,7 @@
 
 &lt;p&gt;最後要說明的是，工具畢竟只是工具，它或許能省時省力省錢，但永遠提醒自己不要把手段變成目的，把人給工具化了。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161121-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161121-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blig.jxtsai.info/tags/privacy/index.xml</link>
+    <link>https://blog.jxtsai.info/tags/privacy/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blig.jxtsai.info/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.jxtsai.info/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>台灣隱私現況整理(進行中)</title>
-      <link>https://blig.jxtsai.info/2016/12/05/privacy-in-taiwan</link>
+      <link>https://blog.jxtsai.info/2016/12/05/privacy-in-taiwan</link>
       <pubDate>Mon, 05 Dec 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/12/05/privacy-in-taiwan</guid>
+      <guid>https://blog.jxtsai.info/2016/12/05/privacy-in-taiwan</guid>
       <description>&lt;p&gt;一開始看到&lt;a href=&#34;https://privacyinternational.org/reports/state-of-privacy&#34;&gt;Privacy Internatinal 弄的這個各國隱私權狀況專案&lt;/a&gt;時，我第一個直覺的反應是：它蠻適合用來讓關心人權報告撰寫的民間團體依照這個架構來梳理一下自己國家在公政公約第十七條隱私狀況的法令架構與落實狀況。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161205-1.png&#34; alt=&#34;alternative tweet&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161205-1.png&#34; alt=&#34;alternative tweet&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -54,10 +54,10 @@
     
     <item>
       <title>（安全）網路使用工具清單-桌機筆電篇</title>
-      <link>https://blig.jxtsai.info/2016/11/15/digital-security-tools</link>
+      <link>https://blog.jxtsai.info/2016/11/15/digital-security-tools</link>
       <pubDate>Tue, 15 Nov 2016 17:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/15/digital-security-tools</guid>
+      <guid>https://blog.jxtsai.info/2016/11/15/digital-security-tools</guid>
       <description>&lt;p&gt;11月9日過後的幾天裏，我的推特圈上最充斥的是：一些美國人權組織發表募款訊息號召更多會員加入以準備對抗2017年１月之後所將面臨的長期抵抗。除此之外，不少教新聞記者、人權工作者以及內部吹哨者（whistleblower）如何加強自保以及強化通訊私密數位安全交戰手冊等，也再一次被拿出來推廣。&lt;/p&gt;
 
 &lt;p&gt;看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）𦃝網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
@@ -75,7 +75,7 @@
 &lt;h4 id=&#34;瀏覧器&#34;&gt;瀏覧器&lt;/h4&gt;
 
 &lt;p&gt;還是習慣firefox囉，尤其要補充上一些安全外掛。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;但如果要造訪darknet,那就得用tor瀏覧器（我當然是沒那麼黑地要經常造訪什麼深網、暗網）。
 另外也推薦另一款跨平台的開源&lt;a href=&#34;https://brave.com/&#34;&gt;瀏覧器brave&lt;/a&gt;，我會安裝它的原因是，其團隊看起來很酷，CEO是mozilla的共同創辦人，而其工程師裏也有不少人參與了TOR開發社群。&lt;/p&gt;
@@ -87,8 +87,8 @@
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tutanona.com&#34;&gt;tutanota mail&lt;/a&gt;主機放在德國,免費版提供1G空間，付費版年費是12歐元,並可自定網域名。
 以上這兩個免費的內鍵加密功能電郵服務，所以在你撰寫郵件時，會詢問是否要對該郵件進行加密處理，而收件人則要另外透過其它管道知道解密的密碼才能順利開啟信件內容。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;riseup.net #我沒使用，不過好像蠻多人權組織都蠻推薦的，其服務為免費，但專門保留提供給（數位安全）高風險工作者，要用人工申請方式取得帳號。&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -139,10 +139,10 @@
     
     <item>
       <title>互聯網：網路個人資料可視狀況總覧</title>
-      <link>https://blig.jxtsai.info/2016/11/09/5wofinformationonline</link>
+      <link>https://blog.jxtsai.info/2016/11/09/5wofinformationonline</link>
       <pubDate>Wed, 09 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/09/5wofinformationonline</guid>
+      <guid>https://blog.jxtsai.info/2016/11/09/5wofinformationonline</guid>
       <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看𠟜到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
 &lt;img src=&#34;https://ek8whxe.cloudimg.io/s/cdn/x/https://www.gitbook.com/content/book/towcenter/understand-your-internet-the-five-w-s-of-informat/TheInternetADataVisibilityOverview-low.jpg&#34; alt=&#34;image Five W&#39;s of Information Online&#34; /&gt;
 &lt;/p&gt;
@@ -162,10 +162,10 @@
     
     <item>
       <title>Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy</title>
-      <link>https://blig.jxtsai.info/2016/11/03/corporate-surveillance</link>
+      <link>https://blog.jxtsai.info/2016/11/03/corporate-surveillance</link>
       <pubDate>Thu, 03 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/03/corporate-surveillance</guid>
+      <guid>https://blog.jxtsai.info/2016/11/03/corporate-surveillance</guid>
       <description>&lt;p&gt;十月中旬美國有一則堪稱「熱門」訊息（華文端傳媒也作了報導），美國民權組織&lt;a href=&#34;https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target&#34;&gt;ACLU北加州分會&lt;/a&gt;公開挑戰質疑某家提供「社交網站即時監控服務」的公司，這也讓三大社群網站facebook, twitter. instagram宣佈不再將用戶資料賣給這家Geofeedia。&lt;/p&gt;
 
 &lt;p&gt;昨天又看到英國有一家保險公司&lt;a href=&#34;http://www.bbc.com/news/business-37847647&#34;&gt;Admiral打算透過讓摩托車主是否願意提供其臉書資料&lt;/a&gt;（當然初期可能會有折扣優惠來刺激用戶同意），來讓公司從保戶在社交網站上的行為模式來決定其保費高低。雖然這樣的打算因為臉書自己跳出來「聲稱」其非常重視用戶隱私而不會同意保險公司推行。&lt;/p&gt;
@@ -181,7 +181,7 @@
 
 &lt;p&gt;如果你也有和我一樣的疑惑，建議你不能錯過這本「Network of Control：Corporate Surveillance, Digital Tracking, Big Data &amp;amp; Privacy」。原書以德文寫成，不過現已有英文版，而且作者還大方地把全文放上網路免費下載。原書下戴處：&lt;a href=&#34;http://crackedlabs.org/en/networksofcontrol&#34;&gt;http://crackedlabs.org/en/networksofcontrol&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;作者以上述類似的問題意識出發，試圖透過大量的文獻梳理來回答下列：&lt;/p&gt;
 
@@ -207,10 +207,10 @@
     
     <item>
       <title>兩公約第二次國際審查初步觀察</title>
-      <link>https://blig.jxtsai.info/2016/11/01/iccpr-review</link>
+      <link>https://blog.jxtsai.info/2016/11/01/iccpr-review</link>
       <pubDate>Tue, 01 Nov 2016 09:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/01/iccpr-review</guid>
+      <guid>https://blog.jxtsai.info/2016/11/01/iccpr-review</guid>
       <description>&lt;p&gt;前幾天看到法務部人權大步走網站上公佈了明年一月下旬，第二次兩公約國家人權報告審查的&lt;a href=&#34;http://www.humanrights.moj.gov.tw/ct.asp?xItem=449757&amp;amp;ctNode=44633&amp;amp;mp=200&#34;&gt;公政公約問題清單&lt;/a&gt;，有些個人的想法，姑且把它先寫下來。雖然自己離開這個議題和圈子已有一段時間與距離，這些想法或許太過主觀，但還是不吐不快。
 &lt;/p&gt;
 
@@ -269,28 +269,28 @@ National Security Agency surveillance&lt;/p&gt;
     
     <item>
       <title>大數據下的「我」？</title>
-      <link>https://blig.jxtsai.info/2016/10/29/aj-bigdata</link>
+      <link>https://blog.jxtsai.info/2016/10/29/aj-bigdata</link>
       <pubDate>Sat, 29 Oct 2016 18:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/10/29/aj-bigdata</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <guid>https://blog.jxtsai.info/2016/10/29/aj-bigdata</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;
 昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>檔案或目錄加密軟體</title>
-      <link>https://blig.jxtsai.info/2016/10/28/file-encrypt</link>
+      <link>https://blog.jxtsai.info/2016/10/28/file-encrypt</link>
       <pubDate>Fri, 28 Oct 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/10/28/file-encrypt</guid>
+      <guid>https://blog.jxtsai.info/2016/10/28/file-encrypt</guid>
       <description>&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
 不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。
 &lt;/p&gt;
@@ -298,24 +298,24 @@ National Security Agency surveillance&lt;/p&gt;
 &lt;h3 id=&#34;cryptomator&#34;&gt;cryptomator&lt;/h3&gt;
 
 &lt;p&gt;這款軟體是從調查記者的安全工具指南上看到的推薦。先從&lt;a href=&#34;https://cryptomator.org/&#34;&gt;其官網&lt;/a&gt;下載符合自己電腦作業系統的安全軟體，以我為例(ubuntu 14.04 64)，即是下載Version 1.2.0 • For Debian-based OS版本，稍後透過ubuntu software center 安裝（安裝後居然要佔200多mb）
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;官網的使用示範影片（以window作業系統為例）&lt;a href=&#34;https://www.youtube.com/watch?v=zhDg2qnLgfo&#34;&gt;https://www.youtube.com/watch?v=zhDg2qnLgfo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;啟動後的圖形介面
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;按著其操作指南，使用者得先在硬碟（或是本地端與雲端儲存同步的專用資料夾底下）建立一個「保險庫」（vault）,用它來儲放欲加密的檔案。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;先試試把一些檔案搬進去這個保險庫，重新啟動cryptomator，好讓它可以開始進行加密程序。目前看起來是有在進行一個加密的動作。照理說，原來拖入在此保險庫的未加密檔案，在完成加密後，理應把它刪除才是，所以我就徑行了刪除。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;現在試著操作保險庫中加密檔案解密，當然解密前一定會詢問當初給這個vault設的主密碼，正確輸入後才會開始進行解密。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;在原作業的電腦上可以在輸入主密碼後，解密保險庫中的檔案，正常地讀取其內容。但是當我在另一台電腦上實驗能否解密dropbox保險庫中的加密檔案，卻傳回了失敗無法掛載該磁區的訊息。也不知要去哪裏查log檔案找出錯誤。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;cryfs&#34;&gt;CryFS&lt;/h3&gt;
 
@@ -323,30 +323,30 @@ National Security Agency surveillance&lt;/p&gt;
 目前有一款被推薦的CryFS,主要以linux系統為運行平台。反正這些需要加密的資料也用不著與其它人共用分享，故「毅然」來試用看看。&lt;/p&gt;
 
 &lt;p&gt;同樣也是在&lt;a href=&#34;https://www.cryfs.org/tutorial&#34;&gt;其官網&lt;/a&gt;下載，再透過ubuntu software center 安裝（安裝後只佔2mb左右，大勝）
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;目前CryFS的操作主要以純文字介面為主，透過在cli環境下指令來建置欲加密檔案的存放目錄以及解密目錄。後者下指令建立後,cryfs會將其弄成一個「虛擬的目錄」，換言之，被搬移到存放目錄的檔案或資料夾在此會自動被加密，只能透過解密目錄的開啟來察看其內容。但因為它又是一個「虛擬目錄」，故即便電腦落入它人手中，也無法隨便開啟，得先要啟動cryfs還原掛載該虛擬目錄，再輸入主密碼來讀取其內容。
 解密還原檔案前，先會要求輸入正確的主密碼
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;它也支援雲端儲存加密，作法其實是先在本地端雲端同步備分的目錄下建立一個欲存放加密資料的目錄夾與解密夾。
 我自己先試著在第一台電腦上作了一個dropbox的加密資料夾，並放上經過CryFS加密後的檔案。所以一般人在這個加密的資料夾看到的檔案內容長得這個樣子：
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-9.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-9.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;接下來我試著在第二台電腦上來試試能否解密還原dropbox加密資料夾當中的原始內容，按其教學指南所示，我先在cli環境下輸入：
 &lt;code&gt;$acryfs Dropbox/encryt moundir&lt;/code&gt;
 #encryp是我在dropbox存放加密文件的資料夾，而moundir則是本地端欲開啟該文件的解密資料夾。
 輸入完上述指令後，系統因為找不到moundir這個目錄，故會問我是否要在本地端建立一個mountdir目錄，然後接下來詢問我encryt密碼。我先故意輸入錯誤密碼，結果系統回覆說因密碼錯誤無法載入設定檔也無法解密encrypt目錄下的加密文件。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;第二次我方輸入正常密碼，這時就成功地掛載了本地端的解密目錄。當然按CryFS的設計，它在第二台電腦中也是一個「虛擬出來的」目錄。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;而要卸除mountdir這個虛擬目錄的掛載，只要輸入：
 &lt;code&gt;$fusermount -u mountdir&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;則這個目錄就會自動從第二台電腦上的掛載消失，雖然還是可以看到該目錄，但點擊後其內容空無一物。
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;</description>
     </item>

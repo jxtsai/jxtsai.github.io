@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blig.jxtsai.info/categories/human-rights/index.xml</link>
+    <link>https://blog.jxtsai.info/categories/human-rights/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blig.jxtsai.info/categories/human-rights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.jxtsai.info/categories/human-rights/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>台灣隱私現況整理(進行中)</title>
-      <link>https://blig.jxtsai.info/2016/12/05/privacy-in-taiwan</link>
+      <link>https://blog.jxtsai.info/2016/12/05/privacy-in-taiwan</link>
       <pubDate>Mon, 05 Dec 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/12/05/privacy-in-taiwan</guid>
+      <guid>https://blog.jxtsai.info/2016/12/05/privacy-in-taiwan</guid>
       <description>&lt;p&gt;一開始看到&lt;a href=&#34;https://privacyinternational.org/reports/state-of-privacy&#34;&gt;Privacy Internatinal 弄的這個各國隱私權狀況專案&lt;/a&gt;時，我第一個直覺的反應是：它蠻適合用來讓關心人權報告撰寫的民間團體依照這個架構來梳理一下自己國家在公政公約第十七條隱私狀況的法令架構與落實狀況。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161205-1.png&#34; alt=&#34;alternative tweet&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161205-1.png&#34; alt=&#34;alternative tweet&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -54,10 +54,10 @@
     
     <item>
       <title>互聯網：網路個人資料可視狀況總覧</title>
-      <link>https://blig.jxtsai.info/2016/11/09/5wofinformationonline</link>
+      <link>https://blog.jxtsai.info/2016/11/09/5wofinformationonline</link>
       <pubDate>Wed, 09 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/09/5wofinformationonline</guid>
+      <guid>https://blog.jxtsai.info/2016/11/09/5wofinformationonline</guid>
       <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看𠟜到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
 &lt;img src=&#34;https://ek8whxe.cloudimg.io/s/cdn/x/https://www.gitbook.com/content/book/towcenter/understand-your-internet-the-five-w-s-of-informat/TheInternetADataVisibilityOverview-low.jpg&#34; alt=&#34;image Five W&#39;s of Information Online&#34; /&gt;
 &lt;/p&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy</title>
-      <link>https://blig.jxtsai.info/2016/11/03/corporate-surveillance</link>
+      <link>https://blog.jxtsai.info/2016/11/03/corporate-surveillance</link>
       <pubDate>Thu, 03 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/03/corporate-surveillance</guid>
+      <guid>https://blog.jxtsai.info/2016/11/03/corporate-surveillance</guid>
       <description>&lt;p&gt;十月中旬美國有一則堪稱「熱門」訊息（華文端傳媒也作了報導），美國民權組織&lt;a href=&#34;https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target&#34;&gt;ACLU北加州分會&lt;/a&gt;公開挑戰質疑某家提供「社交網站即時監控服務」的公司，這也讓三大社群網站facebook, twitter. instagram宣佈不再將用戶資料賣給這家Geofeedia。&lt;/p&gt;
 
 &lt;p&gt;昨天又看到英國有一家保險公司&lt;a href=&#34;http://www.bbc.com/news/business-37847647&#34;&gt;Admiral打算透過讓摩托車主是否願意提供其臉書資料&lt;/a&gt;（當然初期可能會有折扣優惠來刺激用戶同意），來讓公司從保戶在社交網站上的行為模式來決定其保費高低。雖然這樣的打算因為臉書自己跳出來「聲稱」其非常重視用戶隱私而不會同意保險公司推行。&lt;/p&gt;
@@ -96,7 +96,7 @@
 
 &lt;p&gt;如果你也有和我一樣的疑惑，建議你不能錯過這本「Network of Control：Corporate Surveillance, Digital Tracking, Big Data &amp;amp; Privacy」。原書以德文寫成，不過現已有英文版，而且作者還大方地把全文放上網路免費下載。原書下戴處：&lt;a href=&#34;http://crackedlabs.org/en/networksofcontrol&#34;&gt;http://crackedlabs.org/en/networksofcontrol&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;作者以上述類似的問題意識出發，試圖透過大量的文獻梳理來回答下列：&lt;/p&gt;
 
@@ -122,17 +122,17 @@
     
     <item>
       <title>人權侵害記錄工具箱</title>
-      <link>https://blig.jxtsai.info/2016/11/02/hr-documentation-toolkit</link>
+      <link>https://blog.jxtsai.info/2016/11/02/hr-documentation-toolkit</link>
       <pubDate>Wed, 02 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/02/hr-documentation-toolkit</guid>
+      <guid>https://blog.jxtsai.info/2016/11/02/hr-documentation-toolkit</guid>
       <description>&lt;p&gt;﻿
 上個月曾稍認真地讀了這本由Public International Law and Policy Group所編寫的工具書「的「Handbook on Civil Society Documentation of Serious Human Rights Violations」，並稍整理了該&lt;a href=&#34;http://self.jxtsai.info/2016/10/handbook-on-civil-society-documentation.html&#34;&gt;手冊的簡單中文摘要&lt;/a&gt;。&lt;/p&gt;
 
 &lt;p&gt;最近又看到他們推出一個線上網站&lt;a href=&#34;http://www.hrdtoolkit.org/&#34;&gt;HRD Toolkit&lt;/a&gt;，想說還是稍微用一篇部落格文章來記錄了這個網站到底有什麼資源內容，以免很快地忘記了有這些工具、方法與材料可以了解與運用。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161102-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161102-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;從首頁的色塊與主選單，立即可知道在這個網站的人權侵害記錄文件工具箱有四大子題：（人權侵害記錄）的調查執行結果(survey results)、運用工具資源庫整理(resource library)、領域中的專家或團體名錄(experts)、術語用辭定義表(terminology)。下面再對稍進一步介紹&lt;/p&gt;
 
@@ -155,10 +155,10 @@
     
     <item>
       <title>兩公約第二次國際審查初步觀察</title>
-      <link>https://blig.jxtsai.info/2016/11/01/iccpr-review</link>
+      <link>https://blog.jxtsai.info/2016/11/01/iccpr-review</link>
       <pubDate>Tue, 01 Nov 2016 09:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/11/01/iccpr-review</guid>
+      <guid>https://blog.jxtsai.info/2016/11/01/iccpr-review</guid>
       <description>&lt;p&gt;前幾天看到法務部人權大步走網站上公佈了明年一月下旬，第二次兩公約國家人權報告審查的&lt;a href=&#34;http://www.humanrights.moj.gov.tw/ct.asp?xItem=449757&amp;amp;ctNode=44633&amp;amp;mp=200&#34;&gt;公政公約問題清單&lt;/a&gt;，有些個人的想法，姑且把它先寫下來。雖然自己離開這個議題和圈子已有一段時間與距離，這些想法或許太過主觀，但還是不吐不快。
 &lt;/p&gt;
 
@@ -217,32 +217,32 @@ National Security Agency surveillance&lt;/p&gt;
     
     <item>
       <title>大數據下的「我」？</title>
-      <link>https://blig.jxtsai.info/2016/10/29/aj-bigdata</link>
+      <link>https://blog.jxtsai.info/2016/10/29/aj-bigdata</link>
       <pubDate>Sat, 29 Oct 2016 18:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/10/29/aj-bigdata</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <guid>https://blog.jxtsai.info/2016/10/29/aj-bigdata</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;
 昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blig.jxtsai.info/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>another hexo site </title>
-      <link>https://blig.jxtsai.info/2016/10/26/hexo-site</link>
+      <link>https://blog.jxtsai.info/2016/10/26/hexo-site</link>
       <pubDate>Wed, 26 Oct 2016 14:14:00 +0000</pubDate>
       
-      <guid>https://blig.jxtsai.info/2016/10/26/hexo-site</guid>
+      <guid>https://blog.jxtsai.info/2016/10/26/hexo-site</guid>
       <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：
 
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161026-1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://blig.jxtsai.info/post/20161026-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161026-1.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://blog.jxtsai.info/post/20161026-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;這個簡單網站的實質內容取材與方向是：&lt;/em&gt;
 先把相關初步資料整理在&lt;a href=&#34;https://unote.jxtsai.info&#34;&gt;這裏（https://unote.jxtsai.info）&lt;/a&gt;
