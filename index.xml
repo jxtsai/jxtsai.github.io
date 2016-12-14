@@ -7,8 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 11:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2016 09:14:00 +0000</lastBuildDate>
     <atom:link href="https://blog.jxtsai.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016全球NGO線上使用調查</title>
+      <link>https://blog.jxtsai.info/2016/12/14/global-ngo-online</link>
+      <pubDate>Wed, 14 Dec 2016 09:14:00 +0000</pubDate>
+      
+      <guid>https://blog.jxtsai.info/2016/12/14/global-ngo-online</guid>
+      <description>&lt;p&gt;NonProfit Tech for Good發佈了&lt;a href=&#34;http://techreport.ngo/2016.html&#34;&gt;2016 Global NGO Online Technology Report&lt;/a&gt;，這份報告整理了2,780個NGOs組織回應其問卷調查，參與者橫跨六大洲133個不同國家，其中有60％的NGO自評是屬於「小而美」的組織規模(這份調查中並無用制式的員工人數或資金經費額度來評比組織大小，而是讓填寫者可自由寫出對自己組織該歸類於大中小三級中哪一類規模。)當然這其中2700𣤱多個所謂的NGO/NPO也有自各的議題關注或倡議焦點，調查中除了揭示今年全球大小NGO/NPO在網站工具與社交媒𦡊𦡊𦡊體使用狀況的統計外，這份報告也稍微分析了一下各NGO捐助者的世代屬性與捐款行為偏好。我個人長期訂閱NonProfit Tech for Good的消息，是覺得其調查結果可作為理解當前𪏈NGO/NPO總體社群狀況的參考，故稍把其內容轉貼過來。&lt;/p&gt;
+
+&lt;p&gt;今年呈現的數據狀況結果是：
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ngo網站內容經營管理&#34;&gt;NGO網站內容經營管理&lt;/h4&gt;
+
+&lt;p&gt;• 92% of NGOs worldwide have a website.
+絕大多數NGO有𡽬自家網站&lt;/p&gt;
+
+&lt;p&gt;• 70% use the .ORG domain. 2% percent　use .NGO. 9% percent use .COM. 2% percent use .NET. 18% use other domains,　predominately country code domains. 針對NGO網域名註冊統計，超過半數以是以.ORG（包含本國國碼者）註冊網域名。&lt;/p&gt;
+
+&lt;p&gt;• 46% regularly publish a blog. 75%　regularly send email updates to donors　and supporters. Small NGOs have an　average of 6,035 subscribers. Medium NGOs have 55,596. Large have 357,714.
+居然不到半數定期更新網站上的訊𠈣息？　意外的是，會定期寄送電子報的居然超過四分之三，且自認為是小型的NGO也平均有6000位電子報訂戶耶。&lt;/p&gt;
+
+&lt;p&gt;• 75% accept online donations. Payment methods accepted include credit cards (82%), PayPal (52%), direct debit (47%),mobile text (6%), and digital wallets (3%).
+線上捐款的使用程度與付𤈔款工具統計&lt;/p&gt;
+
+&lt;h4 id=&#34;ngo的社交媒體使用&#34;&gt;NGO的社交媒體使用&lt;/h4&gt;
+
+&lt;p&gt;• 95% have a Facebook Page. Small NGOs have an average of 5,723 likes. Medium NGOs have 28,337. Large NGOs have 127,930.&lt;/p&gt;
+
+&lt;p&gt;• 83% have a Twitter Profile. Small NGOs have an average of 3,332 followers. Medium NGOs have 13,680. Large NGOs have 66,167.&lt;/p&gt;
+
+&lt;p&gt;• 40% have an Instagram Profile. Small NGOs have an average of 504 followers. Medium NGOs have 2,676. Large NGOs have 10,548.&lt;/p&gt;
+
+&lt;p&gt;• Other social networks used by NGOs worldwide are LinkedIn (52%), YouTube (51%), Google+ (30%), Pinterest (22%), Tumblr (6%), and Snapchat (2%).&lt;/p&gt;
+
+&lt;p&gt;• 32% of NGOs worldwide assign the responsibility of social media management to a communications staff person. 11% have a full-time or part-time social media manager. 15% depend upon volunteers. The remaining 42% assign the responsibility to development, program, administrative, and/or executive staff.&lt;/p&gt;
+
+&lt;p&gt;• 78% agree that social media is effective for online fundraising.
+果然還是臉書制霸&lt;/p&gt;
+
+&lt;h3 id=&#34;近一步看看其中來自亞洲地區ngo的調查結果&#34;&gt;近一步看看其中來自亞洲地區NGO的調查結果&lt;/h3&gt;
+
+&lt;h4 id=&#34;亞洲ngo自家網站內容經營管理&#34;&gt;亞洲NGO自家網站內容經營管理&lt;/h4&gt;
+
+&lt;p&gt;• 79% of NGOs in Asia have a website.&lt;/p&gt;
+
+&lt;p&gt;• 62% use the .ORG domain. 8%　percent use .NGO. 9% percent use　.COM. 4% percent use .NET. 17% use　other domains, predominately country code domains.&lt;/p&gt;
+
+&lt;p&gt;• 44% regularly publish a blog. 72% regularly send email updates to　donors and supporters. Small NGOs　have an average of 2,350 subscribers.　Medium NGOs have 9,080. Large NGOs have 29,806.&lt;/p&gt;
+
+&lt;p&gt;• 50% accept online donations. Payment methods accepted include direct debit(66%), credit cards (59%), PayPal (28%), digital wallets (10%), and mobile text (7%).&lt;/p&gt;
+
+&lt;h4 id=&#34;亞洲ngo的社交媒體使用&#34;&gt;亞洲NGO的社交媒體使用&lt;/h4&gt;
+
+&lt;p&gt;• 92% have a Facebook Page. Small NGOs have an average of 3,446 likes. Medium NGOs have 12,790. Large NGOs have 49,994.&lt;/p&gt;
+
+&lt;p&gt;• 67% have a Twitter Profile. Small NGOs have an average of 1,336 followers. Medium NGOs have 4,341. Large NGOs have 48,668.&lt;/p&gt;
+
+&lt;p&gt;• 25% have an Instagram Profile. Small NGOs have an average of 881 followers.Medium NGOs have 2,855. Large NGOs have 5,481&lt;/p&gt;
+
+&lt;p&gt;• Other social networks used by NGOs in Asia are YouTube (49%), LinkedIn (41%), Google+ (37%), Pinterest (13%), Tumblr (5%), and Snapchat (2%).&lt;/p&gt;
+
+&lt;p&gt;• 26% of NGOs in Asia assign the responsibility of social media management to a communications staff person. 14% have a full-time or part-time social media manager. 17% depend upon volunteers. The remaining 43% assign the responsibility to development, program, administrative, and/or executive staff.&lt;/p&gt;
+
+&lt;p&gt;• 86% agree that social media is effective for online fundraising.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.jxtsai.info/post/20161214-1.png&#34; alt=&#34;2016 Asian NGO Online Technology Report&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;台灣ngo的狀況呢&#34;&gt;台灣NGO的狀況呢？&lt;/h3&gt;
+
+&lt;p&gt;我個人「感覺」台灣的狀況（半年為了弄推特訊息發送，自己單方面做的&lt;a href=&#34;https://github.com/twngo/ngonewstw&#34;&gt;初步𧫣整理&lt;/a&gt;，但資料很殘缺，也不夠全面），如網站使用，電子報發行，線上募款等𧘶數字，應該是和亞洲NGO統計的均質相去不遠。不過似乎在社交媒𦡊𦡊𦡊體網路的應用上，除了臉書外，其它社交網站則差不多是束手就縛完全棄守（或曰待𦁄經營開發的處女地狀態吧）。&lt;/p&gt;
+
+&lt;p&gt;或許有哪個有力的組織或單位，可以做一下台灣本土NGO問卷調查。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>台灣隱私現況整理(進行中)</title>
@@ -545,40 +619,6 @@ National Security Agency surveillance&lt;/p&gt;
 &lt;h5 id=&#34;靜態網頁生成器的精進修練&#34;&gt;靜態網頁生成器的精進修練&lt;/h5&gt;
 
 &lt;p&gt;雖然看似有這麼多各家語言寫成的靜態網頁生成器，可以在彈指之間就架好一個可發佈的網站內容，但是若想調校出與眾不同的模版樣式，就得花時間在摸熟CSS/SASS，一整個就是人生沒有捷徑可以偷懶的感覺啊。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.jxtsai.info/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.jxtsai.info/privacy/</guid>
-      <description>&lt;h1 id=&#34;本站隱私聲明&#34;&gt;本站隱私聲明&lt;/h1&gt;
-
-&lt;p&gt;既然多多少少寫了一點關於數位隱私與個人資料收集的議題，我想自己也得該負責任地說明一下這個網站的隱私權政策。&lt;/p&gt;
-
-&lt;p&gt;日前透過EFF(Electronic Frontier Foundation)開發維護的瀏覧器附加元件privacy badger 才知道部落格底下有幾個自己原本也不知道的其它網站cookies與追踪器，可能會收集瀏覧本站訪客的資料。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/elEjh3b.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;後來我查了一下原始碼，這幾個網站分別是：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;cdnjs.cloudflare.com　hugo 原始碼中用來執行Jquery程式存放空間，也因此被放入了追踪器。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;mathJax.org: hugo 原始碼中為了支援數學式語法，用了這個網站的javascript，連帶也被放入了其cookies&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;fonts.googleapis.com hugo採用了某些網路字型支援，目前依privacy badger的診斷，尚屬健康狀態，並未裝追踪器。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;disquis.com 因為hugo或大多數的靜態網頁生成器本身沒有評論或留言功能，多得靠第三方外掛來補強此不足,所以在單篇文章的讀取頁面上，會發現多出了好幾個disquis.com名下的追踪器或是cookies。其實也一度思考，到底是否還有必要保留留言功能，除了本站瀏覧數本身就少外，會願意留言交流者更是少之又少。不過對我自己而言，若有什麼相關的資訊，透過留言區作補充而不必動更到內文，其實比較方便，所以姑且先保留下來吧。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;另外原本之前一度安裝google analystics ，但實在不想再過度依賴與相信這家公司，所以曾𦀜經試著改用piwik這個開源的網站流量統計分析工具。當時是把它安裝在sandstorm 平台上，但不知哪出了錯，一直沒法追踪到𥢜本站的程式碼數據，所以乾脆就放棄了。讀者如果在單篇文章頁面，則會發現有google analystics，我猜𠮞可能是disquis所放入。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;最後，感謝EFF開發了&lt;a href=&#34;https://www.eff.org/privacybadger&#34;&gt;privacy badger這套工具&lt;/a&gt;, 請多加擅用，若有餘力請出錢支持EFF繼續捍衛數位人權。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.eff.org/sites/all/themes/badger/badger-stroke.png&#34; alt=&#34;privacy badger&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
