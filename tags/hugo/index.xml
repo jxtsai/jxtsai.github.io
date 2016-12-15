@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blog.jxtsai.info/tags/hugo/index.xml</link>
+    <link>/tags/hugo/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blog.jxtsai.info/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>新站啟用</title>
-      <link>https://blog.jxtsai.info/2016/10/24/hugo-site</link>
+      <link>/2016/10/24/hugo-site</link>
       <pubDate>Mon, 24 Oct 2016 11:14:00 +0000</pubDate>
       
-      <guid>https://blog.jxtsai.info/2016/10/24/hugo-site</guid>
+      <guid>/2016/10/24/hugo-site</guid>
       <description>&lt;p&gt;之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;開源靜態網頁生成器&lt;/a&gt;網站，的確是蠻一目了然的實用指南。
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161024-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161024-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;例如之前試過的jekyll就是其中排名第一（以得到星號、觀注度和fork次數計算）的靜態網頁生成器。從這個網站，我才知道之前曾試用的gitbook原來也是一個開源專案，除了提供網頁版的電子書線上編輯與作品發表外，另有客戶端的套件可下載安裝，讓使用者可以在自己的電腦端安裝gitbook-cli後即可以利用自己習慣愛用的純文字編輯器來寫作文本,再將之發佈到網路上。此單機版雖然理論上可以佈署在某個雲端虛擬機器上來運行，但似乎無法如gitbook網頁版支援多人協同編輯工作，不過其優點在於可以自行調校需要的版型與應用外掛功能（原來gitbook志願者開發的外掛已多達近500個！！）
 &lt;code&gt;&lt;/code&gt;&lt;/p&gt;
@@ -36,7 +36,7 @@
 + &lt;a href=&#34;http://wowubuntu.com/markdown/index.html#link&#34;&gt;Markdown 语法说明&lt;/a&gt; (简体中文版)&lt;/p&gt;
 
 &lt;p&gt;雖然任何純文字編輯器都可以用來作md文件的編輯器。我個人最喜愛用的是sublime text，但其中文輸入支援不佳，故在寫中文時我多使用ubuntu內鍵的text editor。最近從這篇文章的介紹:&lt;a href=&#34;http://www.arthurtoday.com/2015/04/6-markdown-editors-for-ubuntu-linux.html&#34;&gt;Ubuntu 六款 Markdown 編輯器快速試用心得&lt;/a&gt;,另外下載了&lt;a href=&#34;http://pad.haroopress.com&#34;&gt;haroopad&lt;/a&gt;使用，其優點在於提供了文件預覧功能，會比單純地在text editor文字編輯器上工作方便地知識打入的語法是否正確呈現。
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161024-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161024-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;如果要使用markdown線上編輯服務，過去我偶而會使用的是hackpad，但個人不太喜歡它被dropbox收購後，其文件閱讀被整合成dropbox paper的樣式，故近日來改採用&lt;a href=&#34;http://hackmd.io&#34;&gt;hackmd.io&lt;/a&gt;的線上文件編輯，可惜它目前的線上協同合作功能暫時還比不上hackpad。&lt;/p&gt;
 

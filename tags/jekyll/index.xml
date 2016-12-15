@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Return to laughter</title>
-    <link>https://blog.jxtsai.info/tags/jekyll/index.xml</link>
+    <link>/tags/jekyll/index.xml</link>
     <description>Recent content on Return to laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="https://blog.jxtsai.info/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>如何更換jekyll 主題</title>
-      <link>https://blog.jxtsai.info/2016/10/31/jekyll-theme</link>
+      <link>/2016/10/31/jekyll-theme</link>
       <pubDate>Mon, 31 Oct 2016 12:09:00 +0000</pubDate>
       
-      <guid>https://blog.jxtsai.info/2016/10/31/jekyll-theme</guid>
+      <guid>/2016/10/31/jekyll-theme</guid>
       <description>&lt;p&gt;幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：&lt;/p&gt;
 
 &lt;ul&gt;
@@ -28,18 +28,18 @@
 &lt;p&gt;先前提假設,已經通過了ruby/gem安裝考驗，成功地在本機電腦端上裝設好了jekyll。故只要在命令列下新建網站專案指令：
 &lt;code&gt;$jekyll new mysite #mysite為新網站專案名稱，可自取&lt;/code&gt;
 電腦即會自動產生一個「mysite」資料夾，其底下有一些必要的檔案與目錄，也就是一個全新的網站。
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;若執行了jekyll 伺服器指令(&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;)後，打開瀏覧器可看到新網站的模樣，此時套用的是jekyll系統預設的主題：minima
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;接下來同樣在文字指令環境下，打入：
 &lt;code&gt;$jekyll new-theme mynewtheme #mynewtheme為自取的主題名稱&lt;/code&gt;
 這時電腦又會自動生成一個「mynewtheme」資料夾，其目錄結構如下：
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;把「mysite」底下的東西全部複製搬移到「mynewtheme」底下，此時在「mynewtheme」的工作目錄下，再打入jekyll 伺服器指令&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;，這時候會看到一個最原始還未加入任何CSS模版設計與圖片的初胚網站。
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;找到自己看中意的jekyll theme，通常只要搜尋關鍵字，就會有許多豐富的網站，例如我google結果的前三名：
 + &lt;a href=&#34;http://themes.jekyllrc.org/&#34;&gt;themes.jekyllrc.org&lt;/a&gt;
@@ -47,10 +47,10 @@
 + &lt;a href=&#34;https://jekyllthemes.io&#34;&gt;jekyllthemes.io&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;挑選好之後，可以透過：手動下載zip檔案，或是git clone 原始碼到本地端的電腦上。例如我挑選了一個： &lt;a href=&#34;http://jekyllthemes.org/themes/Jekyll-Stepbystep/&#34;&gt;Stepbystep主題&lt;/a&gt;，下戴其zip檔解壓後，先稍閱讀一下其安裝指南（readme.md）看看有什麼該注意的事項。接下來我是把「Stepbystep」資料夾內的東西全部複製移動到「mynewtheme」。當前工作目錄在「mynewtheme」，利用bundle exec執行jekyll 伺服器命令，沒遇上什麼阻礙順利地讓它跑起來。
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;這時候打開瀏覧器，輸入jekyll本地預設網址&lt;a href=&#34;http://127.0.0.1:4000&#34;&gt;http://127.0.0.1:4000&lt;/a&gt; ，耶終於順利更換了jekyll 網站主題。原來更換主題看似也不算太難嘛，那到底之前我東搞西補地探索了兩三個星期是在幹什麼啊(╯-_-)╯ ~╩╩
-&lt;img src=&#34;https://blog.jxtsai.info/post/20161031-6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/post/20161031-6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;至於許多細部微調，得要再一一修改_config.yml等檔案。&lt;/p&gt;
 
