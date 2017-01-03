@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Return to laughter</title>
-    <link>/tags/security/index.xml</link>
-    <description>Recent content on Return to laughter</description>
+    <title>Security on backup Site</title>
+    <link>https://jxtsai.github.io/tags/security/index.xml</link>
+    <description>Recent content in Security on backup Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://jxtsai.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>privacytools.io 正體中文版</title>
+      <link>https://jxtsai.github.io/post/privacytools-chinese/</link>
+      <pubDate>Tue, 27 Dec 2016 11:04:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/privacytools-chinese/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/2016-1227-1.png&#34; alt=&#34;privacytools.io&#34; /&gt;
+大約是在今年10月中旬才看到這個網站的資訊（&lt;a href=&#34;https://privacytools.io&#34;&gt;privacytools.io&lt;/a&gt;）。當時自己算是有了一點網路安全的入門知識，也覺得這個網站上收集提供的工具資訊非常有幫助，故花了點時間研究它所推薦的新玩意，並從中挑選試裝了一些軟體工具。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;上週五整理在github上一些資料，才偶而注意到這一兩年來，曾經地把某幾個當下看到的有趣專案fork到自己的資源庫底下。不幸的是，之後就沒有下文&amp;ndash;自己一直無能力和適當方法，來協助這些好的東西可以改善或是讓更多人知道，因而感覺保留著這些資源庫有點可惜和浪費。忽然間橫心想起，privacytools.io這個近期讓我印象深刻又感到受用不少的隱私設定網站應該也有釋出原始資料，但第一次使用時並沒有特別留意。果不其然，privacytools.io 整個網站資料都存放在github.com，且目前已有網友協助完成了西語版和德語版的建置。&lt;/p&gt;
+
+&lt;p&gt;查看了一下原英文網站與專案的內容，只要針對幾個html檔案進行英文的翻譯即可，其它的檔案根本不用動，就能順利製作出相同版型不同語系版本的同門網站，於是我便發（願）狠，fork原始專案，開始一頭栽入了它的正體中文化翻譯。整個進度比我預期的時間還要短，大約是三～二天之內做完了翻譯初稿。也讓它堂而皇之地成為twngo.xyz名一下的第一個正體中文化專案，耶～～。其網址是：&lt;a href=&#34;https://privacytools.twngo.xyz&#34;&gt;https://privacytools.twngo.xyz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;目前&lt;a href=&#34;https://github.com/twngo/privacytools-zh&#34;&gt;正體中文的網頁資源庫&lt;/a&gt;存放在github上面。有許多地方翻得不夠順暢,或是在資訊安全術語及某些專門知識上仍有不夠完備之處，還希望其它關心網路自由與個人隱私自主權的朋友，能一起協助改善此中文化版本。若發現嚴重問題，可透過github的issue回報來反應。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>（安全）網路使用工具清單-桌機筆電篇</title>
-      <link>/2016/11/15/digital-security-tools</link>
+      <link>https://jxtsai.github.io/post/digital-security-tools/</link>
       <pubDate>Tue, 15 Nov 2016 17:14:00 +0000</pubDate>
       
-      <guid>/2016/11/15/digital-security-tools</guid>
+      <guid>https://jxtsai.github.io/post/digital-security-tools/</guid>
       <description>&lt;p&gt;11月9日過後的幾天裏，我的推特圈上最充斥的是：一些美國人權組織發表募款訊息號召更多會員加入以準備對抗2017年１月之後所將面臨的長期抵抗。除此之外，不少教新聞記者、人權工作者以及內部吹哨者（whistleblower）如何加強自保以及強化通訊私密數位安全交戰手冊等，也再一次被拿出來推廣。&lt;/p&gt;
 
-&lt;p&gt;看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）𦃝網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
+&lt;p&gt;看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
 &lt;/p&gt;
 
 &lt;h4 id=&#34;os作業系統&#34;&gt;OS作業系統&lt;/h4&gt;
@@ -32,7 +49,7 @@
 &lt;h4 id=&#34;瀏覧器&#34;&gt;瀏覧器&lt;/h4&gt;
 
 &lt;p&gt;還是習慣firefox囉，尤其要補充上一些安全外掛。
-&lt;img src=&#34;/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;但如果要造訪darknet,那就得用tor瀏覧器（我當然是沒那麼黑地要經常造訪什麼深網、暗網）。
 另外也推薦另一款跨平台的開源&lt;a href=&#34;https://brave.com/&#34;&gt;瀏覧器brave&lt;/a&gt;，我會安裝它的原因是，其團隊看起來很酷，CEO是mozilla的共同創辦人，而其工程師裏也有不少人參與了TOR開發社群。&lt;/p&gt;
@@ -44,14 +61,14 @@
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tutanona.com&#34;&gt;tutanota mail&lt;/a&gt;主機放在德國,免費版提供1G空間，付費版年費是12歐元,並可自定網域名。
 以上這兩個免費的內鍵加密功能電郵服務，所以在你撰寫郵件時，會詢問是否要對該郵件進行加密處理，而收件人則要另外透過其它管道知道解密的密碼才能順利開啟信件內容。
-&lt;img src=&#34;/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;riseup.net #我沒使用，不過好像蠻多人權組織都蠻推薦的，其服務為免費，但專門保留提供給（數位安全）高風險工作者，要用人工申請方式取得帳號。&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;當然最佳的安全作法就是：&lt;strong&gt;不要把信件「永久地」&lt;/strong&gt;保留在webmail server上，否則yahoo, gmail, microsoft等免費郵件𦃝網路供應商會利用機器來「讀取」信件（他們會說這不是「人」來讀取，所以沒有侵害隱私問題）以便提供對用戶最適化的「量身」服務內容。就算你個人不會對機器讀取信件內容的安排感到不適，想想這一年來大大小小的郵電門醜聞或是大量帳號密碼被駭的資安事件，還是定期刪除留在（他人）伺服器上的郵件，免得有一天自己都忘了的陳年舊帳被別人翻出來作為算計對付你的籌碼。
-故我另外再利用自己專屬網域，由廉價主機商ipage.com提供郵件伺服器設定了一個個人電郵，但想必其伺服器與傳送過程絕對是可以被任意攔截毫無安全隱私可言，所以利用這組電郵地址作了一組&lt;a href=&#34;http://self.jxtsai.info/2005/03/this-site.html&#34;&gt;PGP𦒴密鑰&lt;/a&gt;，搭配郵件軟體thunderbird enigmail外掛，可用於加密郵件或訊𠈣息接收。&lt;/p&gt;
+故我另外再利用自己專屬網域，由廉價主機商ipage.com提供郵件伺服器設定了一個個人電郵，但想必其伺服器與傳送過程絕對是可以被任意攔截毫無安全隱私可言，所以利用這組電郵地址作了一組&lt;a href=&#34;http://self.jxtsai.info/2005/03/this-site.html&#34;&gt;PGP密鑰&lt;/a&gt;，搭配郵件軟體thunderbird enigmail外掛，可用於加密郵件或訊息接收。&lt;/p&gt;
 
 &lt;h4 id=&#34;social-media&#34;&gt;social media&lt;/h4&gt;
 
@@ -96,21 +113,21 @@
     
     <item>
       <title>互聯網：網路個人資料可視狀況總覧</title>
-      <link>/2016/11/09/5wofinformationonline</link>
+      <link>https://jxtsai.github.io/post/5WofInformationOnline/</link>
       <pubDate>Wed, 09 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>/2016/11/09/5wofinformationonline</guid>
-      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看𠟜到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
+      <guid>https://jxtsai.github.io/post/5WofInformationOnline/</guid>
+      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
 &lt;img src=&#34;https://ek8whxe.cloudimg.io/s/cdn/x/https://www.gitbook.com/content/book/towcenter/understand-your-internet-the-five-w-s-of-informat/TheInternetADataVisibilityOverview-low.jpg&#34; alt=&#34;image Five W&#39;s of Information Online&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地𠞕動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
+&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
 
 &lt;p&gt;ISP業者知道用戶瀏覧、造訪什麼網站網頁內容，這個長久存在的事實，似乎一直不受上網用戶的重視，或者是因對於互聯網基本架構的無知，存有某種匿名安全感的天真幻想，嗯，我說的就是我自己啦。&lt;/p&gt;
 
-&lt;p&gt;直到這一兩年，稍微去了解一點𦃝𦃝網𪆽路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
+&lt;p&gt;直到這一兩年，稍微去了解一點網路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
 
-&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向𦃝𦃝網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
+&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
 
 &lt;p&gt;我正在試著整理這樣的資料，希望最好能進一步地利用infographic來呈現台灣的狀況。&lt;/p&gt;
 

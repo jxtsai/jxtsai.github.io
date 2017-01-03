@@ -1,25 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Return to laughter</title>
-    <link>/tags/github/index.xml</link>
-    <description>Recent content on Return to laughter</description>
+    <title>Github on backup Site</title>
+    <link>https://jxtsai.github.io/tags/github/index.xml</link>
+    <description>Recent content in Github on backup Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://jxtsai.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>privacytools.io 正體中文版</title>
+      <link>https://jxtsai.github.io/post/privacytools-chinese/</link>
+      <pubDate>Tue, 27 Dec 2016 11:04:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/privacytools-chinese/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/2016-1227-1.png&#34; alt=&#34;privacytools.io&#34; /&gt;
+大約是在今年10月中旬才看到這個網站的資訊（&lt;a href=&#34;https://privacytools.io&#34;&gt;privacytools.io&lt;/a&gt;）。當時自己算是有了一點網路安全的入門知識，也覺得這個網站上收集提供的工具資訊非常有幫助，故花了點時間研究它所推薦的新玩意，並從中挑選試裝了一些軟體工具。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;上週五整理在github上一些資料，才偶而注意到這一兩年來，曾經地把某幾個當下看到的有趣專案fork到自己的資源庫底下。不幸的是，之後就沒有下文&amp;ndash;自己一直無能力和適當方法，來協助這些好的東西可以改善或是讓更多人知道，因而感覺保留著這些資源庫有點可惜和浪費。忽然間橫心想起，privacytools.io這個近期讓我印象深刻又感到受用不少的隱私設定網站應該也有釋出原始資料，但第一次使用時並沒有特別留意。果不其然，privacytools.io 整個網站資料都存放在github.com，且目前已有網友協助完成了西語版和德語版的建置。&lt;/p&gt;
+
+&lt;p&gt;查看了一下原英文網站與專案的內容，只要針對幾個html檔案進行英文的翻譯即可，其它的檔案根本不用動，就能順利製作出相同版型不同語系版本的同門網站，於是我便發（願）狠，fork原始專案，開始一頭栽入了它的正體中文化翻譯。整個進度比我預期的時間還要短，大約是三～二天之內做完了翻譯初稿。也讓它堂而皇之地成為twngo.xyz名一下的第一個正體中文化專案，耶～～。其網址是：&lt;a href=&#34;https://privacytools.twngo.xyz&#34;&gt;https://privacytools.twngo.xyz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;目前&lt;a href=&#34;https://github.com/twngo/privacytools-zh&#34;&gt;正體中文的網頁資源庫&lt;/a&gt;存放在github上面。有許多地方翻得不夠順暢,或是在資訊安全術語及某些專門知識上仍有不夠完備之處，還希望其它關心網路自由與個人隱私自主權的朋友，能一起協助改善此中文化版本。若發現嚴重問題，可透過github的issue回報來反應。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>台灣隱私現況整理(進行中)</title>
-      <link>/2016/12/05/privacy-in-taiwan</link>
+      <link>https://jxtsai.github.io/post/privacy-in-Taiwan/</link>
       <pubDate>Mon, 05 Dec 2016 11:14:00 +0000</pubDate>
       
-      <guid>/2016/12/05/privacy-in-taiwan</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/post/20161205-1.png&#34; alt=&#34;state of privacy&#34; /&gt;&lt;/p&gt;
+      <guid>https://jxtsai.github.io/post/privacy-in-Taiwan/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161205-1.png&#34; alt=&#34;state of privacy&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;一開始看到&lt;a href=&#34;https://privacyinternational.org/reports/state-of-privacy&#34;&gt;Privacy Internatinal 弄的這個各國隱私權狀況專案&lt;/a&gt;時，我第一個直覺的反應是：它蠻適合用來讓關心人權報告撰寫的民間團體依照這個架構來梳理一下自己國家在公政公約第17條隱私狀況的法令架構與落實狀況。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161205-2.png&#34; alt=&#34;quitter&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161205-2.png&#34; alt=&#34;quitter&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 

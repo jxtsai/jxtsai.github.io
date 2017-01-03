@@ -1,22 +1,154 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Return to laughter</title>
-    <link>/post/index.xml</link>
-    <description>Recent content in Post-rsses on Return to laughter</description>
+    <title>Posts on backup Site</title>
+    <link>https://jxtsai.github.io/post/index.xml</link>
+    <description>Recent content in Posts on backup Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Wed, 14 Dec 2016 09:14:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 10:24:00 +0000</lastBuildDate>
+    <atom:link href="https://jxtsai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>重回2009：化資訊為行動的十個小戰術</title>
+      <link>https://jxtsai.github.io/post/10-tactics/</link>
+      <pubDate>Sun, 01 Jan 2017 10:24:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/10-tactics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tacticaltech.org/&#34;&gt;Tactical Technology Collective&lt;/a&gt; 一直是我很喜愛的NGO。十多年前以「NGO advoacy」為搜尋關鍵字偶然知道了它的網站上提供一些有趣又實用的資訊。自此我就不棄不離地成了大粉絲，總是可以從他們&lt;a href=&#34;https://tacticaltech.org/projects/all&#34;&gt;各種類型的專案計畫&lt;/a&gt;－－不管是記錄片、動畫、專題網站、紙本出版品、裝置藝術展覧、訓練工作坊（雖然我沒機會親身實地參加或觀摩），得到不少地啟發刺激。&lt;/p&gt;
+
+&lt;p&gt;
+從2016年11月下旬開始弄&lt;a href=&#34;https://twngo.xyz&#34;&gt;twngo.xyz&lt;/a&gt;，我心中的理想典範就是有朝一日能做到華文世界的TTC(不要臉天真地想太多太遠了)。當然開始在一無所有之初，不免東施效顰地透過翻譯介紹重要資訊打底基礎知識，或許能在以TTC為目標前進過程中的黑暗長巷裏，慢慢摸索出適合台灣社運組織數位安全與各類應用的本土操作經驗和指南吧。&lt;/p&gt;
+
+&lt;p&gt;這幾天再次上TTC網站看看他們歷年的專案計畫，當年許多曾經影響我重大的資料，卻已不易在其網站上找到，如&lt;a href=&#34;https://ngoinabox.org/&#34;&gt;NGO in-a-box&lt;/a&gt;（2003）;The Quick &amp;lsquo;n Easy Guide to Online Advocacy（2008）。心中不免一些悵然，時間翻過新頁，資訊來去被取代無可避免，垂世經典已不可求，那吾人今日所努力記下的又是什麼呢？&lt;/p&gt;
+
+&lt;p&gt;2009年推出的「&lt;a href=&#34;https://archive.informationactivism.org/en/&#34;&gt;10 Tactics for turning information into action&lt;/a&gt;」專案，則可見TTC當時投入了不少下重本，除了作一支近&lt;a href=&#34;https://www.youtube.com/watch?v=We67UI3_kos&#34;&gt;60分鐘的訪談記錄片&lt;/a&gt;，還翻譯了近20種語言版本的文字資訊，介紹NGO可以如何地利用數位網路工具來推動社會改革議題外，也提醒科技的反挫&amp;mdash;-個人的資料自主與隱私安全如何不會輕易成為與魔鬼交換的賣身籌碼。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=We67UI3_kos&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/We67UI3_kos/0.jpg&#34; alt=&#34;10 tactics for turning information into action&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;自10 Tactics for turning information into action專案之後，TTC應是更加確信了在「那個」數位工具為之風靡的年代（這可是阿拉伯之春、佔領華爾街、Snowden 吹哨揭密NSA全球大規模監控事件都還沒發生），早已開始擔憂著科技資安、大數據、網路（性別）騷擾等等課題，但這些當年（甚至到今天的台灣）大多數網民還未察覺的問題，作為社會先行覺醒的倡議者，又該如何地講述、激起民眾的有感，甚致願意進一步採取動作或改變行為呢？&lt;/p&gt;
+
+&lt;p&gt;化資訊為行動的十個社會運動戰術（10 Tactics for turning information into action）當年TTC已做了中文版翻譯（同時有簡體與正體中文）。唉，不過七八年光景，或許多少反應了「那個」年代&amp;ndash;web2.0後期，社交網站發芽階段，某種尚未高度被同質訊息氣泡濾化、訊息自由流竄異質意見不期碰撞、相互聲援串連擴散的樂觀革命前夕氣氛。今日再重看這份資料，其上提到的部份案例應用工具或許早没落（關門收山），但這些談社會運動基本的資訊收集、策略評估、組織協調、效應擴大等面向，都還是基本的ABC。&lt;/p&gt;
+
+&lt;p&gt;原始資料中有二份東西，皆為分散的pdf檔案。看著這些資訊我思考著：如何地重新展現這些歷久彌新資訊，讓中文讀者有機會接觸？第一份資料是先談社會運動的基本ABC，共20張投影卡片，故利用impress.js 把這些基礎篇資訊作成了&lt;a href=&#34;http://slides.twngo.xyz/10tactics/&#34;&gt;線上投影片&lt;/a&gt;，讀者可以輕易地在瀏覧器底下用&amp;rdquo;space&amp;rdquo;或&amp;rdquo;←→&amp;rdquo;鍵的操作來閱讀。而另一份較完整的十個戰術介紹，其共有64張卡片，含末4頁是詞彙表整理。如果60多頁的東西也作成滑來滑去動來動去的投影片，讀者眼睛應該會脫窗吧。原本想單純地把它統合成一個&lt;a href=&#34;http://books.twngo.xyz/10tactics/10tactics.pdf&#34;&gt;單一pdf&lt;/a&gt;讓讀者另讀新檔下載即可，但又擔心這樣的處理不太可能讓讀者點擊開啟，網頁的搜尋也不方便。後來試著利用gitbook把它作成&lt;a href=&#34;http://books.twngo.xyz/10tactics/&#34;&gt;線上電子報&lt;/a&gt;，再考量原有資訊的時效，決定不花太多時間重新作中文網頁版，直接把pdf每頁滙出為圖片格式後再嵌入到md檔案，然其缺點是pdf滙出的圖檔以gitbook形式呈現時，字體小的內容讀起來有些吃力。&lt;/p&gt;
+
+&lt;p&gt;基礎社會運動入門ABC分成五部份：
+1. 社會運動分析
+2. 社會運動資訊
+3. 社會運動策略
+4. 網路與手機的安全及隱私
+5. 創意運動&lt;/p&gt;
+
+&lt;p&gt;十個社會運動戰術：
+1. 啟動行動
+2. 隔牆有眼
+3. 運動訊息視覺化
+4. 放大私人故事
+5. 製造幽默
+6. 通訊管理
+7. 簡化資訊
+8. 利用集體智慧
+9. 會聆聽的科技
+10. 調查和曝光&lt;/p&gt;
+
+&lt;p&gt;2012年TTC再把10 Tactics for turning information into action的初版資料重新混制與部份內容資訊作了更新調整，稱之為「&lt;a href=&#34;https://informationactivism.org/en/unstitched?sort_by=tactic&#34;&gt;10 Tactics Remix&lt;/a&gt;」，這版的設計更為年青化，可惜只有英語版。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20170101-1.png&#34; alt=&#34;10 tactics remixed&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>privacytools.io 正體中文版</title>
+      <link>https://jxtsai.github.io/post/privacytools-chinese/</link>
+      <pubDate>Tue, 27 Dec 2016 11:04:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/privacytools-chinese/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/2016-1227-1.png&#34; alt=&#34;privacytools.io&#34; /&gt;
+大約是在今年10月中旬才看到這個網站的資訊（&lt;a href=&#34;https://privacytools.io&#34;&gt;privacytools.io&lt;/a&gt;）。當時自己算是有了一點網路安全的入門知識，也覺得這個網站上收集提供的工具資訊非常有幫助，故花了點時間研究它所推薦的新玩意，並從中挑選試裝了一些軟體工具。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;上週五整理在github上一些資料，才偶而注意到這一兩年來，曾經地把某幾個當下看到的有趣專案fork到自己的資源庫底下。不幸的是，之後就沒有下文&amp;ndash;自己一直無能力和適當方法，來協助這些好的東西可以改善或是讓更多人知道，因而感覺保留著這些資源庫有點可惜和浪費。忽然間橫心想起，privacytools.io這個近期讓我印象深刻又感到受用不少的隱私設定網站應該也有釋出原始資料，但第一次使用時並沒有特別留意。果不其然，privacytools.io 整個網站資料都存放在github.com，且目前已有網友協助完成了西語版和德語版的建置。&lt;/p&gt;
+
+&lt;p&gt;查看了一下原英文網站與專案的內容，只要針對幾個html檔案進行英文的翻譯即可，其它的檔案根本不用動，就能順利製作出相同版型不同語系版本的同門網站，於是我便發（願）狠，fork原始專案，開始一頭栽入了它的正體中文化翻譯。整個進度比我預期的時間還要短，大約是三～二天之內做完了翻譯初稿。也讓它堂而皇之地成為twngo.xyz名一下的第一個正體中文化專案，耶～～。其網址是：&lt;a href=&#34;https://privacytools.twngo.xyz&#34;&gt;https://privacytools.twngo.xyz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;目前&lt;a href=&#34;https://github.com/twngo/privacytools-zh&#34;&gt;正體中文的網頁資源庫&lt;/a&gt;存放在github上面。有許多地方翻得不夠順暢,或是在資訊安全術語及某些專門知識上仍有不夠完備之處，還希望其它關心網路自由與個人隱私自主權的朋友，能一起協助改善此中文化版本。若發現嚴重問題，可透過github的issue回報來反應。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>M&#43;R’s 2016 NPO線上指標報告</title>
+      <link>https://jxtsai.github.io/post/benchmarks-x-2016/</link>
+      <pubDate>Thu, 22 Dec 2016 08:04:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/benchmarks-x-2016/</guid>
+      <description>&lt;p&gt;上週介紹過NonProfit Tech for Good所發佈的「2016 Global NGO Online Technology Report」&lt;a href=&#34;https://blog.jxtsai.info/2016/12/14/global-ngo-online/&#34;&gt;2016全球NGO線上使用調查&lt;/a&gt;,這兩天又翻讀&lt;a href=&#34;http://www.mrss.com/about/&#34;&gt;M+R’s&lt;/a&gt; 進入第十年發表了年度&lt;a href=&#34;http://mrbenchmarks.com/#page/download&#34;&gt;Benchmarks Study：Online metrics for nonprofits&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Benchmarks Study相較於2016 Global NGO Online Technology Report，有比較細節準確的NPO/NGO網站數位行銷數據（先假設參與此計畫的非營利非政府組織都「誠實」地回報了自家的數據資料沒有灌水與保留），但為了呈現比較準確的統計結果，所研究的母數樣本當然也僅止於美國國內八種議類型（文化/教育/健康/環境/貧窮/國際發展/人權/動物權利與生態/其它）的大大小小105家NGO/NPO。這樣的調查母數是否真能呈現(美國)非營利組織總況的代表性樣貌或許無法斷言，但至少這樣投注所得出的結果仍然值得吾人在了解這些限制條件下，觀摩看看人家的分析材料與方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161222-1.png&#34; alt=&#34;benchmarks x 2016&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;基於這些收集來的明確數字，M+R’s便可以進一步進行統計的分析與推論檢驗，而推斷出某種年度性的NGO/NPO在數位工具使用對募款回饋與社會行銷效果的結論。&lt;/p&gt;
+
+&lt;p&gt;美國的社會環境、當地NPO/NGO的倡議遊說、服務方案與社會影響度等研究，當然無法直接移殖到台灣，也不可能在讀了這份報告後一朝一夕地翻轉改變台灣本地NPO/NGO在數位工具應用上的策略與作法。&lt;/p&gt;
+
+&lt;p&gt;不過我自己讀過這二份報告之後，湧現出來的感想反而是從國外的實務調查中思考：有哪些指標或數據資料可以作為參考，必須要留意、收集起來，以作日後方案計行動的成果評估。&lt;/p&gt;
+
+&lt;p&gt;總之這份報告歸納出2016NPO/NGO tech for good 趨勢&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Overall, 13% of online gifts were made from mobile devices — a numberthat likely reflects both user preference and increasing adoption of mobile optimization best practices by nonprofits.
+行動捐款的比例較往年提高，故網站或相關設計如何符合行動裝置的使用習慣也成為NGO/NPO的大考驗。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;For every 1,000 email subscribers, nonprofits have 355 Facebook fans, 132 Twitter followers, and 19 Instagram followers. In 2006, those numbers were basically zero, zero, and zero: Facebook was limited to .edu email addresses, Twitter was just about to launch, and Instagram’s founders were still in college.
+傳統電子郵件電子報與社交媒體影響力之間的觀察。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nonprofits invested $0.04 in digital advertising for every $1 of online revenue. This might not seem like much, but considering that overall online revenue grew by 19% in the last year, digital advertising is an increasingly important market for acquisition, conversion, and retention.
+網路廣告投放的效益分析。(作為老自由左派者，我還是很難接受NGO投注有限資源在商業廣告行為這件事啊)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The volume has been turned way up: the average nonprofit in our study sent the average subscriber on its list 49 email messages in 2015.
+繼續還是對NPO/NGO電子報行為的分析。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Monthly giving accounts for 17% of all online revenue – and as you’ll see about six sentences from now, monthly giving is growing quite a bit faster than one-time revenue. In our first Benchmarks Study, only about half of the participants had a recurring giving program at all.
+線上定期定額捐款的增減狀況。除了提出有哪些因素可能影響捐款人線上定期定額捐款行為外，這部份的資訊也稍微揭露了這一百多家NGO/NPO的收入財務比例。我個人還蠻意外看到：原來美國非營利組織的定期定額捐款比例所佔的比例不到其&lt;strong&gt;線上收益&lt;/strong&gt;的二成（故可推知&lt;strong&gt;線上定期定額捐款&lt;/strong&gt;佔全年度總收入的比例更少）。這個數字實在遠比我所想像的還要&lt;strong&gt;低&lt;/strong&gt;。不過後來再想想，除非發生了川普意外當選（讓許多美國人權團體今年十一月十二月的捐款突然大增）或是重大天災事件，否則「一般人」很少會在訪問NGO/NPO網站時會當下決定要線上捐款。也通常是在街頭、集會或教社演講等面對面活動後，比較有可能會激發潛在支持人填寫定期定額捐款單吧。故我還是相信，美國非營利組織的財務收入比例，定期小額捐款的比例應是會比二成還高才是。而對照台灣的情形，我還蠻好奇不少在地NGO/NPO所喊出了募集每月百人千人的固定小額捐款行動，到底有多少家成功達到目標？就算沒達標，那麼目前這部份的捐款收入佔總收入的比例是多少？有沒有什麼推動增長計畫策略？從Benchmark X的數據來看，要搞小額定期捐款這回事，不能光只是用嘴巴說說（難道真以為喊水就會結冰），除了一些短期組織行為調整適應外，恐怕也包括許多中長期耐心堅持的毅力考驗。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;如果NPO/NGO工作者對這些問題與調查也同樣感到好奇，不妨花點時間讀讀這份報告，思考一下自己組織的數位工具使用與開始留意自家的數據整理收集吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>將MD文件轉成html線上投影片</title>
+      <link>https://jxtsai.github.io/post/markdown-slide/</link>
+      <pubDate>Mon, 19 Dec 2016 19:14:00 +0000</pubDate>
+      
+      <guid>https://jxtsai.github.io/post/markdown-slide/</guid>
+      <description>&lt;p&gt;或許因為我是個網路移民，見證了簡報軟體的崛起，也不過是過去十多年來才從報告演說的視覺輔助工具變成了不下於講者的重要主角。但一直覺得不用弄什麼投影片但能把事情／故事、課程講清楚又動聽的人，才是真正高手。雖然我只是一個口條與表達能力平庸的普通人，卻蠻討厭作投影片簡報檔（或者說討厭「公開演說」甚致討厭說話這件事），偶而的樂趣反而是好奇地研究一下除了微軟powerpoint, apple keynote, libreoffice impression 之外的其它簡報製作法，例如之前曾玩過看起來轉來轉去很酷弦的prezi,以及改用linux作業系統後，在向量繪圖軟體inkscakp下安娤&lt;a href=&#34;http://self.jxtsai.info/2015/05/ubuntu-sozi.html&#34;&gt;sozi&lt;/a&gt;，以作出svg格式的簡報檔。&lt;/p&gt;
+
+&lt;p&gt;
+最近因為迷上markdown語法，從&lt;a href=&#34;http://self.jxtsai.info/2016/09/sandstorm.html&#34;&gt;sandstorm&lt;/a&gt;知道有一款&lt;a href=&#34;https://github.com/jacksingleton/hacker-slides&#34;&gt;hacker slide&lt;/a&gt;軟體，它結合了Ace Editor and RevealJS（下面會再提到），使用者在編輯時，可以同步查看其投影片的呈現。（若在sansstorm環境下使用則是在瀏覧器底下，一半是markdown編輯器，另一半的畫面則是投影片的結果。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161220-1.png&#34; alt=&#34;hacker-slide&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沒花時間費力研究如何把hacker slide裝在自己的電腦上，比較想要知道的技巧是如何可以快速地把已經以MD語法寫好的投影片，轉換成為可以在瀏覧器上公開播放的網頁格式。&lt;/p&gt;
+
+&lt;p&gt;後來參考yenlung這篇中文教學，利用&lt;a href=&#34;http://yenlung-blog.logdown.com/posts/313543-markdown-to-slides&#34;&gt;Reveal.js&lt;/a&gt;專案，把原markdown所作成的投影片，順利地轉成了html網頁格式。 （無須使用數學式作投影片者，可在下載Reveal.js專案原始碼後，直接跳轉「&lt;strong&gt;Markdown 直接來!&lt;/strong&gt;」這段即可）&lt;/p&gt;
+
+&lt;p&gt;成功地可以在自己本地端的瀏覧器開啟index.hmtl作出一張張可播放投影片的效果之後，比較麻煩的問題反而是如何把它存放到合適（免費的）網路空間。原本我的想法是github底下開一個投影片（slides repositry）,然後把各式投影片以repositry底下資料夾形式存放。不過因為一開始自己不太了解github pages靜態網頁的路徑結構，試了好多次才超連結的位置設定成功 ==&amp;gt;&lt;a href=&#34;http://slides.twngo.xyz&#34;&gt;http://slides.twngo.xyz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;想進一步了解Reveal.js更高明的版型、配色、動態使用，可參考以下中文教學示範。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;gtwang: &lt;a href=&#34;https://blog.gtwang.org/useful-tools/reveal-js-presentation-html5-framework/&#34;&gt;Reveal.js用網頁製作簡報的 HTML5 架構&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;資料視覺化:&lt;a href=&#34;http://blog.infographics.tw/2016/11/reveal-js-and-slides-com/&#34;&gt;Reveal.js + slides.com 製作令人驚豔的互動式簡報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>2016全球NGO線上使用調查</title>
-      <link>/2016/12/14/global-ngo-online</link>
+      <link>https://jxtsai.github.io/post/Global%20NGO%20Online/</link>
       <pubDate>Wed, 14 Dec 2016 09:14:00 +0000</pubDate>
       
-      <guid>/2016/12/14/global-ngo-online</guid>
-      <description>&lt;p&gt;NonProfit Tech for Good發佈了&lt;a href=&#34;http://techreport.ngo/2016.html&#34;&gt;2016 Global NGO Online Technology Report&lt;/a&gt;，這份報告整理了2,780個NGOs組織回應其問卷調查，參與者橫跨六大洲133個不同國家，其中有60％的NGO自評是屬於「小而美」的組織規模(這份調查中並無用制式的員工人數或資金經費額度來評比組織大小，而是讓填寫者可自由寫出對自己組織該歸類於大中小三級中哪一類規模。)當然這其中2700𣤱多個所謂的NGO/NPO也有自各的議題關注或倡議焦點，調查中除了揭示今年全球大小NGO/NPO在網站工具與社交媒𦡊𦡊𦡊體使用狀況的統計外，這份報告也稍微分析了一下各NGO捐助者的世代屬性與捐款行為偏好。我個人長期訂閱NonProfit Tech for Good的消息，是覺得其調查結果可作為理解當前𪏈NGO/NPO總體社群狀況的參考，故稍把其內容轉貼過來。&lt;/p&gt;
+      <guid>https://jxtsai.github.io/post/Global%20NGO%20Online/</guid>
+      <description>&lt;p&gt;NonProfit Tech for Good發佈了&lt;a href=&#34;http://techreport.ngo/2016.html&#34;&gt;2016 Global NGO Online Technology Report&lt;/a&gt;，這份報告整理了2,780個NGOs組織回應其問卷調查，參與者橫跨六大洲133個不同國家，其中有60％的NGO自評是屬於「小而美」的組織規模(這份調查中並無用制式的員工人數或資金經費額度來評比組織大小，而是讓填寫者可自由寫出對自己組織該歸類於大中小三級中哪一類規模。)當然這其中2700多個所謂的NGO/NPO也有自各的議題關注或倡議焦點，調查中除了揭示今年全球大小NGO/NPO在網站工具與社交媒體使用狀況的統計外，這份報告也稍微分析了一下各NGO捐助者的世代屬性與捐款行為偏好。我個人長期訂閱NonProfit Tech for Good的消息，是覺得其調查結果可作為理解當前NGO/NPO總體社群狀況的參考，故稍把其內容轉貼過來。&lt;/p&gt;
 
 &lt;p&gt;今年呈現的數據狀況結果是：
 &lt;/p&gt;
@@ -24,15 +156,15 @@
 &lt;h4 id=&#34;ngo網站內容經營管理&#34;&gt;NGO網站內容經營管理&lt;/h4&gt;
 
 &lt;p&gt;• 92% of NGOs worldwide have a website.
-絕大多數NGO有𡽬自家網站&lt;/p&gt;
+絕大多數NGO有自家網站&lt;/p&gt;
 
 &lt;p&gt;• 70% use the .ORG domain. 2% percent　use .NGO. 9% percent use .COM. 2% percent use .NET. 18% use other domains,　predominately country code domains. 針對NGO網域名註冊統計，超過半數以是以.ORG（包含本國國碼者）註冊網域名。&lt;/p&gt;
 
 &lt;p&gt;• 46% regularly publish a blog. 75%　regularly send email updates to donors　and supporters. Small NGOs have an　average of 6,035 subscribers. Medium NGOs have 55,596. Large have 357,714.
-居然不到半數定期更新網站上的訊𠈣息？　意外的是，會定期寄送電子報的居然超過四分之三，且自認為是小型的NGO也平均有6000位電子報訂戶耶。&lt;/p&gt;
+居然不到半數定期更新網站上的訊息？　意外的是，會定期寄送電子報的居然超過四分之三，且自認為是小型的NGO也平均有6000位電子報訂戶耶。&lt;/p&gt;
 
 &lt;p&gt;• 75% accept online donations. Payment methods accepted include credit cards (82%), PayPal (52%), direct debit (47%),mobile text (6%), and digital wallets (3%).
-線上捐款的使用程度與付𤈔款工具統計&lt;/p&gt;
+線上捐款的使用程度與付款工具統計&lt;/p&gt;
 
 &lt;h4 id=&#34;ngo的社交媒體使用&#34;&gt;NGO的社交媒體使用&lt;/h4&gt;
 
@@ -75,26 +207,26 @@
 
 &lt;p&gt;• 86% agree that social media is effective for online fundraising.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161214-1.png&#34; alt=&#34;2016 Asian NGO Online Technology Report&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161214-1.png&#34; alt=&#34;2016 Asian NGO Online Technology Report&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;台灣ngo的狀況呢&#34;&gt;台灣NGO的狀況呢？&lt;/h3&gt;
 
-&lt;p&gt;我個人「感覺」台灣的狀況（半年為了弄推特訊息發送，自己單方面做的&lt;a href=&#34;https://github.com/twngo/ngonewstw&#34;&gt;初步𧫣整理&lt;/a&gt;，但資料很殘缺，也不夠全面），如網站使用，電子報發行，線上募款等𧘶數字，應該是和亞洲NGO統計的均質相去不遠。不過似乎在社交媒𦡊𦡊𦡊體網路的應用上，除了臉書外，其它社交網站則差不多是束手就縛完全棄守（或曰待𦁄經營開發的處女地狀態吧）。&lt;/p&gt;
+&lt;p&gt;我個人「感覺」台灣的狀況（半年為了弄推特訊息發送，自己單方面做的&lt;a href=&#34;https://github.com/twngo/ngonewstw&#34;&gt;初步整理&lt;/a&gt;，但資料很殘缺，也不夠全面），如網站使用，電子報發行，線上募款等數字，應該是和亞洲NGO統計的均質相去不遠。不過似乎在社交媒體網路的應用上，除了臉書外，其它社交網站則差不多是束手就縛完全棄守（或曰待經營開發的處女地狀態吧）。&lt;/p&gt;
 
 &lt;p&gt;或許有哪個有力的組織或單位，可以做一下台灣本土NGO問卷調查。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>台灣隱私現況整理(進行中)</title>
-      <link>/2016/12/05/privacy-in-taiwan</link>
+      <link>https://jxtsai.github.io/post/privacy-in-Taiwan/</link>
       <pubDate>Mon, 05 Dec 2016 11:14:00 +0000</pubDate>
       
-      <guid>/2016/12/05/privacy-in-taiwan</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/post/20161205-1.png&#34; alt=&#34;state of privacy&#34; /&gt;&lt;/p&gt;
+      <guid>https://jxtsai.github.io/post/privacy-in-Taiwan/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161205-1.png&#34; alt=&#34;state of privacy&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;一開始看到&lt;a href=&#34;https://privacyinternational.org/reports/state-of-privacy&#34;&gt;Privacy Internatinal 弄的這個各國隱私權狀況專案&lt;/a&gt;時，我第一個直覺的反應是：它蠻適合用來讓關心人權報告撰寫的民間團體依照這個架構來梳理一下自己國家在公政公約第17條隱私狀況的法令架構與落實狀況。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161205-2.png&#34; alt=&#34;quitter&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161205-2.png&#34; alt=&#34;quitter&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -131,10 +263,10 @@
     
     <item>
       <title>小組織可免費使用的工作型郵件</title>
-      <link>/2016/11/29/email-for-work</link>
+      <link>https://jxtsai.github.io/post/email-for-work/</link>
       <pubDate>Tue, 29 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>/2016/11/29/email-for-work</guid>
+      <guid>https://jxtsai.github.io/post/email-for-work/</guid>
       <description>&lt;p&gt;繼twngo.xyz啟用後，寫了第一篇談NGO為何需要申請一個專屬代表單位的網域名：&lt;a href=&#34;https://medium.twngo.xyz/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.g8869esvs&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;，接下來第二篇介紹的是，如何透過這組網域名來設定&lt;a href=&#34;https://medium.twngo.xyz/ngo-%E5%B7%A5%E4%BD%9C%E7%94%A8-%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%A8%AD%E5%AE%9A-91a29225f3f6#.wvhfbedq4&#34;&gt;組織或單位的工作用電子郵件&lt;/a&gt;。
 &lt;/p&gt;
 
@@ -148,10 +280,10 @@
     
     <item>
       <title>NGO 申請網域名之必要</title>
-      <link>/2016/11/23/ngo-domain-name</link>
+      <link>https://jxtsai.github.io/post/ngo-domain-name/</link>
       <pubDate>Wed, 23 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>/2016/11/23/ngo-domain-name</guid>
+      <guid>https://jxtsai.github.io/post/ngo-domain-name/</guid>
       <description>&lt;p&gt;先寫了一篇NGO在數位網路年代最好要有一個專屬代表單位的網域名介紹文章：&lt;a href=&#34;https://medium.twngo.xyz/ngos-domain-name-%E7%B6%B2%E5%9F%9F%E8%A8%BB%E5%86%8A-f9b5425f65d6#.g8869esvs&#34;&gt;NGO’s Domain Name 網域註冊&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;接下來打算陸續寫：子網域設定轉址教學、電子報發送、social media 使用政策、另類辦公室生產力工具、專案管理軟體、NPO free webinar
@@ -162,31 +294,31 @@
     
     <item>
       <title>twngo.xyz 上線</title>
-      <link>/2016/11/21/twngo-xyz</link>
+      <link>https://jxtsai.github.io/post/twngo-xyz/</link>
       <pubDate>Mon, 21 Nov 2016 19:14:00 +0000</pubDate>
       
-      <guid>/2016/11/21/twngo-xyz</guid>
+      <guid>https://jxtsai.github.io/post/twngo-xyz/</guid>
       <description>&lt;p&gt;其實一開始只是被&lt;a href=&#34;https://gandi.net&#34;&gt;gandi.net&lt;/a&gt;正在特價促銷某些頂級網域名稱所打動，想隨便買個便宜的TLD來玩個一年看看。&lt;/p&gt;
 
 &lt;p&gt;
-後來不知怎麼地動念想說，既然要另買一個網域名，不如想一個較具「公共性」而非私人化的網域名稱。之前曾經倣效@GovNewsTw開了一個專門用來追踪轉推台灣倡議型社運團體的推𠞕特帳號，所以就草率地決定，取名為&lt;a href=&#34;https://twngo.xyz&#34;&gt;twngo.xyz&lt;/a&gt;。而選擇xyz的理由只是單純地從最便宜的價格考量。&lt;/p&gt;
+後來不知怎麼地動念想說，既然要另買一個網域名，不如想一個較具「公共性」而非私人化的網域名稱。之前曾經倣效@GovNewsTw開了一個專門用來追踪轉推台灣倡議型社運團體的推特帳號，所以就草率地決定，取名為&lt;a href=&#34;https://twngo.xyz&#34;&gt;twngo.xyz&lt;/a&gt;。而選擇xyz的理由只是單純地從最便宜的價格考量。&lt;/p&gt;
 
 &lt;p&gt;我個人對臉書的成見與詬病由來已久，顯然這番理由也沒人想聽，那就是我自己的問題吧。最近看到這篇文章：&lt;a href=&#34;https://www.opendemocracy.net/5050/zara-rahman/internet-politics-feminist-guide-navigating-online-power&#34;&gt;Internet politics: a feminist guide to navigating online power&lt;/a&gt;。我不知道台灣（的社運工作者）是否還對&amp;rdquo;alternative&amp;rdquo;有所想像，而自己與其一直冷嘲旁觀，不如把一些另類技巧與實用數位工具整理分享出來，讓財氣人力相對有限的NGO可以在決定相關數位資源時有其它安全、自由的選項。&lt;/p&gt;
 
 &lt;p&gt;最後要說明的是，工具畢竟只是工具，它或許能省時省力省錢，但永遠提醒自己不要把手段變成目的，把人給工具化了。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161121-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161121-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>（安全）網路使用工具清單-桌機筆電篇</title>
-      <link>/2016/11/15/digital-security-tools</link>
+      <link>https://jxtsai.github.io/post/digital-security-tools/</link>
       <pubDate>Tue, 15 Nov 2016 17:14:00 +0000</pubDate>
       
-      <guid>/2016/11/15/digital-security-tools</guid>
+      <guid>https://jxtsai.github.io/post/digital-security-tools/</guid>
       <description>&lt;p&gt;11月9日過後的幾天裏，我的推特圈上最充斥的是：一些美國人權組織發表募款訊息號召更多會員加入以準備對抗2017年１月之後所將面臨的長期抵抗。除此之外，不少教新聞記者、人權工作者以及內部吹哨者（whistleblower）如何加強自保以及強化通訊私密數位安全交戰手冊等，也再一次被拿出來推廣。&lt;/p&gt;
 
-&lt;p&gt;看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）𦃝網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
+&lt;p&gt;看這些消息被轉來轉去之際，我想自己過去一年多來也親身體驗了不少數位資訊安全的工具、逃離獨大壟斷集中式商業軟體或「免費」服務對個別用戶的資枓與習慣綁架與依賴，分散減少數位安全風險，而在台灣中文社群中似乎較少看到這樣的資料整理，故先野人獻曝一下地分享我較常使用的「另類」（數位安全）網路使用工具清單，本文先以個人電腦、筆電為主，稍後再整理智慧型手機：
 &lt;/p&gt;
 
 &lt;h4 id=&#34;os作業系統&#34;&gt;OS作業系統&lt;/h4&gt;
@@ -201,7 +333,7 @@
 &lt;h4 id=&#34;瀏覧器&#34;&gt;瀏覧器&lt;/h4&gt;
 
 &lt;p&gt;還是習慣firefox囉，尤其要補充上一些安全外掛。
-&lt;img src=&#34;/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;但如果要造訪darknet,那就得用tor瀏覧器（我當然是沒那麼黑地要經常造訪什麼深網、暗網）。
 另外也推薦另一款跨平台的開源&lt;a href=&#34;https://brave.com/&#34;&gt;瀏覧器brave&lt;/a&gt;，我會安裝它的原因是，其團隊看起來很酷，CEO是mozilla的共同創辦人，而其工程師裏也有不少人參與了TOR開發社群。&lt;/p&gt;
@@ -213,14 +345,14 @@
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tutanona.com&#34;&gt;tutanota mail&lt;/a&gt;主機放在德國,免費版提供1G空間，付費版年費是12歐元,並可自定網域名。
 以上這兩個免費的內鍵加密功能電郵服務，所以在你撰寫郵件時，會詢問是否要對該郵件進行加密處理，而收件人則要另外透過其它管道知道解密的密碼才能順利開啟信件內容。
-&lt;img src=&#34;/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-2.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161115-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;riseup.net #我沒使用，不過好像蠻多人權組織都蠻推薦的，其服務為免費，但專門保留提供給（數位安全）高風險工作者，要用人工申請方式取得帳號。&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;當然最佳的安全作法就是：&lt;strong&gt;不要把信件「永久地」&lt;/strong&gt;保留在webmail server上，否則yahoo, gmail, microsoft等免費郵件𦃝網路供應商會利用機器來「讀取」信件（他們會說這不是「人」來讀取，所以沒有侵害隱私問題）以便提供對用戶最適化的「量身」服務內容。就算你個人不會對機器讀取信件內容的安排感到不適，想想這一年來大大小小的郵電門醜聞或是大量帳號密碼被駭的資安事件，還是定期刪除留在（他人）伺服器上的郵件，免得有一天自己都忘了的陳年舊帳被別人翻出來作為算計對付你的籌碼。
-故我另外再利用自己專屬網域，由廉價主機商ipage.com提供郵件伺服器設定了一個個人電郵，但想必其伺服器與傳送過程絕對是可以被任意攔截毫無安全隱私可言，所以利用這組電郵地址作了一組&lt;a href=&#34;http://self.jxtsai.info/2005/03/this-site.html&#34;&gt;PGP𦒴密鑰&lt;/a&gt;，搭配郵件軟體thunderbird enigmail外掛，可用於加密郵件或訊𠈣息接收。&lt;/p&gt;
+故我另外再利用自己專屬網域，由廉價主機商ipage.com提供郵件伺服器設定了一個個人電郵，但想必其伺服器與傳送過程絕對是可以被任意攔截毫無安全隱私可言，所以利用這組電郵地址作了一組&lt;a href=&#34;http://self.jxtsai.info/2005/03/this-site.html&#34;&gt;PGP密鑰&lt;/a&gt;，搭配郵件軟體thunderbird enigmail外掛，可用於加密郵件或訊息接收。&lt;/p&gt;
 
 &lt;h4 id=&#34;social-media&#34;&gt;social media&lt;/h4&gt;
 
@@ -265,21 +397,21 @@
     
     <item>
       <title>互聯網：網路個人資料可視狀況總覧</title>
-      <link>/2016/11/09/5wofinformationonline</link>
+      <link>https://jxtsai.github.io/post/5WofInformationOnline/</link>
       <pubDate>Wed, 09 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>/2016/11/09/5wofinformationonline</guid>
-      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看𠟜到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
+      <guid>https://jxtsai.github.io/post/5WofInformationOnline/</guid>
+      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
 &lt;img src=&#34;https://ek8whxe.cloudimg.io/s/cdn/x/https://www.gitbook.com/content/book/towcenter/understand-your-internet-the-five-w-s-of-informat/TheInternetADataVisibilityOverview-low.jpg&#34; alt=&#34;image Five W&#39;s of Information Online&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地𠞕動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
+&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
 
 &lt;p&gt;ISP業者知道用戶瀏覧、造訪什麼網站網頁內容，這個長久存在的事實，似乎一直不受上網用戶的重視，或者是因對於互聯網基本架構的無知，存有某種匿名安全感的天真幻想，嗯，我說的就是我自己啦。&lt;/p&gt;
 
-&lt;p&gt;直到這一兩年，稍微去了解一點𦃝𦃝網𪆽路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
+&lt;p&gt;直到這一兩年，稍微去了解一點網路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
 
-&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向𦃝𦃝網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
+&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
 
 &lt;p&gt;我正在試著整理這樣的資料，希望最好能進一步地利用infographic來呈現台灣的狀況。&lt;/p&gt;
 
@@ -288,10 +420,10 @@
     
     <item>
       <title>Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy</title>
-      <link>/2016/11/03/corporate-surveillance</link>
+      <link>https://jxtsai.github.io/post/Corporate%20Surveillance/</link>
       <pubDate>Thu, 03 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>/2016/11/03/corporate-surveillance</guid>
+      <guid>https://jxtsai.github.io/post/Corporate%20Surveillance/</guid>
       <description>&lt;p&gt;十月中旬美國有一則堪稱「熱門」訊息（華文端傳媒也作了報導），美國民權組織&lt;a href=&#34;https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target&#34;&gt;ACLU北加州分會&lt;/a&gt;公開挑戰質疑某家提供「社交網站即時監控服務」的公司，這也讓三大社群網站facebook, twitter. instagram宣佈不再將用戶資料賣給這家Geofeedia。&lt;/p&gt;
 
 &lt;p&gt;昨天又看到英國有一家保險公司&lt;a href=&#34;http://www.bbc.com/news/business-37847647&#34;&gt;Admiral打算透過讓摩托車主是否願意提供其臉書資料&lt;/a&gt;（當然初期可能會有折扣優惠來刺激用戶同意），來讓公司從保戶在社交網站上的行為模式來決定其保費高低。雖然這樣的打算因為臉書自己跳出來「聲稱」其非常重視用戶隱私而不會同意保險公司推行。&lt;/p&gt;
@@ -307,7 +439,7 @@
 
 &lt;p&gt;如果你也有和我一樣的疑惑，建議你不能錯過這本「Network of Control：Corporate Surveillance, Digital Tracking, Big Data &amp;amp; Privacy」。原書以德文寫成，不過現已有英文版，而且作者還大方地把全文放上網路免費下載。原書下戴處：&lt;a href=&#34;http://crackedlabs.org/en/networksofcontrol&#34;&gt;http://crackedlabs.org/en/networksofcontrol&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;作者以上述類似的問題意識出發，試圖透過大量的文獻梳理來回答下列：&lt;/p&gt;
 
@@ -333,17 +465,17 @@
     
     <item>
       <title>人權侵害記錄工具箱</title>
-      <link>/2016/11/02/hr-documentation-toolkit</link>
+      <link>https://jxtsai.github.io/post/hr-documentation-toolkit/</link>
       <pubDate>Wed, 02 Nov 2016 11:14:00 +0000</pubDate>
       
-      <guid>/2016/11/02/hr-documentation-toolkit</guid>
+      <guid>https://jxtsai.github.io/post/hr-documentation-toolkit/</guid>
       <description>&lt;p&gt;﻿
 上個月曾稍認真地讀了這本由Public International Law and Policy Group所編寫的工具書「的「Handbook on Civil Society Documentation of Serious Human Rights Violations」，並稍整理了該&lt;a href=&#34;http://self.jxtsai.info/2016/10/handbook-on-civil-society-documentation.html&#34;&gt;手冊的簡單中文摘要&lt;/a&gt;。&lt;/p&gt;
 
 &lt;p&gt;最近又看到他們推出一個線上網站&lt;a href=&#34;http://www.hrdtoolkit.org/&#34;&gt;HRD Toolkit&lt;/a&gt;，想說還是稍微用一篇部落格文章來記錄了這個網站到底有什麼資源內容，以免很快地忘記了有這些工具、方法與材料可以了解與運用。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161102-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161102-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;從首頁的色塊與主選單，立即可知道在這個網站的人權侵害記錄文件工具箱有四大子題：（人權侵害記錄）的調查執行結果(survey results)、運用工具資源庫整理(resource library)、領域中的專家或團體名錄(experts)、術語用辭定義表(terminology)。下面再對稍進一步介紹&lt;/p&gt;
 
@@ -366,10 +498,10 @@
     
     <item>
       <title>兩公約第二次國際審查初步觀察</title>
-      <link>/2016/11/01/iccpr-review</link>
+      <link>https://jxtsai.github.io/post/iccpr-review/</link>
       <pubDate>Tue, 01 Nov 2016 09:14:00 +0000</pubDate>
       
-      <guid>/2016/11/01/iccpr-review</guid>
+      <guid>https://jxtsai.github.io/post/iccpr-review/</guid>
       <description>&lt;p&gt;前幾天看到法務部人權大步走網站上公佈了明年一月下旬，第二次兩公約國家人權報告審查的&lt;a href=&#34;http://www.humanrights.moj.gov.tw/ct.asp?xItem=449757&amp;amp;ctNode=44633&amp;amp;mp=200&#34;&gt;公政公約問題清單&lt;/a&gt;，有些個人的想法，姑且把它先寫下來。雖然自己離開這個議題和圈子已有一段時間與距離，這些想法或許太過主觀，但還是不吐不快。
 &lt;/p&gt;
 
@@ -428,10 +560,10 @@ National Security Agency surveillance&lt;/p&gt;
     
     <item>
       <title>如何更換jekyll 主題</title>
-      <link>/2016/10/31/jekyll-theme</link>
+      <link>https://jxtsai.github.io/post/jekyll-theme/</link>
       <pubDate>Mon, 31 Oct 2016 12:09:00 +0000</pubDate>
       
-      <guid>/2016/10/31/jekyll-theme</guid>
+      <guid>https://jxtsai.github.io/post/jekyll-theme/</guid>
       <description>&lt;p&gt;幾個月前，初次接觸「靜態網頁產生器」(static pages generator)，是從jekyll開始才注意到這個東東。接著幾個月中陸續再試玩了hugo, pelican, gitbook, hexo等其它同類型的架站軟體。這一路觀察與體驗下來，雖然使用jekyll來架各式網站或部落格高手最多，其名列了github open sources Static page generator 關注度、使用度最高的第一名，但對於我這名低手幾個月來和它博鬥的經驗總結來說，並不建議沒有任何電腦編程基礎的使用者利用它來作為網站架設的後台工具，理由是：&lt;/p&gt;
 
 &lt;ul&gt;
@@ -445,18 +577,18 @@ National Security Agency surveillance&lt;/p&gt;
 &lt;p&gt;先前提假設,已經通過了ruby/gem安裝考驗，成功地在本機電腦端上裝設好了jekyll。故只要在命令列下新建網站專案指令：
 &lt;code&gt;$jekyll new mysite #mysite為新網站專案名稱，可自取&lt;/code&gt;
 電腦即會自動產生一個「mysite」資料夾，其底下有一些必要的檔案與目錄，也就是一個全新的網站。
-&lt;img src=&#34;/post/20161031-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;若執行了jekyll 伺服器指令(&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;)後，打開瀏覧器可看到新網站的模樣，此時套用的是jekyll系統預設的主題：minima
-&lt;img src=&#34;/post/20161031-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;接下來同樣在文字指令環境下，打入：
 &lt;code&gt;$jekyll new-theme mynewtheme #mynewtheme為自取的主題名稱&lt;/code&gt;
 這時電腦又會自動生成一個「mynewtheme」資料夾，其目錄結構如下：
-&lt;img src=&#34;/post/20161031-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;把「mysite」底下的東西全部複製搬移到「mynewtheme」底下，此時在「mynewtheme」的工作目錄下，再打入jekyll 伺服器指令&lt;code&gt;mysite$bundle exec jekyll server&lt;/code&gt;，這時候會看到一個最原始還未加入任何CSS模版設計與圖片的初胚網站。
-&lt;img src=&#34;/post/20161031-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;找到自己看中意的jekyll theme，通常只要搜尋關鍵字，就會有許多豐富的網站，例如我google結果的前三名：
 + &lt;a href=&#34;http://themes.jekyllrc.org/&#34;&gt;themes.jekyllrc.org&lt;/a&gt;
@@ -464,10 +596,10 @@ National Security Agency surveillance&lt;/p&gt;
 + &lt;a href=&#34;https://jekyllthemes.io&#34;&gt;jekyllthemes.io&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;挑選好之後，可以透過：手動下載zip檔案，或是git clone 原始碼到本地端的電腦上。例如我挑選了一個： &lt;a href=&#34;http://jekyllthemes.org/themes/Jekyll-Stepbystep/&#34;&gt;Stepbystep主題&lt;/a&gt;，下戴其zip檔解壓後，先稍閱讀一下其安裝指南（readme.md）看看有什麼該注意的事項。接下來我是把「Stepbystep」資料夾內的東西全部複製移動到「mynewtheme」。當前工作目錄在「mynewtheme」，利用bundle exec執行jekyll 伺服器命令，沒遇上什麼阻礙順利地讓它跑起來。
-&lt;img src=&#34;/post/20161031-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;這時候打開瀏覧器，輸入jekyll本地預設網址&lt;a href=&#34;http://127.0.0.1:4000&#34;&gt;http://127.0.0.1:4000&lt;/a&gt; ，耶終於順利更換了jekyll 網站主題。原來更換主題看似也不算太難嘛，那到底之前我東搞西補地探索了兩三個星期是在幹什麼啊(╯-_-)╯ ~╩╩
-&lt;img src=&#34;/post/20161031-6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://jxtsai.github.io/post/20161031-6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;至於許多細部微調，得要再一一修改_config.yml等檔案。&lt;/p&gt;
 
@@ -475,150 +607,6 @@ National Security Agency surveillance&lt;/p&gt;
 + &lt;a href=&#34;http://jekyllrb.com/docs/themes/&#34;&gt;jekyll 官網說明&lt;/a&gt;
 + &lt;a href=&#34;http://www.jokinkuang.info/2016/09/03/how-to-create-the-jekyll-theme.html&#34;&gt;一步一步创建Jekyll主题&lt;/a&gt;
 + &lt;a href=&#34;https://fraserxu.me/2013/06/02/change-jekyll-blog-layout-in-ten-minutes/&#34;&gt;教你10分鐘內替換Jekyll博客樣式&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>大數據下的「我」？</title>
-      <link>/2016/10/29/aj-bigdata</link>
-      <pubDate>Sat, 29 Oct 2016 18:14:00 +0000</pubDate>
-      
-      <guid>/2016/10/29/aj-bigdata</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>檔案或目錄加密軟體</title>
-      <link>/2016/10/28/file-encrypt</link>
-      <pubDate>Fri, 28 Oct 2016 11:14:00 +0000</pubDate>
-      
-      <guid>/2016/10/28/file-encrypt</guid>
-      <description>&lt;p&gt;雲端硬碟空間的服務，讓工作或常用資料備份在遠端伺服器，一但本地端電腦出了狀況，最主要擔心檔案如何先取出的問題便不再擾人，可以隨時地再次進行重整化或重新安裝作業系統，或是根本換一台電腦的應對處置。
-不過隨著個人慢慢地了解一點資訊安全的皮毛以及落實個人資訊自主權與隱私的龜毛之後，益發覺得儲放於雲端的資料&lt;strong&gt;有些&lt;/strong&gt;需要先進行加密再上傳存放（有些極重要的安全資料，如GPG私鑰，我是不會把它上傳到網路而是另外存在SD數位安全卡。不過話說，從來也沒人傳加密郵件給我就是了:p）。因此先試用了二款「開源」的加密軟體&amp;mdash;cryptomator &amp;amp; CryFS，本文為簡單的使用介紹。
-&lt;/p&gt;
-
-&lt;h3 id=&#34;cryptomator&#34;&gt;cryptomator&lt;/h3&gt;
-
-&lt;p&gt;這款軟體是從調查記者的安全工具指南上看到的推薦。先從&lt;a href=&#34;https://cryptomator.org/&#34;&gt;其官網&lt;/a&gt;下載符合自己電腦作業系統的安全軟體，以我為例(ubuntu 14.04 64)，即是下載Version 1.2.0 • For Debian-based OS版本，稍後透過ubuntu software center 安裝（安裝後居然要佔200多mb）
-&lt;img src=&#34;/post/20161028-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;官網的使用示範影片（以window作業系統為例）&lt;a href=&#34;https://www.youtube.com/watch?v=zhDg2qnLgfo&#34;&gt;https://www.youtube.com/watch?v=zhDg2qnLgfo&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;啟動後的圖形介面
-&lt;img src=&#34;/post/20161028-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;按著其操作指南，使用者得先在硬碟（或是本地端與雲端儲存同步的專用資料夾底下）建立一個「保險庫」（vault）,用它來儲放欲加密的檔案。
-&lt;img src=&#34;/post/20161028-3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;先試試把一些檔案搬進去這個保險庫，重新啟動cryptomator，好讓它可以開始進行加密程序。目前看起來是有在進行一個加密的動作。照理說，原來拖入在此保險庫的未加密檔案，在完成加密後，理應把它刪除才是，所以我就徑行了刪除。
-&lt;img src=&#34;/post/20161028-4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;現在試著操作保險庫中加密檔案解密，當然解密前一定會詢問當初給這個vault設的主密碼，正確輸入後才會開始進行解密。
-&lt;img src=&#34;/post/20161028-5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在原作業的電腦上可以在輸入主密碼後，解密保險庫中的檔案，正常地讀取其內容。但是當我在另一台電腦上實驗能否解密dropbox保險庫中的加密檔案，卻傳回了失敗無法掛載該磁區的訊息。也不知要去哪裏查log檔案找出錯誤。
-&lt;img src=&#34;/post/20161028-6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;cryfs&#34;&gt;CryFS&lt;/h3&gt;
-
-&lt;p&gt;因為上述使用cryptomator的過程不算順利，從官網的說明與操示影片也是讓我看得一知半解，故決定再找找其它提供加密的開源軟體試試。
-目前有一款被推薦的CryFS,主要以linux系統為運行平台。反正這些需要加密的資料也用不著與其它人共用分享，故「毅然」來試用看看。&lt;/p&gt;
-
-&lt;p&gt;同樣也是在&lt;a href=&#34;https://www.cryfs.org/tutorial&#34;&gt;其官網&lt;/a&gt;下載，再透過ubuntu software center 安裝（安裝後只佔2mb左右，大勝）
-&lt;img src=&#34;/post/20161028-7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;目前CryFS的操作主要以純文字介面為主，透過在cli環境下指令來建置欲加密檔案的存放目錄以及解密目錄。後者下指令建立後,cryfs會將其弄成一個「虛擬的目錄」，換言之，被搬移到存放目錄的檔案或資料夾在此會自動被加密，只能透過解密目錄的開啟來察看其內容。但因為它又是一個「虛擬目錄」，故即便電腦落入它人手中，也無法隨便開啟，得先要啟動cryfs還原掛載該虛擬目錄，再輸入主密碼來讀取其內容。
-解密還原檔案前，先會要求輸入正確的主密碼
-&lt;img src=&#34;/post/20161028-8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;它也支援雲端儲存加密，作法其實是先在本地端雲端同步備分的目錄下建立一個欲存放加密資料的目錄夾與解密夾。
-我自己先試著在第一台電腦上作了一個dropbox的加密資料夾，並放上經過CryFS加密後的檔案。所以一般人在這個加密的資料夾看到的檔案內容長得這個樣子：
-&lt;img src=&#34;/post/20161028-9.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;接下來我試著在第二台電腦上來試試能否解密還原dropbox加密資料夾當中的原始內容，按其教學指南所示，我先在cli環境下輸入：
-&lt;code&gt;$acryfs Dropbox/encryt moundir&lt;/code&gt;
-#encryp是我在dropbox存放加密文件的資料夾，而moundir則是本地端欲開啟該文件的解密資料夾。
-輸入完上述指令後，系統因為找不到moundir這個目錄，故會問我是否要在本地端建立一個mountdir目錄，然後接下來詢問我encryt密碼。我先故意輸入錯誤密碼，結果系統回覆說因密碼錯誤無法載入設定檔也無法解密encrypt目錄下的加密文件。
-&lt;img src=&#34;/post/20161028-10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;第二次我方輸入正常密碼，這時就成功地掛載了本地端的解密目錄。當然按CryFS的設計，它在第二台電腦中也是一個「虛擬出來的」目錄。
-&lt;img src=&#34;/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;而要卸除mountdir這個虛擬目錄的掛載，只要輸入：
-&lt;code&gt;$fusermount -u mountdir&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;則這個目錄就會自動從第二台電腦上的掛載消失，雖然還是可以看到該目錄，但點擊後其內容空無一物。
-&lt;img src=&#34;/post/20161028-12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我是無法比較cryptomator/CryFS二者之間加密強度的高低，不過初步二者用過後，我會留下CryFS繼續利用它來對重要資料進行加密。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>another hexo site </title>
-      <link>/2016/10/26/hexo-site</link>
-      <pubDate>Wed, 26 Oct 2016 14:14:00 +0000</pubDate>
-      
-      <guid>/2016/10/26/hexo-site</guid>
-      <description>&lt;p&gt;今天上午看MLB世界大賽系列第一場轉播，因為看得很悶，所以一邊動手作了一個新網站。其目的是想來測試使用「國人」以javascript開發的&lt;a href=&#34;https://hexo.io&#34;&gt;靜態網頁生成器hexo&lt;/a&gt;，順便動手來整理昨天沒來由地無理頭的想法：
-
-&lt;img src=&#34;/post/20161026-1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;/post/20161026-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;這個簡單網站的實質內容取材與方向是：&lt;/em&gt;
-先把相關初步資料整理在&lt;a href=&#34;https://unote.jxtsai.info&#34;&gt;這裏（https://unote.jxtsai.info）&lt;/a&gt;
-目前在聯合國憲章人權保護特別程序下的幾個主題，應該是這幾個和台灣社會以及&lt;strong&gt;我個人興趣&lt;/strong&gt;比較相關，然後會再陸續把台灣在這領域的近況資料補充進去，有能力地話會寫下個人觀點的觀察分析。如此算來，一年也不過要寫3~4篇文章，所以應該還好吧？&lt;/p&gt;
-
-&lt;p&gt;而這個平台的架設方法則先安裝hexo在本地端電腦，寫好md文章轉成html格式，先發佈到gitlab.com（因為一直看不懂gitlab pages得要使用其ci的設定方法，所以尚無法直接利用它的靜態網頁服務），再透過netlify.com 提供的免費靜態網頁部署服務（且具自定網域與SSL功能）。　&lt;/p&gt;
-
-&lt;p&gt;唉，如果小熊今年還是沒能拿到世界冠軍，我就。。。╰（‵□′）╯（發毒誓）再做另一個有關聯合國人權條約機構的網站。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>新站啟用</title>
-      <link>/2016/10/24/hugo-site</link>
-      <pubDate>Mon, 24 Oct 2016 11:14:00 +0000</pubDate>
-      
-      <guid>/2016/10/24/hugo-site</guid>
-      <description>&lt;p&gt;之前試用了幾款靜態網頁生成器，並相繼把其安裝與使用簡介記錄下來。最近才發現早有一個整理了github上面受歡迎的&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;開源靜態網頁生成器&lt;/a&gt;網站，的確是蠻一目了然的實用指南。
-&lt;img src=&#34;/post/20161024-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;例如之前試過的jekyll就是其中排名第一（以得到星號、觀注度和fork次數計算）的靜態網頁生成器。從這個網站，我才知道之前曾試用的gitbook原來也是一個開源專案，除了提供網頁版的電子書線上編輯與作品發表外，另有客戶端的套件可下載安裝，讓使用者可以在自己的電腦端安裝gitbook-cli後即可以利用自己習慣愛用的純文字編輯器來寫作文本,再將之發佈到網路上。此單機版雖然理論上可以佈署在某個雲端虛擬機器上來運行，但似乎無法如gitbook網頁版支援多人協同編輯工作，不過其優點在於可以自行調校需要的版型與應用外掛功能（原來gitbook志願者開發的外掛已多達近500個！！）
-&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;看到這麼多靜態網頁生成器的出現，讓我更動心地想把markdown語法練熟一點，慢慢調整自己的寫作習慣單純地回歸純文字環境而不必啟動太複雜的版面排列編輯器，也逐步減少在blogger.com　/wordpress 後台寫部落格草稿的麻煩，因為每一次存檔的post request都似乎是一趟趟本地與雲端機器之間來回回應的時間與能源耗損（是真的有這麼計較嗎？）&lt;/p&gt;
-
-&lt;h5 id=&#34;blogger-wordpress-xml備份文件的轉檔&#34;&gt;blogger/ wordpress xml備份文件的轉檔&lt;/h5&gt;
-
-&lt;p&gt;有些囑目度較高的靜態網頁生成器如jekyll/ hugo,已有熱心的支持者協助開發了從blogger/ wordpress等平台跳船改泊的方法。例如我個人即是參考這篇文章的作法&lt;a href=&#34;https://samaxes.com/2016/02/static-site-from-wordpress-to-hugo/&#34;&gt;Moving to a Static Website, part 1: From WordPress to Hugo&lt;/a&gt;,將blogger上近700篇的文章順利自動轉成了markdown格式。因為其中還有許多圖片與連結要作修改，在今年六月部落格搬了一次家的勞心動作後，短期內不會再花時間一一地修改這些MD文件，只是把它們安心地放在個人電腦的硬碟裏存檔備份。&lt;/p&gt;
-
-&lt;h5 id=&#34;markdown語法的練習&#34;&gt;markdown語法的練習&lt;/h5&gt;
-
-&lt;p&gt;網路上不少markdonw語法入門皆提到，應用md語法的優點，仍在於讓寫作者單純地利用鍵盤直接記下版型指令，讓寫作者可先專心於文本內容的流𣈱書寫，先不須煩心頻繁切換到滑鼠啟動文書編輯軟體複雜的功能面版。其實我本來就不太愛用word文件編輯軟體，尤其痛恨它在不同版本與載具中就會曝露自身夾帶許多莫名奇妙的隱藏肥大編碼，更別提其隨著商業公開版本的不斷更新，新版文件無法相容相見於舊版軟體的尷尬囧境。所以這篇：指南利用純文字寫作&lt;a href=&#34;http://www.jianshu.com/p/qqGjLN&#34;&gt;為何作家應該用markdown保存自己的文稿&lt;/a&gt;　真是說中了我的心情啊。&lt;/p&gt;
-
-&lt;p&gt;至於學習語法最好的方式，除了先從簡單的認識入門，不妨試用者幾篇文件來編輯ＭＤ語法：
-+ &lt;a href=&#34;http://www.jianshu.com/p/2d1768785661&#34;&gt;第一步：学习Markdown语法编辑概要&lt;/a&gt;
-+ &lt;a href=&#34;http://wowubuntu.com/markdown/index.html#link&#34;&gt;Markdown 语法说明&lt;/a&gt; (简体中文版)&lt;/p&gt;
-
-&lt;p&gt;雖然任何純文字編輯器都可以用來作md文件的編輯器。我個人最喜愛用的是sublime text，但其中文輸入支援不佳，故在寫中文時我多使用ubuntu內鍵的text editor。最近從這篇文章的介紹:&lt;a href=&#34;http://www.arthurtoday.com/2015/04/6-markdown-editors-for-ubuntu-linux.html&#34;&gt;Ubuntu 六款 Markdown 編輯器快速試用心得&lt;/a&gt;,另外下載了&lt;a href=&#34;http://pad.haroopress.com&#34;&gt;haroopad&lt;/a&gt;使用，其優點在於提供了文件預覧功能，會比單純地在text editor文字編輯器上工作方便地知識打入的語法是否正確呈現。
-&lt;img src=&#34;/post/20161024-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;如果要使用markdown線上編輯服務，過去我偶而會使用的是hackpad，但個人不太喜歡它被dropbox收購後，其文件閱讀被整合成dropbox paper的樣式，故近日來改採用&lt;a href=&#34;http://hackmd.io&#34;&gt;hackmd.io&lt;/a&gt;的線上文件編輯，可惜它目前的線上協同合作功能暫時還比不上hackpad。&lt;/p&gt;
-
-&lt;h5 id=&#34;新站啟用&#34;&gt;新站啟用&lt;/h5&gt;
-
-&lt;p&gt;既然橫下心想要多採用MD寫作與保持文檔了，未來blogger也不會再作更新，畢竟同一文章卻得在不同格式之間地貼來貼去還真是蠻麻煩的，且我的部落格瀏覧量向來很低，尤其在社群社交網站當道的年代中自己並不使用臉書，如此在台灣逐漸被臉書單一化的網路應用層世界裏，一直乏人問津。不過書寫本身是一件蠻有趣的事，在數位時代中可以胡亂實驗各種平台或寫作方式，探索各種不斷開發前進的網頁技術變化，這些始終是我接觸互聯網世界以來最大樂趣之一，所以我當然還是會繼續公開地分享一些以文字為主的記錄。blogger有另一個網路大神當靠山，但blogger自定網域卻無法提供ssl支援，這點讓我心裏蠻介意不痛快的，更別提其最近又&lt;a href=&#34;https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking&#34;&gt;默默修改用戶隱私條款&lt;/a&gt;的作法，讓我想逐步脫離對其依賴（果然是難相處啊我）。之後&lt;a href=&#34;http://self.jxtsai.info&#34;&gt;blogger.com&lt;/a&gt;上面只會保留來作舊文的存檔連結，未來網路寫作的發佈平台會轉向利用hugo作成,存放在github的空間: &lt;a href=&#34;https://blog.jxtsai.info&#34;&gt;https//:blog.jxtsai.info&lt;/a&gt;。(其實比較想存放在開源的gitlab，但一直看不懂它的ci設定方法)&lt;/p&gt;
-
-&lt;h5 id=&#34;靜態網頁生成器的精進修練&#34;&gt;靜態網頁生成器的精進修練&lt;/h5&gt;
-
-&lt;p&gt;雖然看似有這麼多各家語言寫成的靜態網頁生成器，可以在彈指之間就架好一個可發佈的網站內容，但是若想調校出與眾不同的模版樣式，就得花時間在摸熟CSS/SASS，一整個就是人生沒有捷徑可以偷懶的感覺啊。&lt;/p&gt;</description>
     </item>
     
   </channel>

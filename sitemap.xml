@@ -2,87 +2,298 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://jxtsai.github.io/post/10-tactics/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/post/privacytools-chinese/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/post/benchmarks-x-2016/</loc>
+    <lastmod>2016-12-22T08:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/post/markdown-slide/</loc>
+    <lastmod>2016-12-19T19:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/post/Global%20NGO%20Online/</loc>
     <lastmod>2016-12-14T09:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/12/14/global-ngo-online</loc>
-    <lastmod>2016-12-14T09:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2016/12/05/privacy-in-taiwan</loc>
+    <loc>https://jxtsai.github.io/post/privacy-in-Taiwan/</loc>
     <lastmod>2016-12-05T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/29/email-for-work</loc>
+    <loc>https://jxtsai.github.io/post/email-for-work/</loc>
     <lastmod>2016-11-29T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/23/ngo-domain-name</loc>
+    <loc>https://jxtsai.github.io/post/ngo-domain-name/</loc>
     <lastmod>2016-11-23T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/21/twngo-xyz</loc>
+    <loc>https://jxtsai.github.io/post/twngo-xyz/</loc>
     <lastmod>2016-11-21T19:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/15/digital-security-tools</loc>
+    <loc>https://jxtsai.github.io/post/digital-security-tools/</loc>
     <lastmod>2016-11-15T17:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/09/5wofinformationonline</loc>
+    <loc>https://jxtsai.github.io/post/5WofInformationOnline/</loc>
     <lastmod>2016-11-09T12:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/03/corporate-surveillance</loc>
+    <loc>https://jxtsai.github.io/post/Corporate%20Surveillance/</loc>
     <lastmod>2016-11-03T12:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/02/hr-documentation-toolkit</loc>
+    <loc>https://jxtsai.github.io/post/hr-documentation-toolkit/</loc>
     <lastmod>2016-11-02T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/11/01/iccpr-review</loc>
+    <loc>https://jxtsai.github.io/post/iccpr-review/</loc>
     <lastmod>2016-11-01T09:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/10/31/jekyll-theme</loc>
+    <loc>https://jxtsai.github.io/post/jekyll-theme/</loc>
     <lastmod>2016-10-31T12:09:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/10/29/aj-bigdata</loc>
+    <loc>https://jxtsai.github.io/post/AJ-bigdata/</loc>
     <lastmod>2016-10-29T18:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/10/28/file-encrypt</loc>
+    <loc>https://jxtsai.github.io/post/file-encrypt/</loc>
     <lastmod>2016-10-28T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/10/26/hexo-site</loc>
+    <loc>https://jxtsai.github.io/post/hexo-site/</loc>
     <lastmod>2016-10-26T14:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/10/24/hugo-site</loc>
+    <loc>https://jxtsai.github.io/post/hugo-site/</loc>
     <lastmod>2016-10-24T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>https://jxtsai.github.io/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/advocacy/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/big-data/</loc>
+    <lastmod>2016-11-09T12:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/categories/blogging/</loc>
+    <lastmod>2016-10-31T12:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/digital-tools/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/documentation/</loc>
+    <lastmod>2016-11-02T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/ebooks/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/email/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/encryption/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/git/</loc>
+    <lastmod>2016-10-24T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/github/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/hacker-slide/</loc>
+    <lastmod>2016-12-19T19:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/hexo/</loc>
+    <lastmod>2016-10-26T14:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/hugo/</loc>
+    <lastmod>2016-10-24T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/categories/human-rights/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/categories/internet/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/javascript/</loc>
+    <lastmod>2016-10-26T14:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/jekyll/</loc>
+    <lastmod>2016-10-31T12:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/markdown/</loc>
+    <lastmod>2016-12-19T19:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/netlify/</loc>
+    <lastmod>2016-10-26T14:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/ngo/</loc>
+    <lastmod>2016-11-29T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/post/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/privacy/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/reveal/index.js/</loc>
+    <lastmod>2016-12-19T19:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/security/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/social-media/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/surveillance/</loc>
+    <lastmod>2016-12-27T11:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/tacitical-technology-collective/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/toolkit/</loc>
+    <lastmod>2016-11-02T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/twngo/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/tags/zoho/</loc>
+    <lastmod>2016-11-29T11:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxtsai.github.io/</loc>
+    <lastmod>2017-01-01T10:24:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

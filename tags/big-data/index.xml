@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Return to laughter</title>
-    <link>/tags/big-data/index.xml</link>
-    <description>Recent content on Return to laughter</description>
+    <title>Big Data on backup Site</title>
+    <link>https://jxtsai.github.io/tags/big-data/index.xml</link>
+    <description>Recent content in Big Data on backup Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://jxtsai.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>互聯網：網路個人資料可視狀況總覧</title>
-      <link>/2016/11/09/5wofinformationonline</link>
+      <link>https://jxtsai.github.io/post/5WofInformationOnline/</link>
       <pubDate>Wed, 09 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>/2016/11/09/5wofinformationonline</guid>
-      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看𠟜到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
+      <guid>https://jxtsai.github.io/post/5WofInformationOnline/</guid>
+      <description>&lt;p&gt;十幾天前，透過open technology fund的推文，看到美國哥倫比亞大學新聞研究學院&lt;a href=&#34;http://towcenter.org/&#34;&gt;Tow Center for Digital Journalism&lt;/a&gt;,在gitbook發佈了一個漫畫：&lt;a href=&#34;https://www.gitbook.com/book/towcenter/understand-your-internet-the-five-w-s-of-informat/details&#34;&gt;Understand Your Internet: The Five W&amp;rsquo;s of Information Online&lt;/a&gt;
 &lt;img src=&#34;https://ek8whxe.cloudimg.io/s/cdn/x/https://www.gitbook.com/content/book/towcenter/understand-your-internet-the-five-w-s-of-informat/TheInternetADataVisibilityOverview-low.jpg&#34; alt=&#34;image Five W&#39;s of Information Online&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地𠞕動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
+&lt;p&gt;既然原作者公開徵求各國語言版本的翻譯協助，且內容還算簡單，我當下便隨手翻好了文字稿內容，然後又多事地動手作了圖檔的編輯製作，總共大約花了一個工作天的時數。雖然已把檔案回傳給原作者，但一直沒收到確認的回覆(￣３￣)a 。&lt;/p&gt;
 
 &lt;p&gt;ISP業者知道用戶瀏覧、造訪什麼網站網頁內容，這個長久存在的事實，似乎一直不受上網用戶的重視，或者是因對於互聯網基本架構的無知，存有某種匿名安全感的天真幻想，嗯，我說的就是我自己啦。&lt;/p&gt;
 
-&lt;p&gt;直到這一兩年，稍微去了解一點𦃝𦃝網𪆽路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
+&lt;p&gt;直到這一兩年，稍微去了解一點網路安全的皮毛，才慢慢意識到這個曾經讓我以為是解放知識與分散權力的科技，不會是烏托邦實現的許諾。即便自己只是微小不足道的網民一枚，面對國家、跨國大企業、上司，不管面對多大多小的權力，我都想要做一點卑微的掙扎來主張個人的自由意志與自決，不管這樣的抵抗是多麼無謂而令人發笑。&lt;/p&gt;
 
-&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向𦃝𦃝網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
+&lt;p&gt;翻譯這份資料時，我也順手查了一下台灣官方向網路業者索取用戶資料的狀況與法律依據。去年公民團體台灣人權促進會曾發佈了一份&lt;a href=&#34;http://www.tahr.org.tw/transparency/&#34;&gt;「台灣網路透明度」的報告&lt;/a&gt;)，但讀完後我還是很納悶：到底警調機關向網路業者申請調取用戶資料（什麼樣的資料內容？）的法律依據（電信法？通訊保障監察法？）與一般程序（什麼情況下可發動請求？是否須經法院監督審查？事後救濟？）&lt;/p&gt;
 
 &lt;p&gt;我正在試著整理這樣的資料，希望最好能進一步地利用infographic來呈現台灣的狀況。&lt;/p&gt;
 
@@ -34,10 +33,10 @@
     
     <item>
       <title>Corporate Surveillance, Digital Tracking, Big Data &amp; Privacy</title>
-      <link>/2016/11/03/corporate-surveillance</link>
+      <link>https://jxtsai.github.io/post/Corporate%20Surveillance/</link>
       <pubDate>Thu, 03 Nov 2016 12:14:00 +0000</pubDate>
       
-      <guid>/2016/11/03/corporate-surveillance</guid>
+      <guid>https://jxtsai.github.io/post/Corporate%20Surveillance/</guid>
       <description>&lt;p&gt;十月中旬美國有一則堪稱「熱門」訊息（華文端傳媒也作了報導），美國民權組織&lt;a href=&#34;https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target&#34;&gt;ACLU北加州分會&lt;/a&gt;公開挑戰質疑某家提供「社交網站即時監控服務」的公司，這也讓三大社群網站facebook, twitter. instagram宣佈不再將用戶資料賣給這家Geofeedia。&lt;/p&gt;
 
 &lt;p&gt;昨天又看到英國有一家保險公司&lt;a href=&#34;http://www.bbc.com/news/business-37847647&#34;&gt;Admiral打算透過讓摩托車主是否願意提供其臉書資料&lt;/a&gt;（當然初期可能會有折扣優惠來刺激用戶同意），來讓公司從保戶在社交網站上的行為模式來決定其保費高低。雖然這樣的打算因為臉書自己跳出來「聲稱」其非常重視用戶隱私而不會同意保險公司推行。&lt;/p&gt;
@@ -53,7 +52,7 @@
 
 &lt;p&gt;如果你也有和我一樣的疑惑，建議你不能錯過這本「Network of Control：Corporate Surveillance, Digital Tracking, Big Data &amp;amp; Privacy」。原書以德文寫成，不過現已有英文版，而且作者還大方地把全文放上網路免費下載。原書下戴處：&lt;a href=&#34;http://crackedlabs.org/en/networksofcontrol&#34;&gt;http://crackedlabs.org/en/networksofcontrol&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161103-1.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;作者以上述類似的問題意識出發，試圖透過大量的文獻梳理來回答下列：&lt;/p&gt;
 
@@ -79,18 +78,18 @@
     
     <item>
       <title>大數據下的「我」？</title>
-      <link>/2016/10/29/aj-bigdata</link>
+      <link>https://jxtsai.github.io/post/AJ-bigdata/</link>
       <pubDate>Sat, 29 Oct 2016 18:14:00 +0000</pubDate>
       
-      <guid>/2016/10/29/aj-bigdata</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <guid>https://jxtsai.github.io/post/AJ-bigdata/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161029-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;
 昨天不記得從哪篇文章連到了2014年半島新聞美國電視台所製作發佈的一本電子書&lt;a href=&#34;http://projects.aljazeera.com/2014/terms-of-service/&#34;&gt;「Terms of Service: Understanding our role in the world of big data」&lt;/a&gt;，內容非常精采，把許多數位時代下大數據隱憂用生動活潑的故事，透過友善親近的漫畫形式，具體而微地呈現了當下網路時代的現象與問題，我特別截出了二個最讓我印象深切的截圖。十多年前我們或許擔心的是：上網瀏覧記錄與內容會被誰(ISP,網站內容供應商、不知名的隱形廣告cookies)看到，那些有意無意留下的軌跡資料會如何被利用？然而在2014, 2016的情境下，已不是「上線連網」時的個資收集與曝露，而是無所不在不無時不刻無所不極的全方面記錄蒐集&amp;mdash;從行動電話的地理位置追踪到行車記錄、運動手環、物聯網「智慧」裝置等等。所以作為一個人主觀希望願意表述出來，所欲告之世人的「自己」&amp;ndash;我這個人是什麼個性、有什麼興趣啫好、抱著什麼樣的信念價值&amp;hellip;.，早已經無關緊要。商業公司、政府、僱主、陌生人等等，甚至朋友，他們更重視與相信的，反倒是那個透過各方數據剖析揭露的所謂「更」真實、「更」客觀的&lt;strong&gt;我&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;天啊，有沒有這麼對人的自主（self autonomy）與存在價值感到這麼地絕望啊！！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jxtsai.github.io/post/20161029-2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;強烈推薦這個Al Jazeera 精心製作網站或下載其電子書格式（epub, pdf）。&lt;/p&gt;</description>
     </item>
