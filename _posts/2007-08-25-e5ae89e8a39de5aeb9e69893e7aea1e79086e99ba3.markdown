@@ -1,0 +1,18 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-25 08:02:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/25/%e5%ae%89%e8%a3%9d%e5%ae%b9%e6%98%93%e7%ae%a1%e7%90%86%e9%9b%a3/
+slug: '%e5%ae%89%e8%a3%9d%e5%ae%b9%e6%98%93%e7%ae%a1%e7%90%86%e9%9b%a3'
+title: 安裝容易管理難
+wordpress_id: 333
+categories:
+- dotlife
+- software
+---
+
+透過opnesourceinstall.org的教學，我很快地在租用智邦的網路空間裏安裝好了drupal，打算把它用來做為[AYAT](http://www.tima.org.tw/ayat)的管理後台。不過它的使用介面我還不熟悉，一個人摸索起來有點霧煞煞。不過既然[苦勞網](http://www.coolcould.org.tw/)和[環境資訊協會](http://www.e-info.org.tw/)都拿drupal來做平台，希望我也可以把運用地更全面。  
+其實有時間是想來試玩typo3，聽說在國外挺流行的，嘗試用過一次它所提供的離線安裝版，哇，真是一整個傻眼，完全不知道這個網頁管理的層次和邏輯是什麼。  
+然後，繼上回完成了limesurveyor 線上問卷的安裝後，就是摸索它要如何使用，什麼是群組設定、標籤、各種問題和答案選項要套用何種格式才適合，我鍵入了半天，結果還不小心把問題群族給刪除了，真是一邊輸入，一邊駡人。不過這個免費的線上問卷真是強啊，難怪被推薦得到最高5分的使用者評價。  
+昨天在線上被朋友丟訊問我如何抓mp3，唉，心裏一整個悲從中來，馬上響起zonble的「[我才不要幫你修電腦」](http://zonble.twbbs.org/archives/2005_07/784.php)。我是不是該抓狂起來說「這個世界上還有千千萬萬個google 」，這到底是學習能力還是態度的問題讓我困擾啊？

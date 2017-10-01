@@ -1,0 +1,47 @@
+---
+author: jx tsai
+comments: true
+date: 2016-01-19 07:41:00+00:00
+title: 嘗試安裝 pattrn （開源事件回報資訊呈現）
+wordpress_id: 97
+categories:
+- dotlife
+- javascript
+---
+
+從網路上看到一個線上互動式的數據資料整理呈現地理資訊: pattrn project。過去也試玩過[ushahidi 這個開放原始碼線上通報系統](https://www.ushahidi.com/features)，其功能目的可能大同小異。後者似乎是以java script撰寫其網頁前台的互動功能，再透過整合了google drive, google sheets， 各類網頁應用API服務等線上工具，打造出一個不用SQL的數據記錄與呈現網頁。  
+  
+  
+  
+  
+因為閒來無事，照著[pattrn 安裝手冊指引](http://pattrn.co/wp-content/uploads/2016/01/PATTRN-Complete-Doc-final.pdf)，試著來套用安裝看看，遂把我自己嘗試過程的筆記整理如下：  
+  
+1. 一開始它說，要安裝 PATTRN Platform的先決條件有：有google 帳號，開通google drive (雲端硬碟)，能使用google sheets(試算表）的基本操作，與一個網站空間。聽起來這些要求的條件並不困難，故繼續往下走。  
+  
+2. 把開發者放在[雲端的分享檔案](https://drive.google.com/folderview?id=0BwR9PFzDne86dU1qRWpxY3pacUU&usp=sharing)複制到自己的google drive  
+因為是透過google sheets 試算表來取代資料庫，所以這地方得花點功夫，按照說明手冊的指示，逐一把開發者翻出的6個檔案搬回自己的google drive   
+  
+3. 修改google drive 下檔案內容  
+上步驟中完第成了試算表檔案的複本搬移，但內容還沒作修改，尤其是得把一些識別碼寫入自己google drive 底下的IDKey 資料，這樣程式才不會認錯截取的不是自己google drive 的更新資料，反而是pattrn 示範檔案的東西。主要是動到“PATTRN——Admin”這個檔案的第二張工作表，把相關的檔案識別檔（IDKey）正確寫入，包括新增一個空資料夾，作為未來放置多媒體檔案用。  
+  
+4. PATTRN_Editor_Script  
+複製過來的6個檔案中，有5個是google sheets試算表格式，唯一個PATTRN_Editor_Script應是由js寫成的程式碼。我這才知道，原來google 還有這麼一個"google app script"第三方開發工具，可以進行程式碼的編寫與測試啊。按說明書的指示，在該檔案中補上自己正確的使用者資料後，再讓這支程式執行（"Run" > "Set_Script _Properties"）。然後再進行下一個執行命令（ "Run" > "Load_keys_from_admin"）。據說作完這兩個執行動作後，就可以讓這個JS程式碼與PATTRN的試算文件相互進行同步作業。但開發者提醒我們別忘了一個小動作：把code.gs 這個檔案中原本剛剛加入的使用者資料復原，這是為了網路安全，以免有他人從這種偷取了管理者的識別資料。   
+  
+確定已把原有資料刪除後，就可以把PATTRN_Editor_Script這個檔案發佈到網路上。記得把生成的檔案在網路上發佈的網址資料先複製好，等會把它貼到檔案“PATTRN_Admin”工作表上的指定位置（第一張工作表的A2表格）。  
+  
+5. 處理 PATTRN Editor ／ PATTRN PASSWORD   
+這個步驟只是要更新原始檔案中的資料以符合自己的需求，例如在PATTRN）PASSWORD下設置一組帳戶與密碼。  
+  
+6. 下載PATTRN 原始碼檔案  
+上述1～5的步驟似乎只是在處理PATTRN編輯器的安裝設定，接下來則進入了PATTRN平台的設置階段。先到其開發者放在github上的資料庫，下載最新的程式碼壓縮包。解壓縮後，得要修改/js/config.json 這個檔案。主要是在程式的第二行和第三行  
+"public_spreadsheet":"填入 PATTRN_Master工作表的網頁發佈地址"  
+"script_url":"填入PATTRN_Admin第一個工作表中表格A6的資料"  
+完成後存檔。  
+  
+7.把PATTRN所有資料夾／程式碼，上傳到自己的網頁空間，理論就此應該大功告成。  
+  
+![pattrn ](https://2.bp.blogspot.com/-ieSRA350bag/V33A_KKIUxI/AAAAAAAAKTE/PyawHvHcPsclGaNyqU3C5tzqgIbv3VfLQCLcB/s320/Screenshot-from-2016-01-18-103241-1024x576.png)  
+  
+不過我在仔細地依上述指示，進行過二次安裝後，雖然[姑且好像把它安裝起來了](http://blog.jxtsai.info/pattrn/)，但是當測試右上角「Edit / Add Event」的功能，卻一直無法成功地新增回報事件。即使試著到「[PATTRN Editor](https://script.google.com/macros/s/AKfycbxmPXN6UyeqQFDohCtNsQTKOSIwSOGRnFxAnYdfj8sCMihOj6M/exec?par=editor)」這個理論上作為管理和輸入事件活動的編輯台，也無法登入。不知道問題到底出在那裏>''<。  
+  
+試了最後一個辦法，直接到googe drive 下的試算表 PATTRN_MASTER 中新增事件回報，可以在第一張工作表上打入資料並成功地顯示在網站前台，如此我猜前二個辦法無法奏效可能是PATTRN_Editor出了問題吧。

@@ -1,0 +1,25 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-08-31 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/08/31/%e6%88%91%e7%9a%84%e8%87%aa%e7%94%b1%e8%bb%9f%e9%ab%94%e9%81%b8%e5%96%aefor-pc/
+slug: '%e6%88%91%e7%9a%84%e8%87%aa%e7%94%b1%e8%bb%9f%e9%ab%94%e9%81%b8%e5%96%aefor-pc'
+title: 我的自由軟體選單(for PC)
+wordpress_id: 780
+categories:
+- dotlife
+- software
+---
+
+今天下午在辦公室和一位小朋友進行一對一簡單的電腦教學，結果除了主題「多媒體製作」的非線性剪輯軟體的使用之外，又聊到一些電腦軟體使用的常識和我個人常用的軟體。除了我當場提到一些「作弊」式的找軟體、破解的作法之外，其實有不少好用實惠的開放原始碼自由軟體，在網路上供人免費下載使用。它們的功能不輸給大型軟體公司開發出來的付費商業軟體，或者，其實我們這些末端使用者，根本也不需要裝太龐大的商業軟體那些眩目但用不上的功能來吃掉系統資源，只要找到符合自己需求的應用程式，它又可以忠實敦厚地發揮其主題作用，不會鬧脾氣不會搞外遇，這不是比安裝那些笨重的軟體更聰明嗎？  
+  
+所以我便整理五個我最愛用的自由軟體，也誠心地把它推薦給各位。  
+  
+1.  [Firefox](http://www.jxtsai.info/blog/) : 本人在各種平台上習慣的溜覽器。特別是依賴它的分頁（TAB）和書籤支援RSS訂閱的方便。用來取代漏洞百出的IE，大大避免了木馬程式入侵和無聊彈出廣告的威脅。  
+2. [ Miranda IM](http://www.jxtsai.info/blog/)：用來取代MSN 、yahoo messenger 、ICQ、jaber、QQ....的一個線上即時通訊整合軟體。麻雀雖小，可是五臟俱全。換言之，只要有miranda ，就不用再個別裝MSN、ICQ、Yahoo....，可以同時執行這些IM的整合，要傳文字訊息給線上朋友就很方便。（像我就不明白MSN 7.0版那麼花俏做什麼，跑一個winks，電腦就快停住掛點了）  
+3.  [VCL Media Player](http://www.jxtsai.info/blog/) ：好用的多媒體播放器。可以打開各種的影片格式，又不佔太多系統資源。不要再用醜醜的windows media player 了！！  
+4.  [limewire](http://www.jxtsai.info/blog/) : 跨平台的P2P傳輸軟體，我都用它來下載檔案和抓影片XD  
+5. [Tugzip](http://www.jxtsai.info/blog/) : 幾乎是無敵的解壓縮軟體。有了它之後，不用再被winzip囉嗦要繳錢註冊，也不用為了開rar 檔還得再裝winrar。  
+  
+[freeware](http://www.jxtsai.info/blog/)

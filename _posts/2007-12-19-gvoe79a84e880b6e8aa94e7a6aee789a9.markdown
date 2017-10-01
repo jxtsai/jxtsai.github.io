@@ -1,0 +1,22 @@
+---
+author: jx tsai
+comments: true
+date: 2007-12-19 09:36:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/12/19/gvo%e7%9a%84%e8%80%b6%e8%aa%94%e7%a6%ae%e7%89%a9/
+slug: gvo%e7%9a%84%e8%80%b6%e8%aa%94%e7%a6%ae%e7%89%a9
+title: GVO的耶誔禮物
+wordpress_id: 293
+categories:
+- development
+- dotlife
+- NGO
+---
+
+過去這兩個月一直靠著[翻譯GVO文章](http://taipedia.selfip.info/mediawiki/index.php/GVO_%E7%BF%BB%E8%AD%AF%E8%A8%88%E7%95%AB)來做為一種自我治療和打發時間的方式，結果居然年終時還莫明奇妙地領到一筆2000元的誠品禮卷。  
+  
+拿到這筆意外的禮物，心裏一刹間轉過百種念頭。原本想著圖書禮卷應該可以用來買個年度十大好書之類的補充一下精神食糧，可我並不習慣在誠品那種地方消費，還是把禮卷網拍換成現金到其它折扣書店換回更多存糧。可是把人家好意贈送的耶誕禮物轉換成了現金，這聽起來實在是太市儈了，錢還沒換成有氣質的書就會被我花用在其它非文化的層面。而且我越來越覺得，我需要的是一種電子閱讀器方便讀取各類數位文件，私底下也越來越擔心，這幾年買來的書，三四十年之後要捐給圖書館若沒人要收留，屆時替辦我後事的人還要花一筆錢也把這堆書一起火化嗎？死後還給世界留下一堆「二氧化碳足跡」應會被怨念不已吧  
+  
+It's Christmas time, 我不是教徒，但在這個宗教氣氛濃厚的季節裏，更提醒衣食無缺生活勉強過得去的我，施總是比受有福。自從今年[8月在kiva 貸出第一筆實驗性質款項](http://self.jxtsai.info/2007/08/blog-post_8.html)後，因為目前私人財務狀況蠻吃緊的，沒能再繼續加碼，那就乾脆把這筆拍賣折現的錢，換成kiva fund 捐貸於人間裏某處需要錢來創業追求希望的人吧。為求網拍早日脫手，我以85折兜售，在半小時之內就把禮卷賣出，得到的金額是台幣1700元。  
+  
+代二位創業者--[祕魯的Eduardo](http://www.kiva.org/app.php?page=businesses&action=about&id=27114) 以及坦尚尼亞的[Nelea Mateka](http://www.kiva.org/app.php?page=businesses&action=about&id=27281)，謝謝GVO中文化小組的耶誔禮物。我也要感謝，終於讓[我在Kiva 的「投資組合」](http://www.kiva.org/lender/chihsun2440)，看起來至少達到平均值2.4的水準。

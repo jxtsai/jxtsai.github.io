@@ -1,0 +1,20 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-12-10 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/12/10/benin%e7%9a%84%e9%9d%92%e5%b0%91%e5%b9%b4%e5%81%a5%e5%ba%b7%e8%88%87%e7%99%bc%e5%b1%95%e7%9f%ad%e7%89%87/
+slug: benin%e7%9a%84%e9%9d%92%e5%b0%91%e5%b9%b4%e5%81%a5%e5%ba%b7%e8%88%87%e7%99%bc%e5%b1%95%e7%9f%ad%e7%89%87
+title: Benin的青少年健康與發展短片
+wordpress_id: 918
+categories:
+- development
+- multimedia
+---
+
+從 [聯合國人口發展基金會](http://www.unfpa.org/)上看到的一支短片介紹  
+一個名之為：[EAGER的專案--- Health and Social Services for Adolescents in Benin。](http://zunia.org/fr/post/eager-project-creating-opportunities-for-youth-in-benin-video%22)  
+  
+這個由UNICEF和UNFPA所贊助的計畫，主要針對MDG的三個目標：教育普及化; 兩性平等和婦女培力;打擊AIDS和其它疾病。此外，它也支持著開羅人口會議所宣示的兩大目標（ ICPD International Conference on Population and Developmen）: 提昇兩性平等終結男女學童在中初級教育上的差距、透由識字教育和職育訓練來培力婦女。  
+  
+這支[短片](http://www.unfpa.org/adolescents/opportunities/video/benin_vid.htm)，簡單地介紹了這個EAGER的大致內容：如職訓、青少年愛滋防制健康教育，透過這些課程，讓訓練者成為同儕之間的健康知識行為的倡議行動者。

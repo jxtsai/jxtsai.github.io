@@ -1,0 +1,27 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-10-03 15:04:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/10/03/meebo/
+slug: meebo
+title: Meebo
+wordpress_id: 752
+categories:
+- dotlife
+---
+
+我本來就不太喜歡用微軟推出的正版MSN（現在要改稱window live messenger）、Yahoo Massenger即時通，因為隨著強制升級的要求，就得安裝一些花而不實又耗費資源的東西。因此在windows平台上，我還是愛用Miranda 這個簡小精捍的通訊軟體，一家通吃ICQ, Jabber , yahoo MSN。  
+  
+昨天看到有人介紹 [Netvibes 個人化首頁](http://www.netvibes.com/)服務，試用了一下，特別玩了一會其中整合[Meebo](http://www.meebo.com/)網頁AJAX技術即時通訊的功能，可以利用一張瀏覽器分頁玩遍所有IM通訊協定，還可以自定聊天房，出入各家網友所開的聊天室。最令我意外的是，它在windows XP 下跑的很順暢，幾乎沒有卡住的感覺。可惜在ibook上使用safari 並沒有正確支援其中文顯示，而若用firefox 跑，則因為我現有機子太老舊暫存記憶體不足，執行meebo 果然真會讓人想摔機的痛苦感。  
+  
+![](https://4.bp.blogspot.com/-keuKX1uMJuI/V4IcDBLA14I/AAAAAAAAKcU/D_EUBgx-Y3gv8TSvZrgaYjwuisv1yCGkQCLcB/s320/1110284879_8aa79dfbd2-300x187.jpg)
+
+  
+相較之下，MSN號稱推出的web 版服務，就真是太不長進了。嗯，現在這個網誌，怎麼越來越變成是寫網路小玩意的走向了呢？
+
+  
+
+
+  
+

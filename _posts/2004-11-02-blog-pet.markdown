@@ -1,0 +1,16 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-11-02 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/11/02/blog-pet/
+slug: blog-pet
+title: Blog Pet
+wordpress_id: 927
+categories:
+- blogging
+- dotlife
+- game
+---
+
+先幫人寄養這隻部落格兔，等我再想想，如何讓plog 群的使用者，也可以自行修改網誌樣版來自己繁殖喜歡的玩意。

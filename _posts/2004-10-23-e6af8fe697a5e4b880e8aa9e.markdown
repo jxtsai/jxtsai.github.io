@@ -1,0 +1,22 @@
+---
+author: jx tsai
+comments: true
+date: 2004-10-23 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/10/23/%e6%af%8f%e6%97%a5%e4%b8%80%e8%aa%9e/
+slug: '%e6%af%8f%e6%97%a5%e4%b8%80%e8%aa%9e'
+title: 每日一語
+wordpress_id: 936
+categories:
+- NGO
+- ordinary or complaints
+---
+
+從[The Development CAFE](http://www.devcafe.co.nr/)看到的一句話：  
+  
+"NEVER DOUBT THAT A SMALL GROUP OF THOUGHTFUL, COMMITTED PEOPLE CAN CHANGE THE WORLD, INDEED, IT IS THE ONLY THING THAT EVER HAS!"  
+Margaret Meade  
+  
+或許，「我們」還在為[TIMA](http://www.tima.org.tw/)該不該、能不能作為一個倡議團體，如何讓更多台灣年輕人對於國際健康合作、貧窮與發展等議題多點關心和行動。  
+  
+以此共勉之。

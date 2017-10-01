@@ -1,0 +1,79 @@
+---
+author: jx tsai
+comments: true
+date: 2007-09-24 08:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/09/24/%e9%a2%b1%e9%a2%a8%e5%a4%a9%e7%9a%84%e6%b5%81%e6%b0%b4%e5%b8%b3/
+slug: '%e9%a2%b1%e9%a2%a8%e5%a4%a9%e7%9a%84%e6%b5%81%e6%b0%b4%e5%b8%b3'
+title: 颱風天的流水帳
+wordpress_id: 320
+categories:
+- ordinary or complaints
+---
+
+颱風天跑來加班，靜靜的辦公室裏偶而忽大忽小的雨聲，連飯都沒出去吃工作效率爆高，我真的不適合和人溝通哈啦言不及義，原來埋頭一個人幹才是我的tone ?這是今天的流水帳。
+
+  
+
+
+1. 弄好公文郵寄學校名單、公文初稿。
+
+  
+
+
+2.更新[AYAT](http://www.tima.org.tw/ayat)網站, 更新[TIMA首頁](http://www.tima.org.tw/xoops/html/modules/news/article.php?storyid=55)新聞和入口圖片連結。
+
+  
+
+
+3. 修改[台灣應用劇場發展中心](http://www.e-catt.org/)網站，新安裝drupal, xoops 等CMS作為使用測試。（我寫的slogan還被團長贊了一下很專業，是做過社造的人。哈，其實我最會的是喊口號啦）
+
+  
+
+
+4.更改[齊家基金會](http://chefoundation.blogspot.com/)網站布景 (可惡的IE，又不支援這個清爽簡捷的模版，側欄老往下掉)
+
+  
+
+
+5.完成[自然之窗台灣自然影音頻道](http://green.ngo.org.tw/)的二支影片畫面截取工作。
+
+  
+
+
+6. 完成拖了一個多星期的GVO Africa's Informal Economy 的翻譯初稿
+
+  
+
+
+天啊，我最近怎麼幾乎都是在做網站><，要找點別種性質的事來做啦。
+
+  
+
+
+再來記一些最近影展活動（大家真的很愛看影片嗎＠＠）
+
+  
+
+
+1. [女性影展](http://www.wmw.com.tw/)
+
+  
+
+
+2.[鐵馬影展](http://ironhorse2007.blogspot.com/)
+
+  
+
+
+3.[和平影展](http://www.peace.org.tw/island/movie/peacemovie_2007_02/2007ONEWEB.html)
+
+  
+
+
+4.[台灣民族誌影展](http://www.tieff.sinica.edu.tw/ch/2007/c-index.html)
+
+  
+
+
+5. 最後推的是環境資訊中心的「[自然生命印象攝影短片](http://green.ngo.org.tw/lifeimage.htm)」徵選活動。（我昨天去e-info辦公室看到目前為止的參加作品還不多，入選機會應該蠻大的吧＠＠）

@@ -1,0 +1,27 @@
+---
+author: jx tsai
+comments: true
+date: 2015-02-15 20:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/02/15/backdrop/
+slug: backdrop
+title: Backdrop
+wordpress_id: 186
+categories:
+- blogging
+- dotlife
+---
+
+又一個新的網站內容管理軟體CMS。  
+  
+申請了一個[Backdrop](http://dev-jxtsai.pantheon.io/)的試用網站空間。  
+  
+看起來 [Backdrop](https://backdropcms.org/) 這款網站架設內容管理軟體（Content Management Software），應是從drupal 系統分流出來的另一套CMS，據其官網上所揭示的哲學，它強調網站管理使用者的需求與考量，優先於程式碼開發者，讓網管人員容易使用上手，也讓中小型的組織可以負擔其官網的穩定經營，因此其軟體版本的變動不會太過頻繁。  
+  
+看了其它網路文章的介紹，才知道Backdrop 的原開發者之一，因為自己原本使用Drupal 7 網站要昇級到Drupal 8 花費了他許多心力重新來過，因此決定以 Drupal 7另開戰場，也希望把變動作到最小（Keep change to a minimum）用為Backdrop 在構思軟體昇級與發展方向的核心原則。而要實踐這樣的原則，Backdrop的決策規則就成了，在其專案管理委員會roject Management Committee (PMC)，成員不只是開發者，還加入了使用者與相關利害關系人，而且在討論上，Backdrop強調重視使用者的意見優於開發者，協同貢獻者的意見優於核心開發者。  
+  
+原本軟體的主要核心的意見居然被擺到最末位？？想想似乎不可思議，但也許這樣的不獨佔與重視聽取其它人的意見，或許才是讓某些好的創意與實踐能夠歷經時間考驗的法門。  
+  
+有空再來研究如何利用這個試用空間或者進一步利用Backdrop架站。（指，明明不是每天都閒閒很有空嗎！！）  
+  
+![Backdrop mascot](https://backdropcms.org/files/inline-images/Drop_lounging_final_black_0.png)

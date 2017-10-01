@@ -1,0 +1,20 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-05-31 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/05/31/mdg-%e3%80%8c%e5%bf%ab%e8%b4%8f%e3%80%8d%e7%ad%96%e7%95%a5/
+slug: mdg-%e3%80%8c%e5%bf%ab%e8%b4%8f%e3%80%8d%e7%ad%96%e7%95%a5
+title: MDG 「快贏」策略
+wordpress_id: 856
+categories:
+- development
+---
+
+繼前幾週簽署了[MDG Campaign](https://www.kintera.org/site/apps/kb/home/login.asp?kntaw3801=09F47C4C7C3444E0897D278F00C74328&c=grKVL2NLE&b=173918&signinreq=1&targetURL=http%3A%2F%2Fwww.millenniumcampaign.org%2Fsiteapps%2Fpersonalpage%2FPageEditor.aspx%3Fc%3DgrKVL2NLE%26b%3D259078)，「自我聲明」願在這一年盡到一己棉薄之力來倡議消弭全球赤貧問題，讓更多人了解MDG的重要，並能發揮影響力，讓決策者也能在施政上放入千禧發展目標實踐的許諾。  
+從 MDG Project 網頁上看到這份輕薄短小的文件雖然只有一頁的篇幅，但是目的是希望能用簡明的方式，提醒世人關心千禧年發展目標的各項工作，如何可能去發揮一己關心的改變力量。  
+  
+我想，從自己開始做起的一部份小工作，就是來翻譯這份文件的中文化吧。  
+所以我會用[Media Wiki](http://timayouth.org/mediawiki/index.php/MDG) 的界面，讓這筆文宣加入維基百科的資料庫。（關於版權問題，我似乎還得再仔細地去求證一下）  
+  
+This list of "quick wins" outlines some practical simple steps that "could bring vital gains in well-being to millions of people and start countries on the path to the Goals." Millennium Project, 2005. ([ "Quick Wins"](http://www.unmillenniumproject.org/documents/4-MP-QuickWins-E.pdf) PDF, 1 page)

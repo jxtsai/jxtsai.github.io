@@ -1,0 +1,26 @@
+---
+author: jx tsai
+comments: true
+date: 2007-11-20 11:16:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/11/20/web2-0%e9%81%ad%e5%90%84%e5%9c%8b%e5%b0%81%e9%8e%96%e7%9a%84%e6%83%85%e6%b3%81/
+slug: web2-0%e9%81%ad%e5%90%84%e5%9c%8b%e5%b0%81%e9%8e%96%e7%9a%84%e6%83%85%e6%b3%81
+title: web2.0遭各國封鎖的情況
+wordpress_id: 298
+categories:
+- dotlife
+- human rights
+- NGO
+---
+
+替[GVO](http://www.globalvoicesonline.org/)，也是為自己翻了這篇文章"[Access Denied Map: Mapping Web 2.0 Censorship](http://www.globalvoicesonline.org/2007/11/12/access-denied-map-mapping-web-20-censorship/)"(中文版還沒校對好，稍晚再補上來吧)  
+點此[觀看地圖詳細](http://advocacy.globalvoicesonline.org/maps/)資料  
+  
+[![mapping web2.0 censorship]()](http://advocacy.globalvoicesonline.org/maps/)  
+《說明》地圖小汽球代表意義：  
+白色：遭威脅將被封鎖  
+黃色：已遭封鎖的網站  
+汽球裏的數字：代表區域內有幾家web 2.0網站被封鎖  
+灰色：超過3個以上的web 2.0網站被封鎖  
+綠色汽球：國內爭取網路言論自由的團體  
+綠線：捍衛網路團體之間的協力聯繫

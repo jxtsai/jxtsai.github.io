@@ -1,0 +1,31 @@
+---
+author: jx tsai
+comments: true
+date: 2015-12-09 15:38:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/12/09/samsung-i9100%e5%85%a5%e6%89%8b%e8%88%87%e5%88%b7%e6%a9%9f/
+slug: samsung-i9100%e5%85%a5%e6%89%8b%e8%88%87%e5%88%b7%e6%a9%9f
+title: Samsung I9100入手與刷機
+wordpress_id: 106
+categories:
+- android
+- buy
+---
+
+自從上個月初，常用的小米手機螢幕再度摔壞之後，雖然[拿了hTC explorer作備用機頂著](http://self.jxtsai.info/2015/11/htc-explorerpico-cyanogenmod-10.html)，也刷了簡單乾淨的CyanogenMod 10.2版本，但它只有90MＢ的儲存空間實在裝不了什麼東西，故一直在二手拍賣網站上物色是否可便宜又「合適」的舊手機可以入手。  
+  
+我個人心目中「合適」的二手機，大至有如下條件：  
+
+
+  1. 螢幕不要超過4.5吋
+  2. RAM記憶體１Ｇ以上
+  3. 電池可以方便更換,或轉鑼絲拆機不要太難，新電池方便買到
+  4. 有眾多開發者投入手機作業軟體（如CyanogenMod，FireFox OS, Ubuntu phone）改造，不要成為連自家廠商都放棄的孤兒
+在這些條件下，大致選出了以下幾台已下市的舊款型：samsung galaxy SII (I9100), hTC Desire HD (A9191), hTC one S, Sony xperia SP，　Ｇoogle Nexus 4。當設定好獵物範圍後，就開始在幾個拍賣網站或ＰＴＴ手機販售版上留意是否有中意的機型釋出，價位是否可以接受。這樣等了三個禮拜終於順利地標到了一支七成新的samsung galaxy SII （32G版）。  
+  
+收到物品後，檢查一下它原有的韌軟是Android 4.1.2Jelly Bean（unroot）,這應是三星官搜方支援的最後版本，之後要再升級就得靠各路高手無私的貢獻。我趕緊展開了刷機工作啦。本來一開始還耐心研究 ordin（for windows）, heimdall(for windows, mac OS, Linux)等支援三星手機平版的刷機軟體工具，但USB線一直無法好好地抓到這支手機。後來決定乾脆冒著後門被至植入菊花的風險，直接安裝中國廠商開發的「[一鍵刷機大師](http://www.mgyun.com/)」，安置在手機上後，就有一堆[玲琅滿目的ＲＯＭ](http://galaxys2root.com/category/galaxy-s2-roms/)可供安裝。我先試了米袖版本（[MIUI V5終結版](http://www.romjd.com/Rom/Detail/92823)）,雖然可以順利地開機進入系統，但不知為觸控螢幕一直無法叫出鍵盤，根本無法輸入任何東西，只好放棄這個版本。在刷機大師上的ROM,似乎只有安卓4.1.2版本的ＲＯＭ才可以順利透過SD card刷入新系統（成功率較高），其它版本似乎無法透過卡刷方式安裝，但是即使是基於android 4.1.2 的CyanogenMod10.0版仍無法順利卡刷。另外一個傷腦筋的問題則是這些中國開發者調適的手機版本，都無法支援google play service 服務架構，換言之無法安裝google play, gmail, youtube ，google map等軟體，雖然可以安裝其它有中國特色的替代APK軟體市集，但多少還是有點不方便。  
+  
+於是再透過搜尋其它關鍵字的方式，找到了[NeatROM這個基於　Android 4.1.2的刷機版本](http://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-neatrom-lite-extralite-themed-aroma-t1569686)，不但可以透過sd card 順利安裝，也完美支援google服務架構。  
+![NEATROM](https://2.bp.blogspot.com/-KBw0t2prjKg/V35rGgXYxsI/AAAAAAAAKWw/MOadaheU60UQmwmGcliDfzAzSbmYzDnyQCLcB/s1600/NEATROM.jpeg)  
+  
+這款三星四年半前上市的旗艦機，今以原價５％左右的價格入手，刷了一個順暢的韌體，換上一顆全新的電池，一一安裝上以往習慣使用的apk，看來至少得讓它服役滿十二個月才能光榮退場啊。

@@ -1,0 +1,22 @@
+---
+author: jx tsai
+comments: true
+date: 2008-05-12 12:49:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2008/05/12/%e5%9c%8b%e9%9a%9b%e4%ba%ba%e6%ac%8a%e5%b8%b8%e8%ad%98%e5%b0%8f%e6%b8%ac%e9%a9%97/
+slug: '%e5%9c%8b%e9%9a%9b%e4%ba%ba%e6%ac%8a%e5%b8%b8%e8%ad%98%e5%b0%8f%e6%b8%ac%e9%a9%97'
+title: 國際人權常識小測驗
+wordpress_id: 282
+categories:
+- development
+- game
+- human rights
+---
+
+  
+http://www.knowyourrights2008.org/index.php?nav=declaration&rub=quiz  
+  
+用flash 作的小遊戲，不過42道題目作起來真是磨人耐性。（特別是我的老筆電跑起來很慢）  
+為了睹一口氣，認真地作完，結果成績真遜Orz。不過如果我沒來到台權會工作三個月的話，成績會更難看，至少表示這段時間內，對於國際人權體系的運作，還是有稍微認識啦，但這遠遠不夠。  
+  
+

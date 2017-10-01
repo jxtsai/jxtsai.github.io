@@ -1,0 +1,78 @@
+---
+author: jx tsai
+comments: true
+date: 2014-12-05 03:22:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2014/12/05/this-site/
+slug: this-site
+title: this site
+wordpress_id: 201
+categories:
+- blogging
+---
+
+容我再次偷用不記得從哪裏抄來的句子：這是一處屬於某個喜歡反省日常工作技匠的備忘錄 。  
+  
+[About Me](http://self.jxtsai.info/2015/05/aboutme.html)  
+  
+[201412本站啟用紀事](http://self.jxtsai.info/2014/12/blog-post.html)  
+  
+[2004年開站第一篇測文](http://self.jxtsai.info/2004/09/blog-post.html)  
+  
+securely contact : me(at)jxtsai.info (Public Key)  
+  
+
+
+<blockquote>-----BEGIN PGP PUBLIC KEY BLOCK-----  
+Version: GnuPG v1  
+  
+mQINBFXGLuABEADHhoP3M3p6Egz/RcjPmG036MKRKqvCZiTyX+NWGe4O7JoWzmSj  
+KFsQFBYxQl/tDaObLMKzlZ7N3bz1//ET8OgNHENdx7giJ9XM3jvxKKQmvZmfIod0  
+1CTHdHbdrRdAg1xHJKCx1zRHB0B+CxY2FVSiqAHSm9gtGTNSqLSq8VoJTJp/qmQ4  
+i/hlNmel6EA3qzfIrPnUgaYYmkrYi105nz15rfpYlKfEutmWgMKo51s8TWx0yZ8Y  
+1nrtT53Nv1/wcZGdh5+NVt+yiQbiPSX7xifR8LC6xTDlbZHHBJPC4vAS+BArpEdX  
+GdxmfM9w81zFAO1A/9K+3QCqAJeWghppNwJ3v1mly5nfce9jhAeXmJElHo2mXzu+  
+ocCcsF5mnzA03HwLL1kITJe7oBIQhC0YkXeYfpEy12kFGmflH+nZMmg2lUsYPCf/  
+DJomvhgx3Kt5F+InWTtDKP41/ELXdnyOs4ecFcHziaMOpN0So6OyJijNBsrAwfKg  
+AV3Grx0tOF1Jrxuwmo4liyCzMkcdHfj95tzwzQbaHX04Wog916z5TVPcn1+oxUC3  
+0rqPkB9M0WgGmifDE0Usa8TXsZde1lp8h6QrQQE+3eP1Nvu+eEiFFqOLIaGpeB7t  
+fiYoxk7lAaDD1zQ8qG9whyV8Lnzm5QpteeQM3MLdn8R30LTGwJi+7DGZxQARAQAB  
+tCdUc2FpIENoaS1Ic3VuIChqeHRzYWkpIDxtZUBqeHRzYWkuaW5mbz6JAjgEEwEC  
+ACIFAlXGLuACGwMGCwkIBwMCBhUIAgkKCwQWAgMBAh4BAheAAAoJEJjGNrlC2m06  
+8kcQAKao+HvNNaWhe5dVBD84dMjbU/pate4ofNfK2prRtL0+7qA4YOBbx9job0gE  
+rr+fta/ZNbeWNXtC00/8IEDVNYJ48lF3Mtia72P2K4kaXyefRGO/21w5cSlRvPO3  
+sw2/FSEDb+IqxvOvvC4XnpSlwQRUI6JAQbhOGfe6LtsDUPKhYCsCWjiNwhzRzePI  
+r53CNoeyAdUxxr95JSUdb2neRIM8jiSSmcBHEIzhy5ZkVGb0X3iQpy6iQwuFVxBb  
+YZxAERB05DVapJCUBsrKoxh5LkfPgQjmMuC9yNnxWM0/ELi8c/a0GTGy2/ajHw0T  
+3KOrlLwcEzHMP91jAj51dQUOR8ddDppiUwRuuqhLS/hPisQrtBCJpHkR2Lg5eznY  
+T64Cyvcxp0T5noXusD1PVeTIGOMhxUsb7WhAFymOFmBf5gbZ1HR5yNhy+IUHYJ/M  
+ZZohL+sPnQ3awvXYZFbll78+Tlfe61/AbYB8kNpqf7SSAqwl/gk6CWzSpfgbvUBy  
+IZw2Respbx04yQ2VpKljvecEVai2zfwcNMAQBfetMG+79uKItlBo9qlof7E1hsQW  
+0Gy31QJ/dU7bMDc7GV/HfOh2CPop1nxJg+1m6f1aq2tiFWELFy0+yKuEUFl5c1Y9  
+gXvUH4K3QaAJ28oS8+NJkCg1MH+PmosBbBufduL5EN7AShwauQINBFXGLuABEADH  
+KFVvfYvYdHVmA5N7s+JEE1fb8Othza/yMJ2p9zGhFNsaO1KWTIRl81OdT114TL05  
+W1IvcJh8nD7VHh8xJ2+xcPF+Tv9dgTzpvqpxYuXhcaW9BK6q9u97N2J4oN1qg5CR  
+zaQCXiZiR1fPZvakFRCAMVhWiIGG+/tSu28XwZj24yge4PZeuohMXMwvqRnffNpz  
+83jtb+RRk93Ghbl8U74DgOpewDNKVJ3M2kOxqFEaOHJ/YtJfs2SJ4LnbtwozxijP  
+gf0uUMb6QBtnYC2rQoMwTJfDrpa6SvgHApW5kKk8A2A3RtGZW07kJ3WYiyMQgY5u  
+Vbb+L0kyzifIKFynBIoJLi8hEWKbnknAAB3n7BQjYTttMaYSypFP4VrvjyRit4LC  
+n0G6WnR790AXrqxBsTItNIf4ZzyYpucuwyRN3rxuElCp/Xvde549eGn7Arz34hms  
+TB+cvlg7w2LhQ+OiWo+2mZh35QTv/+0V1fhsPdt67Gz0d3qLJLz/l4NSLMG/UNX1  
+WDiFb0lzhpBWXNVG/fbB8l82iqguDAAzUlxdXPuDul2DP7sddw6/vQOjFYtDeckg  
+InlG0OFCkSjYNeSfQ54GsxUdpAv9NKjTitUYb3X565XCoEaXSNmqec+MXHs72BVM  
+sKiEDFzHzS1JiK+NWrfjcHTXiqGK6Q+IJBql1ssdCQARAQABiQIfBBgBAgAJBQJV  
+xi7gAhsMAAoJEJjGNrlC2m06JVUP/13VJXcV5KR7Kg8TkXwC8F73eEefL8529QHP  
+4McbXV5g1bd7JdrG9R27nQFl5jUx1UqDI41kSS8hEf5bJxOVtWgNvTV//e/J/zXg  
+SUl36w9gliSWlDDaGgPYor5XvD5Rf7JSbEFpJgh17sOUWNxpMOzXamyUPsMNAmmH  
+U9kSA4ov3/foJoF3qntPYavwzn1kjseflw3VOjP7miGxUi6fynuZFfTRHEzqTO/+  
+BkNsNkmyRWM7PbIAQlPNEb0HMyKS0Vy7RRog28kBtVV676PxKYaYbYHvXU44s9yp  
+Vk2Xnw/35glI7eiFmS+Q4fR2nNEgvibZPqysGbU//9Sk1mntd4/pmQ5eNMA1MOtI  
+2sYHc83Xz2lji/f8HryuZXKn/cBNELULfIS+ak4eMwMh9WPXHIMgpO+3l3iYoafR  
+2ymNDGml4zViIR24+UIKBz0LJmPvcjZzLn09SdRP0Vv1J9R9BrjV0A0kkS30P69P  
+83ToCKvQrkaNz8Gy15DpSUM/mUI3CT+aXTcwogTxJssL/xThyEyDBWy6wGz7PMx6  
+p0ce79kCZI7heKSN/5mUPr/kDBwfYy0KGRhrDMgqVFptXZQoV9NclPIyCRQlSSQZ  
+kUwMdtU6R1PH2Cl4csYAvrCDJhH3BzCJvSZPhJcUKjqOdcN8UD0bQ5+iNOWVRH/h  
+//FtuQZG  
+=rF3L  
+-----END PGP PUBLIC KEY BLOCK-----  
+</blockquote>

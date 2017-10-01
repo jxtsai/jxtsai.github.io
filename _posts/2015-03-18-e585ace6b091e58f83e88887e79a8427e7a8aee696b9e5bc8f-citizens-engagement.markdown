@@ -1,0 +1,20 @@
+---
+author: jx tsai
+comments: true
+date: 2015-03-18 00:12:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/03/18/%e5%85%ac%e6%b0%91%e5%8f%83%e8%88%87%e7%9a%8427%e7%a8%ae%e6%96%b9%e5%bc%8f-citizens-engagement/
+slug: '%e5%85%ac%e6%b0%91%e5%8f%83%e8%88%87%e7%9a%8427%e7%a8%ae%e6%96%b9%e5%bc%8f-citizens-engagement'
+title: 公民參與的27種方式 Citizens Engagement
+wordpress_id: 168
+categories:
+- CitizensEngage
+- development
+- NGO
+---
+
+今天繼續「苦讀」世銀線上課程“[Citizens Engagement](http://www.jxtsai.info/blog/?p=1270)” 提供的相關材料，也許因為重溫的新鮮感，有些地方覺得還蠻有趣的。例如World Bank 在今年甫出版的“[STRATEGIC FRAMEWORK　FOR MAINSTREAMING CITIZEN ENGAGEMENT IN　WORLD BANK GROUP OPERATIONS](https://consultations.worldbank.org/Data/hub/files/consultation-template/engaging-citizens-improved-resultsopenconsultationtemplate/materials/finalstrategicframeworkforce_4.pdf)”(PDF格式)，很實用性地整理了如何讓「人民／公眾參與」(Citizen Engagement, 還不知道如何中譯這兩個英文,如果照傳統的citizen participation, CE的強度與持續力更高吧) 得以成為其政策推動的主流化概念與手段。先不論世銀在發展項目中其推動「人民／公眾參與」的動機，實際成效以及其信用如何，但至少從其報告／文件的案牘累積，過去20 年世銀在這個領域也算投注了不少苦心的探討，從找尋相關工具書，開發項目的實證檢討等等研究出版，就可以感受到世銀已逐步取得了這方面主流的詮釋權力。  
+  
+看到“Strategic Framework For Mainstreaming Citizen Engagement in World Bank Group Operations ”一書附錄對於各種「人民／公眾參與」型式與定義簡介之綜覧整理，不禁讓我想起Gene Sharp 整理的「[198種非暴力抗爭方式](http://www.taiwanruralfront.org/sites/default/files/nonviolent-action-now.pdf)」。誠心望願，"我們"在不得不進行激烈高張力抗爭的同時，也得開始去策畫與實驗各種持續性的公民參與機制吧。  
+  
+

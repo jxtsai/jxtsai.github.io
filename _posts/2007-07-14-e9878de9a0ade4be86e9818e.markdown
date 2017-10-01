@@ -1,0 +1,24 @@
+---
+author: jx tsai
+comments: true
+date: 2007-07-14 15:04:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/07/14/%e9%87%8d%e9%a0%ad%e4%be%86%e9%81%8e/
+slug: '%e9%87%8d%e9%a0%ad%e4%be%86%e9%81%8e'
+title: 重頭來過
+wordpress_id: 356
+categories:
+- e-learning
+- ordinary or complaints
+- ruby
+---
+
+提供給沒有任何程式常識新手的Ruby On Rails 入門材料  
+  
+[How to program](http://pine.fm/LearnToProgram/) by Chris Pine，交大建築的侯君昊老師正在[動手進行翻譯](http://wiki.arch.nctu.edu.tw/LearnToProgram/LearnToProgram)，的確是蠻言簡意晐地說明了許多觀念，如字串、整數、浮點數、陣列，對於從沒接觸過電腦程式寫作的人，是一個建立基礎觀念的好地方，不過我讀到英文版第九章Class，就開始有點混亂，無法從例子來明白「變數」的方法。（希望中文版能趕快上線！）  
+  
+讀過了 How to program 之後，不妨可以參考 [Rolling with Ruby on Rails](http://www.onlamp.com/lpt/a/5546)，進行成功安裝後，第一次的web application 模仿試作，大陸網友根據上文，重新整理了一篇Ruby on Rails[入門實踐](http://www.formosa319.org/stuff/ROR%20practices.pdf)的教材。而我自己的學習經驗，就是在這裏撞牆繞了幾次都出不去。  
+  
+[Xdite 推薦](http://ruby%20on%20rails%20essential%20training/)了 Ruby on Rails Essential Training 影片，不好容易弄到手，看完前六章，的確有助於釐清淤塞，停止盲眼揮拳，打通脈督二脈之感。  
+  
+連續第三年發生「口角炎」的毛病，連自閉關在家裏，也會出現嘴角潰爛，我應該從上輩子就從難和人相處吧。

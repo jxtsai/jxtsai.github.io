@@ -1,0 +1,16 @@
+---
+author: jx tsai
+comments: true
+date: 2007-09-25 08:04:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/09/25/%e7%b6%b2%e8%b7%af%e7%89%88%e7%9a%84joost/
+slug: '%e7%b6%b2%e8%b7%af%e7%89%88%e7%9a%84joost'
+title: 網路版的Joost
+wordpress_id: 319
+categories:
+- dotlife
+- multimedia
+---
+
+[Billy Pan](http://www.wretch.cc/blog/billypan101&article_id=11559965) 介紹了一個高畫質的影音播放網站，其介面有點像[Joost](http://redirect.alexa.com/redirect?http://www.formosa319.org/a5288/?p=327)，不同的是，它不必下載任何軟體，也無須有帳號，就可以透過Web Browser 來觀看影片。  
+其實類似的影音分享網站已經很多了，為什麼我還要寫出來推它呢。就是在documentaries的頻道裏，看到了好幾支精彩的影片---The revolution will not be televised, The take, Surplus consumerism, Sciko, This is what democracy looks like.......沒看過的人可以直接在線上觀看，不用再辛苦地等BT下載啦!

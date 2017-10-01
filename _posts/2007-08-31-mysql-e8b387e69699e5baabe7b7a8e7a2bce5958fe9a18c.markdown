@@ -1,0 +1,77 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-31 15:00:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/31/mysql-%e8%b3%87%e6%96%99%e5%ba%ab%e7%b7%a8%e7%a2%bc%e5%95%8f%e9%a1%8c/
+slug: mysql-%e8%b3%87%e6%96%99%e5%ba%ab%e7%b7%a8%e7%a2%bc%e5%95%8f%e9%a1%8c
+title: MySQL 資料庫編碼問題
+wordpress_id: 330
+categories:
+- dotlife
+---
+
+寫一下我試著把[ASAP論壇](http://www.tima.org.tw/asap/forum)資料庫還原的筆記。這完全是土法煉鋼的過程，不記備忘稿，下回遇到相似的問題，一定會又得重新花不少時間。
+
+  
+
+
+一、網站問題是：
+
+  
+![]()  
+
+
+1, 由舊站移入新站，結果發現匯入新站的資料庫編碼無法正確地還原在新網站下，故無法正確地顯示中文。代管  
+舊站的ISP倒閉，所以無法找到正確的窗口，協助在舊環境下重新製作一份MySQL資料檔。讓問題看來頗為棘手。
+
+  
+
+
+二、解法方法
+
+  
+
+
+1. 在自己的電腦下，安裝Appsever ，建立SMF，再把舊站資料庫檔匯入，先別管什麼編碼問題。安裝phpMyAdmin 時，第一次的MySQL連線校對編碼設定為UTF8。結果在此模擬環境下，SMF後台加入中文語言檔案，是可以正確顯示中文的！(但phpMyAdmin 的資料表卻是一片亂碼？) 把這筆SMF資料庫匯出，試著尋找對應正確的編碼，以匯入新網站的資料表內。但一直沒有成功，新網站上的SMF中文顯示仍然是一片慘不忍睹。附帶註：新網站phpMyAdmin 的SQL文字編碼設定為CP1252 Western Latin1；MySQL連線校對編碼為Latin1_swedish_ci。
+
+  
+
+
+2. 在第三方網站上，我再試一次把這個SMF資料庫備份匯入，證明的確是可以[正常顯示中文](http://www.formosa319.org/smf)！而此處的SQL編碼設定，皆採用UTF8，也就是和我一開始在安裝phpMyAdmin的環境是一樣的。
+
+  
+
+
+3. 砍掉appsever，重新在電腦上安裝，但注意這回編碼的設定，要完全和新站的一樣，也就是---SQL文字編碼設定為CP1252 Western Latin1；MySQL連線校對編碼為Latin1_swedish_ci，如果這回電腦上的資料庫不管是採用什麼編碼匯入，SMF都無法正常顯示中文了。(好累啊)
+
+  
+
+
+4. 沒關係，繼續嘗試。在目前的環境下，建立一個以UTF8為連線編碼的資料庫。再把舊資料庫檔案，以UTF8方式匯入，結果，居然讓我碰對了方法，可以正常顯示中文了！。
+
+  
+![]()  
+
+
+有關MySQL編碼的狐疑問題
+
+  
+
+
+1. 為什麼後台資料庫的怎樣都無法顯示正確中文，但是在前台的架站軟體上卻可以輕鬆地秀出中文咧？這樣我怎麼匯出去，都不是中文啦。
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+   
+ Technorati : [MySQL SMF](http://technorati.com/tag/MySQL%20SMF)   
+

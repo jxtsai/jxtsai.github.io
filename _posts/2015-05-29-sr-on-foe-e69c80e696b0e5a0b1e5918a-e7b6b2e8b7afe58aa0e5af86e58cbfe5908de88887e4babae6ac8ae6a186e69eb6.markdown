@@ -1,0 +1,36 @@
+---
+author: jx tsai
+comments: true
+date: 2015-05-29 11:38:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/05/29/sr-on-foe-%e6%9c%80%e6%96%b0%e5%a0%b1%e5%91%8a-%e7%b6%b2%e8%b7%af%e5%8a%a0%e5%af%86%e5%8c%bf%e5%90%8d%e8%88%87%e4%ba%ba%e6%ac%8a%e6%a1%86%e6%9e%b6/
+slug: sr-on-foe-%e6%9c%80%e6%96%b0%e5%a0%b1%e5%91%8a-%e7%b6%b2%e8%b7%af%e5%8a%a0%e5%af%86%e5%8c%bf%e5%90%8d%e8%88%87%e4%ba%ba%e6%ac%8a%e6%a1%86%e6%9e%b6
+title: SR on FOE 最新報告-網路加密匿名與人權框架
+wordpress_id: 136
+categories:
+- encrypt
+- human rights
+- privacy
+---
+
+去年８月出任聯合國人權理事會言論自由特別報告員David Kaye（Special Rapporteur on freedom of expression）交出上任後第一份工作成果[：「Report on encryption, anonymity, and the human rights framework](http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session29/Documents/A.HRC.29.32_AEV.doc)」（doc格式檔案），這份先行版報告即將在六月份聯合國第29次常會上向人權理事會正式提交。  
+  
+前一陣子（四月中下旬）台灣因為網路霸淩事件，推動網路實名制度又次被拋出來討論。認真想做點功課者，可以看看這份十八頁的報告（其實扣掉前後只有十六頁啦，估計簡體中文版大約在六月中就會出來了），了解為什麼法學者，人權團體或聯合國獨立專家都反對國家限制網路加密通訊與匿名（即推動實名制），其之所以偒害人性尊嚴保障與促進知識資訊發展流通的理由。反對人士往往以為倡人權者過理想高調，疏不知言論自由之權利亦非可無限上綱。當年擬定「世界人權宣言」時，起草者皆同意必須在肯認人人皆有理性與良知；換言之，如果人們失去了理性與良知，發之言論內容為散佈歧視仇視與人身攻擊，不必然可享有完全之「言論自由」，在明定的法律授權與司法程序下某些言論自由還是得予以限制和處罰。  
+  
+![加密匿名, encryption, anonymity](https://2.bp.blogspot.com/-Jc4zyFz04zk/V3xCYzIqo0I/AAAAAAAAKMQ/wMbWBBzliIUjnGdC90fJIvRYlaZRSVEWgCLcB/s1600/darknet.jpeg)  
+  
+因此在這份人權報告中，David Kaye也提出在人權價值的基礎框架下，要符合什麼樣的情境與條件，才可以對於網路「加密與匿名」這些行為予以限制，而這些條件當然就是現代法治國基礎的ＡＢＣ：經由立法的明確授權基礎，必須要有合法正當之理由，以及通過必要性與比例原則之嚴格檢驗。由這些條件來看，支持網路實名制以作為打擊犯罪維護秩序之藉口，在其「必要性」上就完全站不住腳了，少數犯罪惡意行為，執法機關大可採取其它手段將其糾出治罪，而非以「鋪天蓋網」之實名制手段，讓每一位使用者都在上網時因此遭受到重重無形限制。當心中小警總活躍運作或是國保老大哥關心你的壓力下，每個人必將自我審查自行禁言，種種寒蟬效應對資訊意見交流阻滯之局面不難想見。  
+  
+我自己草草讀過這份報告，其中印象最深的部份倒是David Kaye提出「the rights to hold opinions」這件事。在數位生活中，使用者看了什麼的網路足跡,在硬碟雲端上儲存的私人檔案，都還未必「公開」發表，但是其背後反映的可能就是當事人的觀點，價值與思想。但這些數位個人資料在今日網路生態中，更是讓發表言論之前的「the rights to hold opinions」（掌握意見自由之權利）面臨了嚴峻的考驗。有關於使用者網路足跡與數位個人資料之事，我近期正在整理一文介紹，或許之後再細談。  
+  
+  
+[Report on encryption, anonymity, and the human rights framework ](http://www.ohchr.org/EN/Issues/FreedomOpinion/Pages/CallForSubmission.aspx)（聯合國人權理事會官網此份報告之資料，包括那些政府提交的意見以及公民社會的非政府組織，聯盟等提交的建議。）  
+  
+各國際人權組織對此報告的聲明與媒體報導  
+
+
+  * Article 19: [UN expert launches robust defence of online anonymity and encryption](http://www.article19.org/resources.php/resource/37979/en/un-expert-launches-robust-defence-of-online-anonymity-and-encryption)
+  * The Washington Post :[ U.N. report: Encryption is important to human rights — and backdoors undermine it](http://www.washingtonpost.com/blogs/the-switch/wp/2015/05/28/un-report-encryption-is-important-to-human--and-backdoors-undermine-it/)
+  * The Intercept : [ U.N. Report Asserts Encryption as a Human Right in the Digital Age](http://www.washingtonpost.com/blogs/the-switch/wp/2015/05/28/un-report-encryption-is-important-to-human-rights-and-backdoors-undermine-it/)
+  * VICE : [United Nations: Encryption and Online Anonymity Are Basic Human Rights](http://motherboard.vice.com/read/united-nations-encryption-and-online-anonymity-are-basic-human-rights)
+  * Tor Project: [UN Special Rapporteur: Anonymity Is Gateway to Free Expression](https://blog.torproject.org/blog/un-special-rapporteur-anonymity-gateway-free-expression)(TOR是一個隱匿自身IP的瀏覧工具，之前有[短文介紹](http://self.jxtsai.info/2015/02/tor.html)過)

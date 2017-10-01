@@ -1,0 +1,21 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-09-30 15:40:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/09/30/google-reader-%e5%8a%a0%e5%8f%b3%e5%81%b4%e6%8e%a8%e8%96%a6%e7%b6%b2%e6%91%98/
+slug: google-reader-%e5%8a%a0%e5%8f%b3%e5%81%b4%e6%8e%a8%e8%96%a6%e7%b6%b2%e6%91%98
+title: Google Reader 加右側推薦網摘
+wordpress_id: 949
+categories:
+- blogging
+- dotlife
+---
+
+坊間線上RSS 閱讀器粉多，但我還沒有完全搞懂什麼叫做OPML檔案。  
+  
+昨晚試了一下可以透過[firefox livebook](http://www.efinke.com/category/opml-support/)外掛 ，把電腦裏的書籤匯出成OPML檔案，再把該檔案匯入google reader 的訂閱頻道，轉眼間，近百個RSS順利搞定，不必再一行行地輸入，真爽！  
+  
+其實執著於google reader  的原因，是因為它提供了[shared item ](http://www.google.com/reader/shared/12420541419203684669)功能，就是可以把你在google reader 訂閱的RSS頻道讀到欣賞的文章，放到自己收藏的網路網頁上，而這個活動式收藏書籤，當然也是提供了RSS的訂閱。更酷的是，還可以把標為分享的文章標題，透過google 寫好的Java script程式，直接貼上自己的部落格。說明一下，我放入的分享文章來源，多半是一些朋友的文章，算的上是有私人廣告的性質，或者某種程度，反應了我個人極偏差的閱讀喜好。  
+  
+哦，對了，除了google reader 之外，我也把自己的google calendar 放在左側欄，果然是閒人啊。

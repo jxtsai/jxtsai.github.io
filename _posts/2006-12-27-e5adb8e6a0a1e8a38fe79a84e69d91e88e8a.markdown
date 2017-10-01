@@ -1,0 +1,25 @@
+---
+author: jx tsai
+comments: true
+date: 2006-12-27 12:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/12/27/%e5%ad%b8%e6%a0%a1%e8%a3%8f%e7%9a%84%e6%9d%91%e8%8e%8a/
+slug: '%e5%ad%b8%e6%a0%a1%e8%a3%8f%e7%9a%84%e6%9d%91%e8%8e%8a'
+title: 學校裏的村莊
+wordpress_id: 455
+categories:
+- development
+- dotlife
+- multimedia
+---
+
+幾週前Youtube 「成功」地被Google 以17億美元的天價買下。這場交易，至今仍為市場樂道，也出現了兩極的看法。[有人推崇](http://mr6.cc/?p=495)Youtube 在網路影片分享、網頁內嵌等功能的開創性，也[有人批評](http://yuyulaw.info/wordpress/?p=328)這筆交易未免高估了youtube 的市值潛力，且低估其風險。  
+  
+那時候，問公司同事，中國是否有類似的網站，他也一時答不出來。但我這二週灠網的心得是，大陸類似的個人媒體影片分享網站，還真是不少咧，有些甚致打破了一支影片只能播放10分鐘的限制，我曾線上看了一支二小時的影片，只被切成二個檔案而已，所以同時還有不少人放上了連續劇、動畫之類的檔案。這些網站包括了：六間房、[土豆網](http://www.tudou.com/)、[我樂網](http://www.56.com/)。  
+  
+呃，看來Youtube 是否值17億美元，的確令人心驚。  
+  
+呃言歸正傳，其實我是要貼一支中國央視的新聞記錄片。  
+[第一部](http://6.cn/watch/103097.html)  
+[第二部](http://6.cn/watch/104189.html)  
+[第三部](http://6.cn/watch/104312.html)

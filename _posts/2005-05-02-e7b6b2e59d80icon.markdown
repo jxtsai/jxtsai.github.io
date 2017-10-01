@@ -1,0 +1,20 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-05-02 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/05/02/%e7%b6%b2%e5%9d%80icon/
+slug: '%e7%b6%b2%e5%9d%80icon'
+title: 網址icon
+wordpress_id: 870
+categories:
+- blogging
+- dotlife
+---
+
+既然自己花了錢租了一處虛擬主機，總希望能多試試幾個有趣的軟體包，體驗一些架站軟體的優缺點，也可以在自主的權限多嘗試一些玩意。  
+  
+看到一些ICP大廠，如yahoo、google ，一連上它們的網站，都會清楚地在瀏覽器的網址列前端出現一個示別的小icon。現在連一些普通的個人網站也可以自定出合於個人特色的網址icon，可見它的技術難度並不高。  
+  
+前兩天在請教yi-ting 如何作出那個[80×15大小的彩色圖示](http://www.jxtsai.info/blog/)，用[del.icio.us](http://www.jxtsai.info/blog/) bookmark 了這個有用的網站，卻也進而發現在別人不同的書籤記錄中，還有不少好玩的網站，提供了一些網頁製作的小工具產生器。於是我那個企望在自己網址上打出個人形象icon的想法，很簡單地就可以透過[favIcon](http://www.jxtsai.info/blog/)來達成任務。  
+現在已經把我這個MT下的網址icon改成了我個人的大頭相，呵，雖然是大頭相，不過在網址列上看到還是小小的一個啦。

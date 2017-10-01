@@ -1,0 +1,32 @@
+---
+author: jx tsai
+comments: true
+date: 2015-04-20 16:32:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/04/20/%e5%88%86%e6%95%a3%e5%bc%8f%e7%a4%be%e4%ba%a4%e7%b6%b2%e8%b7%af%e8%a9%a6%e7%94%a8/
+slug: '%e5%88%86%e6%95%a3%e5%bc%8f%e7%a4%be%e4%ba%a4%e7%b6%b2%e8%b7%af%e8%a9%a6%e7%94%a8'
+title: 分散式社交網路試用
+wordpress_id: 155
+categories:
+- SocialMedia
+---
+
+前幾週曾經台灣的網路社群媒體上有過一段「[死了一則粉絲頁](http://swalk.blogspot.tw/2015/03/blog-post.html)」的小小風波，更不必提近二週延燒到台灣的所謂[FreetheNipples](http://news.readmoo.com/2015/04/14/kris-150414-free-nipples-freedom-of-speech/)事件，本人停用臉書早已戒斷多年，自然無從發表什麼議異。但是現在此網路再次進入的社群媒體時代，另一個稍可和臉書相提的替代方案推特，真的有那麼「好」嗎？對我個人而言，少了臉書那種現實生活中多少有過接觸的人際連結，使用推特反而比較像是一種訂閱快速精要資訊的手段，和「相識者」間的寒喧互動在推特上反而稀少，這或許是臉書設計介面與功能上簡易讓用戶可以請求加友，寫筆記開社群小組粉絲活動頁等方便多重功能，而推特似乎只是一串串訊息流讓新人有點無從入手的窘境。而推特作為一個已上市要追逐回報投資者最大利潤的商業網路科技公司，其對於用戶推文內容的審查，對於疑似所謂恐怖組織成員用戶的停權處分，似乎也沒什麼明確公開的處理程序和申訴回應處理（請見Twiiter[使用服務條款](https://twitter.com/tos?lang=en)第8項），用戶往往只能在這種定型化條款同意供應商的任何要求。  
+  
+![](https://www.w3.org/DesignIssues/diagrams/social/simondseconoart.png)  
+  
+講了上段許多廢話其實是讀到自由軟體基金會的一則文章「[Thousands of Spaniards leave Twitter for GNU social ](https://www.fsf.org/blogs/community/thousands-of-spaniards-leave-twitter-for-gnu-social)」才第一次真正認識到原來在臉書，推特之外，自由軟體社群中有一群人投入所謂「[分散式社交網路](http://zh.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF)」的開發和推廣。過去我唯一知道的案例就是2010年曾經透過群眾募資替代臉書的「[Diaspora計畫](https://diasporafoundation.org/)」，因得到臉書創辦人Mark Zuckerberg 小額參與的支持，才變成一條稍被主流世界聞問的消息。懷著一股無聊的好奇心以及一種莫名覺得除了言論自由隱私保護個人資料自主等理由外，某種對分散式社交網路主張的「同情」（認同情分），我便分別申請別人架設的[GNU social](http://quitter.se/a5288), [Diaspora](https://diasp.org/people/afa17790c93701328dc300259069449e), [pump.io](http://microca.st/jxtsai)等服務來玩玩。  
+  
+在這個所謂透過社交網路發揮影響力的網路時代裏，上<del>百</del>萬的粉絲訂閱追踪人數才證明你是個咖，而自由軟體基金會那群怪怪的技客們，最開始卻連個推特帳號都沒（更別說臉書，當然也沒什麼粉絲追逐）堅持在使用者介面超不友善的分散式社交網路上實驗。  
+  
+目前這些社交網路在設計上除了讓用戶可以自由網路世界各自創建許多分散社交網路節點，還有一個重要的聯邦概念（Federation），意即雖然其服務架在各自不同國家的伺服器與網域上，但彼此之間仍可以透過共同的通訊協定來與另一個節點上的GNU social 進行追踪訂閱，例如不必申請某Friendica 服務器上的帳戶，但可以透過diaspora結交某位使用friendiica社交網路的用戶。剛初入分散式社交網路不深，不但要摸索一些技術文件，還得了解一些開發／使用者採取[不同於主流商業軟體服務的另類哲學態度](http://english.lasindias.com/gnu-social-federation-against-the-social-model-twitter)，讓我有種回到當年開始接觸網路世界時戒慎與新鮮－－那個不是Show Off搖旗 吸引人按贊追踪的社交媒體時代，而是不斷探究故事，學習掌握脈絡，交流不同觀點與建立另一端未曾謀面的陌生人產生共感信任的幻覺XD。　　　  
+  
+雖然我很佩服自由軟體開發者這種願把程式碼視為公共財的態度，以及對言論自由隱私保護個人資料自主開放網路等原則的充分尊重)，試圖著在網路社交媒體來襲的時代裏，提出另一種應對方式來發展社交網路，繼續豐富一個不為某集中權力所主宰自由開放網際網路。但自己在試用GNU social 與其它分散式社交網路軟體／服務的經驗上，卻常遇到沒技術知識的一般人很容易就此投降放棄的困擾與挫折。個人主觀覺得目前這些願意使用此種分散式社交網路服務的用戶多半具程式開發技術背景的技客，其中不乏願意提供技術建議的熱心者，但只是憑熱情來維護的服務也難免會遇上當開發者正職工作忙碌時，程式長長一段時間未能更新，某些開發出來的支援服務已莫名掛點的狀況。  
+  
+
+
+<blockquote>Open source digital security tools often lack a sustainable business model, which means they may become obsolete after a short period of time or may not be updated against vulnerabilities.</blockquote>
+
+([Building Digital Safety for Journalism](http://www.unesco.org/new/en/media-services/single-view/news/building_digital_safety_for_journalism_unesco_launches_a_new_publication/#.VTRhNOTHg8q))  
+  
+未完，待續.........

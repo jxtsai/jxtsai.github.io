@@ -1,0 +1,17 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-10-12 08:13:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/10/12/%e5%8e%9f%e4%be%86%e9%80%99%e5%b0%b1%e6%98%afblogger-beta/
+slug: '%e5%8e%9f%e4%be%86%e9%80%99%e5%b0%b1%e6%98%afblogger-beta'
+title: 原來這就是blogger beta
+wordpress_id: 945
+categories:
+- blogging
+- dotlife
+---
+
+早就有一個blogger 帳號了，但一直沒怎麼好好地利用。早年聽說 中國封了blogspot.com 難怪我當年第一個申請的是blogger ，但搞了半天還是不了解博客到底是什麼玩意。（因為當時是2003年的7月份，人在南京）  
+  
+今天則又誤闖了blogger beta，它是須用gmail 帳戶登入，然後就開啟了一個新的blog 。哇咧，這樣我會不會博不完啊。

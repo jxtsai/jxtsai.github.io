@@ -1,0 +1,39 @@
+---
+author: jx tsai
+comments: true
+date: 2015-02-17 22:56:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/02/17/%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86taiga/
+slug: '%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86taiga'
+title: 專案管理Taiga
+wordpress_id: 184
+categories:
+- dotlife
+- PM
+- software
+---
+
+從最近一期自由軟體鑄造場電子報中看到了其中一則來自opensource.com的2014年十大最佳開源專案。其中有一個關於專案管理的軟體「專案管理平台 (Project Manage Platform)－[Taiga](https://taiga.io/)」特別引起我的興趣。  
+  
+
+
+<blockquote>  
+Nitish Tiwari 在「Taiga，注重可用性的專案管理平台」一文中提到：「專案管理工具似乎永遠和專案開發的真實情況不符，有一個解決方案是使用 Taiga 這樣的開放原始碼、直覺化、更新快速且和開發者的工作流程接近的專案管理工具。」</blockquote>
+
+  
+  
+好吧，我承認自己真的對所謂的「專案管理」一辭，有種莫名的迷戀，這並不是說我精於此道，相反的，我一直覺得台灣的小型NGO或非營利組織，一直欠缺對於專案管理的知識與操作經驗。因此引入相關的預設性專案軟體某種程度上在確認人員協調,意見溝通,困難處理,資源需求等等，較具有理性系統化的思考與準備。當然會使用相關專案管理軟體的能力，也不能等同於在現實生活中確保專案進度,資源控制,問題解決等面向都能一一克服到位。  
+  
+自己姑且注冊了一個taiga beta 版試用帳戶，進入它的後台一探，心裏不免興奮地想說：啊啊，這正是我找尋多年的專案協作理想的樣子啊。  
+  
+
+
+  
+[![](https://4.bp.blogspot.com/-gIML6NtCy1Y/VOGdtsShTmI/AAAAAAAAJxM/HrIp013pc9c/s320/p3.jpg)](http://4.bp.blogspot.com/-gIML6NtCy1Y/VOGdtsShTmI/AAAAAAAAJxM/HrIp013pc9c/s1600/p3.jpg)
+
+  
+  
+
+
+  
+[![](https://1.bp.blogspot.com/-3g8CLE2j7So/VOGdt-gf4hI/AAAAAAAAJxc/PHX-b3t7iWE/s320/p2.jpg)](http://1.bp.blogspot.com/-3g8CLE2j7So/VOGdt-gf4hI/AAAAAAAAJxc/PHX-b3t7iWE/s1600/p2.jpg)

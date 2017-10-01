@@ -1,0 +1,23 @@
+---
+author: jx tsai
+comments: true
+date: 2006-01-27 12:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/01/27/%e5%8f%b0%e7%81%a3bsp%e5%a4%a7%e6%90%ac%e9%a2%a8%ef%bc%8c%e5%85%bc%e5%87%ba%e7%a7%9f%e5%bb%a3%e5%91%8a/
+slug: '%e5%8f%b0%e7%81%a3bsp%e5%a4%a7%e6%90%ac%e9%a2%a8%ef%bc%8c%e5%85%bc%e5%87%ba%e7%a7%9f%e5%bb%a3%e5%91%8a'
+title: 台灣BSP大搬風，兼出租廣告
+wordpress_id: 698
+categories:
+- blogging
+- dotlife
+---
+
+台灣這三個月來，網路部落格界明潮洶湧。雖然我無法好好地關注產業界的發展，但耳聞一些起落盛衰，令人嘳嘆。不妨藉由此篇順便回顧一下我個人的網誌爬行經驗。  
+  
+第一次聽聞weblog，是2003年3，4月間，由英國衛報轉載伊拉克部落客Salam Pax，始知其名。  
+2003年7月間，透過台灣部落格，進一步想了解這玩意。當時申請過live journal , blogger, 但blogpost被中國封殺，所以我對於blog 的試玩，是一知半解的辛苦學習。9月間，申請使用諾地，終於家的歸屬感。  
+  
+次年(2004)Minority Blog 宣佈暫時停止服務（幸好當時會員人數不過百來個吧，沒引起太大的騷動，大家都能體諒站長個人開發程式和維持運作的辛勞）。  
+本來還在苦苦等待MB復站，幾個月後，轉向了師大化育萬物的懷抱，"長達"了近半年的寄居生活。2004年11月中，開始自己租用虛擬主機空間，試用pLog (現稱Life Type )、MT架站，可說是慘淡經營XD。同時期，台灣BPS也日漸崛起，所以我也不忘在各種中文BSP之間試用、備份，包括養樂多、奇摩、Pixnet、blogger,   
+  
+

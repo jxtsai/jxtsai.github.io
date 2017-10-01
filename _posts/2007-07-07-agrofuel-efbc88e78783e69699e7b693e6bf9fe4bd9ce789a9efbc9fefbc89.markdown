@@ -1,0 +1,39 @@
+---
+author: jx tsai
+comments: true
+date: 2007-07-07 15:40:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/07/07/agrofuel-%ef%bc%88%e7%87%83%e6%96%99%e7%b6%93%e6%bf%9f%e4%bd%9c%e7%89%a9%ef%bc%9f%ef%bc%89/
+slug: agrofuel-%ef%bc%88%e7%87%83%e6%96%99%e7%b6%93%e6%bf%9f%e4%bd%9c%e7%89%a9%ef%bc%9f%ef%bc%89
+title: agrofuel （燃料經濟作物？）
+wordpress_id: 357
+categories:
+- development
+---
+
+上週讀到一篇新聞，報導全球三十多個民間組織串連反對歐盟即將通過的agrofuel incentive  方案。  
+  
+其實我單單看到 agrofuel  這個字眼（我還不知道要如何翻譯它才算正確），還覺得挺不錯的，因為人類自工業革命後，大量使用不可再生的石化燃料作為生產能源，過去三百年來的大量使用，已經快把千萬年好不容易生成的石化能源給消耗地差不多了，現代科學家要面對的能源課題，就是找出可替代的再生能源。  
+  
+agro-fuel  從片面字眼上看來是從農業作物中提鍊為動力熱能，以供應人類的能源所需。想想，這不是挺棒的一件事嗎？反正農作物可以循環耕種不綴，我們就要遠離了石油天然氣終會匱乏的惡夢了！！然而現實並沒有如此單純美好，粗率地使用agrofuel 仍可能對環境造成潛在傷害：  
+  
+
+* 1. 燃料用作物可能會和一般的糧食作物之間發生種植競爭，反而更邊緣化了貧窮社群。
+  
+
+* 2. 提高土地負荷壓力，造成土地沙漠化的可能。
+  
+
+* 3. 單一地種植燃料作物，就像其它大規模地種植單一作物，大量使用農藥、肥料、基因培育技術，危害生物多樣化和環境脆弱平衡。
+  
+
+* 4. 大面積地擴張燃料用作物，往往土地會集中到大企業資本家所控制，小農、原住民被迫遠離土地，生活雪上加霜。
+  
+  
+除了上述問題之外，[歐盟企業監測組織](http://www.corporateeurope.org/aboutceo.html)（CEO）6月份發佈一份報告，針對歐盟的燃料用農作物政策是否已為大企業所操控提出強烈質疑，例如歐盟政策建議小組的成員名單，其中不少是來自相關產業的利害關係者，所以他們提出的政策建議是否可以在未經更多檢視討論前，就輕易通過作為歐盟國家的官方政策，也令人擔憂。  
+  
+  
+後註：  
+1. agrofuels are liquid fuels from biomass, which consists of crops and trees grown specifically for that purpose on a large scale. Agrofuels are currently produced from crops such as maize, oil palm, soya, sugar cane, sugar beet, oilseed rape, canola, jatropha, rice and wheat. Agrofuels are designed to replace petroleum, mainly in road vehicles and trains.  
+  
+2. agrofuel 和另一個詞"biofuels" 並不相同， 後者更強調對環境的友善方式，而agrofuels 則多已是大規模的經濟耕作。

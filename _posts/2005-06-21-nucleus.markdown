@@ -1,0 +1,18 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-06-21 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/06/21/%e8%a9%a6%e7%94%a8nucleus/
+slug: '%e8%a9%a6%e7%94%a8nucleus'
+title: 試用Nucleus
+wordpress_id: 844
+categories:
+- blogging
+- dotlife
+- software
+---
+
+想要再找找有什麼亍以支援多個網誌 同時在一個資料庫上運行的blog  後台軟體。從[ Open SourcesCMS ](http://www.jxtsai.info/blog/)這個網站上，看了許多使用者給予了[Nucleus CMS](http://www.jxtsai.info/blog/)極高的評價，而恰好它又可以支援多個網誌或多名作者的功能，於是先在TIMAYOUTH.ORG [試用](http://www.jxtsai.info/blog/)看看。  
+  
+其實我個人覺得它的使用者介面還算蠻友善，一些插件支援，也加強了它功能的優勢，例如支援回應評論的RSS, podcasting, wiki、gallery 等。比起pLog，它的好處是支援了個別網誌模板樣式的修改。雖然也有人進行了中文語系檔的翻譯，但中文支援還是不如pLog 來得團結有力。就blog核心功能來講，我覺得比較可惜的是，它居然沒有讓別站trackback的引用功能。

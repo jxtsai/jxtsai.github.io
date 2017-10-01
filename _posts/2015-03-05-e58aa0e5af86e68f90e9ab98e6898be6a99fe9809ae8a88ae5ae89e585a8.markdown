@@ -1,0 +1,33 @@
+---
+author: jx tsai
+comments: true
+date: 2015-03-05 08:15:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/03/05/%e5%8a%a0%e5%af%86%e6%8f%90%e9%ab%98%e6%89%8b%e6%a9%9f%e9%80%9a%e8%a8%8a%e5%ae%89%e5%85%a8/
+slug: '%e5%8a%a0%e5%af%86%e6%8f%90%e9%ab%98%e6%89%8b%e6%a9%9f%e9%80%9a%e8%a8%8a%e5%ae%89%e5%85%a8'
+title: 加密提高手機通訊安全
+wordpress_id: 175
+categories:
+- android
+- encrypt
+- human rights
+- opensources
+---
+
+稍早曾提過[TOR網路匿名](http://self.jxtsai.info/2015/02/tor.html)瀏覽器。但現代人除了使用桌機，筆電工作娛樂外，其實更離不開對智慧型手機的依賴，除了利用手機打電話鍵聯絡簿，使用者還利用智慧型手機上網，購物信用卡錢包，寫信傳訊，照片影片，所在位置......，其上所保存的個人資料/元資料更是豐富，透過一支智慧手機，可拼湊還原一個人的「真實」樣貌。  
+  
+2013年前某個和中國維權人士交流的場合，曾聽過自由亞洲電台人員提及在專制政權的國家地區，異議者的人身，言論自由言與隱私一直受到高度監控與壓制，因此他們很有興趣資助一些確保通訊自由的技術加密安全專案，例如在[The Guardian Project](https://guardianproject.info/)上，可以找到一些開發出來的手機app，可以稍提高確保智慧型手機上網，傳訊，通話加密的安全。當時我曾試著下載了兩三個應用程式試用，但似乎在我當時的生活圈聯絡人中沒什麼人安裝這種加密app,成了一個人單向無法對話的溝通，自然也用不著什麼加密安全考量。而且記得當時安裝後，還要通訊雙方互相有一些複雜的確認步驟，因此用沒兩天我就把 app移除了。而現在既然不太需要對外聯絡，我又重新安裝這些較安全的通訊通話軟體來體驗看看。  
+  
+![](https://i.imgur.com/qPoU6d9.jpg)  
+目前這些手機的通訊加密軟體，已經大大地改善了早期過於技術化不易親近的介面，且突破只能和有裝同類通信軟體的聯絡人交流的限制（意思是說，可以把Redphone 或是TextScure 作為手機上對外打電話或傳簡訊的預設程式，如果對方也有使用加密，那麼通訊內容就相對安全，如果對方沒裝，還是一樣可以通話或收訊，只是內容沒加密.....）。例如雙方都有安裝TextSecure，當開始傳訊時想要加密，可以選擇右上角的小鑰匙，如果還不放心對方是否真的是要傳訊的對象者，雙方還可互相先確認identity fingerprint key (但看說明,要雙方互相念出確認彼此一長串的數字key, 實在有點......)  
+  
+![](https://cqsig.files.wordpress.com/2013/12/keep-your-texts-private-with-textsecure-android1.jpg)  
+  
+本週一（3月2日），Whisper System 宣佈了釋出在iPhone 上通免費訊加密軟體Signal，此意味著兩大主要的手機系統之間已經可以跨平台地加密通訊。(原來Whatsapp在去年11月就宣佈使用TextScure的加密保護，不過我找不到像TextSecure 上述的認證與加密確認指示＠＠)  
+  
+Wired: [There’s Now a Free iPhone App That Encrypts Calls and Texts](http://www.wired.com/2015/03/iphone-app-encrypted-voice-texts/)  
+The Intercept: [You Should Really Consider Installing Signal, an Encrypted Messaging App for iPhone](https://firstlook.org/theintercept/2015/03/02/signal-iphones-encrypted-messaging-app-now-supports-text/)  
+  
+  
+Guardian Project 在GitHub的進行中技術專案   https://github.com/guardianproject  
+Ｗhisper System 在GitHub的進行中技術專案    https://github.com/WhisperSystems

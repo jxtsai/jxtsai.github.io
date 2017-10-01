@@ -1,0 +1,23 @@
+---
+author: jx tsai
+comments: true
+date: 2007-07-27 15:01:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/07/27/la-fonera/
+slug: la-fonera
+title: La Fonera
+wordpress_id: 351
+categories:
+- buy
+- dotlife
+---
+
+Fon 是一位西班牙人發起在2006年發起的全球無線網路連結運動，鼓勵參與者貢獻出個人一部份無線頻寬，來構成全球性的無線大網，使全世界的人都能受惠於更便宜甚至免費的無線網路。  
+  
+我雖然加入了Fon 會員，但一直處於 Alien 的身份，所以也沒有機會免費享受到任何由fon 會員分享出來的無線訊號，主要是我尚未主動提供任何無線頻寬，也沒機會在馬路上遇到任何由 Fon網絡發出的無線訊號。  
+![](https://1.bp.blogspot.com/-QwMOidvY_dM/V4ECTtcCZjI/AAAAAAAAKbA/NrYstD4Rb_w4A3Q8S0rb6muQVxj31a5xwCLcB/s1600/fonera_wifi_router_ssid_1.jpg)近來想在家中安裝無線網路，免得網路線還得拔來拔去，買一台由Fon 推廣的無線分享器，成了實踐Fon 會員的最佳選擇。據聞La Fonera 2006年12月底剛上市的推廣友情價只要99 元，而現在Pchome 上面的原價則是1280元，實在令我知情恨晚，於是我便上拍賣網站，看看是否還有便宜可撿，最後在一家高雄鳳山市的電腦店，以600元買到了一台全新 La fonera （謝謝老闆少算了我31元零頭，不枉我迢迢踩著腳踏車去店裏面交）  
+打開全新的La fonera ，哇！雪白小巧的外觀，的確和小白很搭。按照盒內所附的安裝說明書，依圖索驥一步一步很順利地完成了Fon 公用網路（免密碼開放給其它 Fon 會員的頻寬）以及私用網路（留給自家筆電使用）。然後再上Fon 官網，註冊這台無線基地台的訊號名稱和位置，順便在google map 上標示一下我的訊號位置。查了google map ，原來我家附近還真沒有其它fon 會員（最近的一位，是門牌差了100多號，隔了二條街的距離）
+
+  
+![](https://4.bp.blogspot.com/-MyQzl18Nu1A/V4ECn6nvFJI/AAAAAAAAKbE/6-iczURdjE8lx9Dxb-FyjABWjwymO0FNACLcB/s320/902802643_86cd270e10-300x250.jpg)  
+

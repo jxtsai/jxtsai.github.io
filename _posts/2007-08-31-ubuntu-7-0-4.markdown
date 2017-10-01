@@ -1,0 +1,25 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-31 15:40:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/31/ubuntu-7-0-4/
+slug: ubuntu-7-0-4
+title: Ubuntu 7.0.4
+wordpress_id: 329
+categories:
+- software
+- ubuntu
+---
+
+以前有燒錄過一張Ubuntu  LIVE CD 的開機光碟，也就是把它放入光碟機後，撰擇以CD－rom 為第一個開機系統，當讀到此片光碟就會登入[Ubuntu](http://www.ubuntu.org.tw/)  作業系統。LIVE CD的好處是? 從沒有試過linux 的麻瓜們體驗聽起來很強的作業系統，但缺點就是因為整個機器是透過CD虛擬環境，跑起來速度慢也沒有辦法安裝新軟體或存檔。  
+  
+上星期看到有人宣告成功地安裝了Ubuntu ([1;](http://www.ruanyifeng.com/blog/2007/07/ubuntu.html) [2](http://jeph.bluecircus.net/archives/computer/macubuntuwindow.php))後的強力推薦 ,而且還有現成的PC無痛安裝程式[wubi](http://wubi-installer.org/index.php)的出現,根本不必擔心要調校什麼系統環境和各種硬體驅動的問題,  反正自己現在閒著也是閒著就試著安裝在PC系統上面囉。(當然還有一個更扯的原因是PC視窗系統最近一直跳出畫面提醒金鑰序號無效，真是煩人 XD)  
+  
+![""]()  
+  
+安裝的過程"應該是"非常順利(因為下載Ubuntu的時間裏,我就跑去睡覺了),隔天起床後,讓電腦重新開機, 這時候在一開始的開機畫面中,會出現是要登入windows或是 Ubuntu 的作業系統選項,當然是選後者啦，不然忙了半天是在幹嘛，它便會自動去調校相關的設定,無痛地進入了Ubuntu的作業畫面。這個懶人包中的應用程式包括了internet, office, image, multimedia , game等電腦必備軟體。當然,收入程式幾乎都是 開放碼自由軟體，如open office, firefox, gaim。  
+  
+使用上，唯一遇上的問題是，不知道在哪裏切換中文輸入，請教過g大神，可能是下載過程中略過了語言支援，在系統選項下增加中文語言支持，它會再連線去安裝相關的輸入法支援，重開機後，就一切OK囉。  
+  
+本文即是在Ubuntu底下完成的報告。

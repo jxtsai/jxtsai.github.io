@@ -1,0 +1,20 @@
+---
+author: jx tsai
+comments: true
+date: 2006-06-23 15:21:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/06/23/tagworld/
+slug: tagworld
+title: TagWorld
+wordpress_id: 630
+categories:
+- dotlife
+- multimedia
+- software
+---
+
+這種Web2.0的網站多媒體服務真是越來越多，把過去複雜的電腦美工技巧，簡化為上傳的123步驟。只要照著人家編好的劇本動作就可以完成一份效果不錯的Flash 動畫作品。
+
+今天從黑米分享書籤上又學到一個TagWorld 的[3D立體方塊幻燈照片秀圖](http://docs.google.com/Doc?id=dg5tvp5f_3cm6d3f)。看來這個[Tagworld](http://www.tagworld.com/) 的功能還不只是這樣而已呢。應是以社群互動為主，但開發出不少有趣的花樣，
+
+看來它的玩法，不輸給Vox。(幸好GFW還沒封它XDD)

@@ -1,0 +1,19 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-02-02 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/02/02/mt%e6%98%87%e7%b4%9a3-15/
+slug: mt%e6%98%87%e7%b4%9a3-15
+title: MT昇級3.15
+wordpress_id: 900
+categories:
+- blogging
+- dotlife
+- software
+---
+
+從上週末，本站的[pLog](http://www.timayouth.org/plog) 一直出現問題。似乎是pLog本身資料庫編寫方式的特殊性，引發了資料連接上的困難和pLog站台[掛點的危機](http://www.timayouth.org/umm/archives/2005/01/plog_eae.html#more)。不過所幸這裏唯一資訊科班出身的[Yi_Ting](http://ummchen.blogspot.co/) 分擔了絕大的測試檢查，一一找出問題所在並思考如何改近除錯，使本站pLog的運作盡量正常。我想，在這麼危險的處境下，是否應繼續提供pLog的服務？還是另覓其它的blog 軟體替代？  
+  
+  
+另外 [Movable Type](http://www.jxtsai.info/blog/)日前也發布，因為comments.cgi 迴響檔其中有重大缺陷恐易遭駭客攻擊，所以官網呼籲舊版使用者趕快昇級到3.15 版。在Yi-Ting 的提醒下，本站MT系統也順利地昇級為最新版。 （哈，這些技術性的問題，我就丟給yi-ting去煩惱，我們這些末端使用者還是繼續安心地blogging 吧 :p)

@@ -1,0 +1,58 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-24 12:09:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/24/%e7%b6%b2%e8%aa%8c%e9%81%ba%e7%89%a9%ef%bc%8c%e6%83%b3%e5%a4%aa%e5%a4%9a/
+slug: '%e7%b6%b2%e8%aa%8c%e9%81%ba%e7%89%a9%ef%bc%8c%e6%83%b3%e5%a4%aa%e5%a4%9a'
+title: 網誌遺物，想太多
+wordpress_id: 334
+categories:
+- dotlife
+---
+
+昨天讀書時看到一段話：
+
+  
+
+
+<blockquote>2004年11月13日，20岁的美国海军陆战队队员贾斯汀。M.埃尔斯沃思在伊拉克巡逻期间被地雷炸死。同年12月21日，美联社报告说，他的家人请求雅虎提供自己儿子电子邮件的密码，这样就可以看到他曾经收发的信件。贾斯汀的父亲约翰。埃尔斯沃思告诉美联社的记者："我希望通过他的话怀念他。他在做自己认为有必要作的事情，我希望能把他的信件永远保存下去。这是我儿子留下的最后的东西了。"  
+我们现在所处的世界中，越来越多的交流都以比特（bits）的方式在网络空间中开展，并且存储在世界各地的服务器上。没有一个政府可以控制这个网络王国。现在的问题是，当一个人死后，他的比特由谁掌管呢？美联社的报道称，雅虎后来拒绝给贾斯汀的家人提供他的密码，理由是雅虎邮箱在连续90天没有激活后就删除所有记录，而且所有的雅虎用户一开始就认可了雅虎的用户须知--用户的ID或记录在死亡后将终结。雅虎的女发言人卡伦。玛宏告诉美联社的记者，"虽然我们对死者的家人深表同情，但雅虎的账户是不能转让的"。随着数字格式越来越多地取代纸面材料，你最好在死之前整理好一切，并且在遗嘱中写上愿意将你的比特留给谁。  
+(世界是平的, T. Friedman)</blockquote>
+
+  
+
+
+今天下午在家做一件很無聊的事，查查我所使用的網路服務，帳號休眠的期限多久。例如gmail 如果連續9個月沒有登入，則該信箱就會被消毀。而Google 旗下所併購衍生的網路服務，例如在blogger .com 上的文章、youtube gvideo 影片、picasa照片，應該也是隨著這9個月的大限一併消失。
+
+  
+其實當初自己開始寫部落格時，聽過這麼一個故事，某位美國大學生因為意外而過世了，結果他的網誌變成了親人朋友紀念憑悼的地方，利用留言功能，反而引出一長串的討論與回憶。聽起來是蠻感人的，如果有一天自己掛掉，至少還留下一處角落，讓不爽的人可以來韃伐，偶而想起的友人來掃墓一下。  
+
+
+但現實生活裏卻沒那麼容易，如果是掏錢買下的虛擬空間，就得先給它卯起來付個十年租用費，不然人活著都會忙得忘了繳費，一不注意網址就被網路蟑螂偷走，更何況是死了成孤魂野鬼誰還替你繳網站費用？ 若使用免費網路的服務，就免不了有定期登入的期限， Windows MSN相關的期限是90天、 Google 為9個月，yahoo奇摩稍長到1年的寬限期。
+
+  
+
+
+嗯，其實不到1年，人們就會忘記了啦，想太多><
+
+  
+
+
+相關文章：  
+[無名90天將銷毀 力保過世女友網誌遺物](http://www.peopo.org/portal.php?op=viewPost&articleId=4032)  
+[當網誌成為遺物，你想怎麼做](http://211.20.186.41/blognews/archive/2007/08/02/186053.html)  
+
+
+  
+
+
+不怎麼有關，但順便貼上來  
+[Website logs deaths of MySpace users](http://www.guardian.co.uk/technology/2007/aug/21/news.myspacehttp://www.guardian.co.uk/technology/2007/aug/21/news.myspace) [  
+](http://www.guardian.co.uk/technology/2006/nov/05/news.theobserverhttp://www.guardian.co.uk/technology/2006/nov/05/news.theobserver)[LevinStory](http://www.cnn.com/2007/HEALTH/08/20/obit.miles.levin/index.html?iref=mpstoryview)  
+[絕色台北](http://blog.xuite.net/joceinmars/walkaround) ，[一路好走](http://paowang.com/cgi-bin/forum/viewpost.cgi?which=paowang&id=684856)
+
+  
+  
+  
+

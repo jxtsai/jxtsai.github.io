@@ -1,0 +1,26 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-07-04 02:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/07/04/%e5%ad%b8%e5%bc%84%e7%b6%b2%e8%b7%af%e9%9b%bb%e5%8f%b0/
+slug: '%e5%ad%b8%e5%bc%84%e7%b6%b2%e8%b7%af%e9%9b%bb%e5%8f%b0'
+title: 學弄網路電台
+wordpress_id: 826
+categories:
+- dotlife
+- multimedia
+- software
+---
+
+網路時代的發達讓過去技術資金門檻高的科技，在今天也變成了人人只要靠著一台電腦和網路連線也可以一個人搞的玩意，諸如個人化的出版、部落格、網路電台、記錄片等等。  
+  
+一直在研究怎麼架設網路電台，從台大批踢踢BBS站上從頭摸索什麼Shoutcast,  SAM broadcaster,  也找到一些前輩高手留下的[教學指南](http://members.lycos.co.uk/hkfreesky/teach/)，不過我研究了半天仍是搞不懂這什麼鬼東西啊＄＃＄??  
+  
+簡 單來說呢，要架設一個網路電台呢，你須要一個Sever, 而這個（發射）網站不但頻要夠，才能足夠的聽眾連上去聽廣播，它上面也要有相應的軟體如 Shoutcast 。而SAM broadcaster的功能，大約就是像廣播室裏由 主持人DJ所操作的播曲編排和聲音講話的輸入控制，所以透過SAM製作好的聲音檔案（節目） 傳到Sever 再由Shoutcast 串接給收聽這個網址的聽眾。這就是我目前為上所自以為理解的網路電台製作方式。  
+  
+之前因為試過了[Appachsever的安裝](http://www.formosa319.org/a5288/?p=152)，心想，那自己來弄一個Sever，再裝Shoutcast 應該不是什麼難事 ，這也省去了目前大多數的虛擬主機供應商並不提供電台架設的問題(這種服務也是有啦，只是價錢並不便宜^^“)  
+  
+不 過問題來了，因為安裝 Appachsever的電腦是採用著虛擬IP，(192.168.XX.XX之類的) 讓我不知道該如何去找出它的正確IP ,就算用了正確IP的資訊，也仍舊無法讓它把Shoutcast的資訊傳送出去。找遍網路上的FAQ只說這種情況下就把電腦獨立出來不要用虛擬IP，卻沒 有教人怎麼在虛擬IP下做設定，真是叫人一籌莫展><, 目前還在想辦法要如何解決這個問題。後來找到有一處叫做[Listen2myradio ](http://www.listen2myradio.com/)的公司，它們提供了Sever 免費安裝 shoutcast  的服務，雖然它的品質不夠穩定 頻寬窄還得透過Web brouser介面才可以收聽節目，但至少讓我學會了怎麼樣去安裝winamp  shoutcast ，成功地完成了第一次網路電台的[試播](http://a5288.listen2myradio.com/)。  
+  
+還是得想辦法解決虛擬IP架站的問題。

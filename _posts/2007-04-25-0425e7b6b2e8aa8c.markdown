@@ -1,0 +1,36 @@
+---
+author: jx tsai
+comments: true
+date: 2007-04-25 04:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/04/25/0425%e7%b6%b2%e8%aa%8c/
+slug: 0425%e7%b6%b2%e8%aa%8c
+title: 0425網誌
+wordpress_id: 399
+categories:
+- development
+---
+
+從development gateway 電子報(好久沒有認真地看它送來的訊息了，能重新關注一些新的資訊議題，「自我感覺」良好，呵)，收錄幾則有趣的資訊來分享。
+
+  
+
+
+1. [BBC Reith Lecture 2007](http://www.bbc.co.uk/radio4/reith2007/lecture1.shtml) ,邀請美國哥倫比亞大學經濟學?授Jeffrey Sachs 主講全球化、貧窮、國際關係與UN等議題。Sachs似乎是近年來發展經濟學中的熱門人物，但我還沒有時間好好看看他任何一份作品。從BBC網站上看來，這個為了紀念英國國家廣播電台第一任總監的紀念講座，系列節目都還挺不「賴」的。
+
+  
+
+
+2. 倫敦廣告行銷人 Leo Burnett 為聯合國婦女基金會所製作的公益宣傳短片「[終止對女性迫害](http://www.jxtsai.info/blog/)」。影像的東西看多了，就會挑東嫌西的，並非它做的不好，但我看來，居然沒有什麼新意？是我知道的訊息太多，還是日漸被簡約化的短訊所麻木？但我想，對於它的目標觀眾，應該還是有一定的教育宣傳作用。本想把它放上土豆網，但宿網封了幾個影音網站，等有機會再來做上傳動作吧。
+
+  
+  
+
+
+3.[Gapminder](http://www.gapminder.org/downloads/applications/)，根據介紹短文，它是一個可以圖表量化展示人類發展指數變化情況的免費工具軟體。本以為它是個「純」軟體，可以安裝後，任使用者依自己遭遇的環境和樣本來做統計呈現，但其實它應象一個程式，統計人員輸入了相關資料後，可以在末端跑出漂亮的圖片介紹（以Flash方式互動）  
+  
+
+
+  
+  
+

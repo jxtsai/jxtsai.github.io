@@ -1,0 +1,23 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-07-31 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/07/31/%e7%94%a8wink-%e8%a3%bd%e4%bd%9cplog%e6%95%99%e5%ad%b8%e6%aa%94%e6%a1%88/
+slug: '%e7%94%a8wink-%e8%a3%bd%e4%bd%9cplog%e6%95%99%e5%ad%b8%e6%aa%94%e6%a1%88'
+title: 用wink 製作pLog教學檔案
+wordpress_id: 810
+categories:
+- blogging
+- dotlife
+- e-learning
+- software
+---
+
+之前[yiting](http://www.jxtsai.info/blog/)向我推薦了一套好用的自由軟體----[wink](http://www.jxtsai.info/blog/)，說是一個可以做為畫面截取（screenshot）進而作成動態的線上教學檔案。  
+  
+本來還以為這套軟體功能那麼神，一定很難操作。不過摸索了幾次後，才深覺它真是一個好用又聰明的軟體，即使我是個大傻瓜，多玩幾次就可以很快地入手製作一些網站管理示範教學。  
+  
+繼TIMAYOUTH.ORG  之後，我又繼續在ASAP網站上架了一個[pLog](http://www.jxtsai.info/blog/)，讓年輕的反菸倡議者可以先試著用blog做點個人新聞台的記錄。這回我沒有再寫一堆文字?述的教學文件，只消用wink做出flash 動態影片，就可以很輕鬆地向新手示範如何使用pLog，省去不少麻煩。  
+  
+我是還不知這樣的效果如何，有機會問問。不過我想，如果能一邊截取畫面錄像，一邊錄以聲音說明，應該會更好。

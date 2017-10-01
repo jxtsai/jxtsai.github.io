@@ -1,0 +1,14 @@
+---
+author: jx tsai
+comments: true
+date: 2007-10-03 08:57:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/10/03/%e4%b8%8d%e5%8f%aa%e6%98%af10%e6%9c%884%e6%97%a5/
+slug: '%e4%b8%8d%e5%8f%aa%e6%98%af10%e6%9c%884%e6%97%a5'
+title: 不只是10月4日
+wordpress_id: 314
+categories:
+- development
+---
+
+[支持緬甸番紅花運動的幾種方法](http://blog.roodo.com/trust1021/archives/4231465.html)

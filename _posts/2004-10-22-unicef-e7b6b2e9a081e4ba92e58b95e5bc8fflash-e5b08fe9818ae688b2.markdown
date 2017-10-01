@@ -1,0 +1,21 @@
+---
+author: jx tsai
+comments: true
+date: 2004-10-22 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/10/22/unicef-%e7%b6%b2%e9%a0%81%e4%ba%92%e5%8b%95%e5%bc%8fflash-%e5%b0%8f%e9%81%8a%e6%88%b2/
+slug: unicef-%e7%b6%b2%e9%a0%81%e4%ba%92%e5%8b%95%e5%bc%8fflash-%e5%b0%8f%e9%81%8a%e6%88%b2
+title: UNICEF 網頁互動式Flash 小遊戲
+wordpress_id: 937
+categories:
+- development
+- dotlife
+- game
+- software
+---
+
+[聯合國兒童基金會](http://www.unicef.org/)所製作的網頁互動小遊戲，希望可以透過活潑的方式寓教於樂地傳達給青少年朋友有關 UNICEF 所從事的兒童人道議題的援助工作之意義、與健康和發展有關的知識。  
+  
+UNICEF's [World Heroes](http://www.unicefgames.org/)是一款簡單的補給品投放的遊戲，也贏得某項互動網頁設計的肯定。 （ the Amusement prize at this year's South by Southwest (SXSW) Interactive Web Awards.） Game invites players to become a volunteer and catch aid supplies as they're parachuted from an aeroplane. 我覺得它在每個關卡之間設計了一些有關發展小知識的問答加分題，算是充份地利用了機會來進行相關教育。  
+  
+另一個有關萬聖節[Halloween Coin Toss](http://www.unicefgames.org/) 則是有關如何（替 UNICEF） 募款的小撇步提醒。

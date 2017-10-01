@@ -1,0 +1,28 @@
+---
+author: jx tsai
+comments: true
+date: 2015-08-04 14:55:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/08/04/%e8%81%af%e5%90%88%e5%9c%8b%e5%85%a8%e7%90%83%e5%8f%af%e6%8c%81%e7%ba%8c%e7%99%bc%e5%b1%95%e7%9b%ae%e6%a8%99-sdg-20152030/
+slug: '%e8%81%af%e5%90%88%e5%9c%8b%e5%85%a8%e7%90%83%e5%8f%af%e6%8c%81%e7%ba%8c%e7%99%bc%e5%b1%95%e7%9b%ae%e6%a8%99-sdg-20152030'
+title: 聯合國全球可持續發展目標 SDG 2015~2030
+wordpress_id: 128
+categories:
+- development
+---
+
+前兩天（8月2日）193個國家外交官代表在聯合國紐約總部，總算是達成了繼15年前[千禧年發展目標（Millennium Development Goals ](http://www.undp.org/content/undp/en/home/mdgoverview/mdg_goals.html)2000～2015, 後稱MDG）之後下一階段的全球發展願景的藍圖－－[可持續（永續）發展目標Susutainable Development Goals](https://sustainabledevelopment.un.org/topics/sustainabledevelopmentgoals), 以下稱SDG）的共識，只待下個月由各國領袖出席的聯合國大會上，進行最後的背書確認。（聯合國發展署UNDP官方發佈的新聞：[Consensus Reached on New Sustainable Development Agenda ](http://www.undp.org/content/undp/en/home/presscenter/pressreleases/2015/08/02/consensus-reached-on-new-sustainable-development-agenda-to-be-adopted-by-world-leaders-in-september.html)）  
+  
+自己雖然某程度算是學Development Studies過來的，但1990年代末期當時其實  
+還未摸懂聯合國這個全球最大的跨政府國際組織的構造與權力角力，所以當2000年進入到所謂的千禧年發展目標時，根本就不知道如何看待解析這些東西，就算試圖著硬背，也記不住MDGs到底是有六個還是八個目標，其內容又是如何。  
+![MDGs](https://www.bond.org.uk/data/images/heroes/mdgs-full.png)  
+  
+過去這幾年，反倒是透過了一點人權議題與聯合國人權機制的接觸，自己才算有點入門地了解這個龐大國際官僚組織架構與權力關係。  
+  
+想想20～15年前，當人類文明即將迎接第二個千禧年之際，“我們”當時面對的是一個什麼樣水準的物質技術條件以及人類面臨的最迫切問題。20年過去了，聯合國與其成員或許會檢討MDG的達成狀況，而台灣又如何理解這過去20年中間的全球變化與自身的﹍﹍﹍﹍﹍﹍(空白處不知該放入什麼字眼，或許每個人不一樣，但我個人多少會給予“失落”、“倒退”之類的評價吧)。  
+  
+在MDG即將功成身退（？）前夕，聯合國技術官僚與各國政府、專家小組、公民團體自2012年開始聚集討論“後2015全球發展議程”，經過多年的協商也才有了SDG走到今天的樣型。  
+  
+![SDGs]()  
+  
+

@@ -1,0 +1,20 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-01-31 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/01/31/%e5%8f%b0%e5%8c%97%e6%8d%b7%e9%81%8b%e7%84%a1%e7%b7%9a%e4%b8%8a%e7%b6%b2%e7%94%b3%e8%ab%8b/
+slug: '%e5%8f%b0%e5%8c%97%e6%8d%b7%e9%81%8b%e7%84%a1%e7%b7%9a%e4%b8%8a%e7%b6%b2%e7%94%b3%e8%ab%8b'
+title: 台北捷運無線上網申請
+wordpress_id: 902
+categories:
+- dotlife
+---
+
+從Schee 在台北捷運上所做Smart Media Mob現場報告[1](http://blog.schee.info/archives/2005/01/21/1718/)、[2](http://blog.schee.info/archives/2005/01/24/1722/)，才知道台北捷運區已開通了無線上網熱點。於是乎第二天，背著我的小白到最近的捷運站想搭搭Wi-fi的免費車。從站內（景美）到車上都收不到訊號，一直往北，到了公館，這天線寶寶開始有了奇妙的反應...。不過第一次在捷運車廂裏大喇喇地使用筆電，卻一直被鎖在無線寬頻服務的網外，無法得知如何在哪裏可以申請wifly帳號。只有回家後再到wifly.com.tw 申請一個試用帳號，隔日再戰  
+  
+嗯，其實我要說的是，wifly 的試用帳號，原本1月31日到期的，延長到4月30日結束。有「需要」，（且不怕線上申請沒有加密傳送）的朋友可以到 wifly.com.tw 上申請免費試用帳號。  
+  
+過幾天回家，再來向各位報告無線寬頻在高雄的發展現況或是使用體驗吧。  
+  
+

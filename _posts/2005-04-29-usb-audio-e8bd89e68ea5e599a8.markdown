@@ -1,0 +1,22 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-04-29 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/04/29/usb-audio-%e8%bd%89%e6%8e%a5%e5%99%a8/
+slug: usb-audio-%e8%bd%89%e6%8e%a5%e5%99%a8
+title: USB Audio 轉接器
+wordpress_id: 874
+categories:
+- buy
+---
+
+ibook雖然有內鍵一個隱藏式麥克風，使用skype 或ichat 只要如平常一般地講話，遠端對方即可清楚地收到聲音進行聊天。  
+不少人也想把ibook or powerbook 當成錄音機使用，在會議或課堂上只是打開音訊裁取軟體，如Audio hijack 即可捕捉現場的聲音。  
+不過這樣僅靠內建式麥克風的收音，其效果並不算太好，而一個USB外接式的iMIC  又索價不菲（聽說要近兩千元台幣，PC一個外接 .35cm的麥克風也不過百來元！！）  
+![](http://a5288.blogspot.com/)  
+於是我只好找找非原廠的 USB MIC 做為替代。  
+在OKIOS 上看到這樣的USB 轉接器，延襲了apple 了這一系列的白色簡式風格設計，只要750元的代價，的確是值得考慮。不過Ko家如我，當然還是要找找更便宜的替代品，反正0.35cm耳機和麥克風我手邊都有，若能再找到適當的USB轉接頭應該就可以做出替代iMic的外接麥克效果了吧？  
+日前在順發3C賣場?於找到了一個intopic 的UBS 2.0 audio 轉接器，雖然它的迼型不似imic 或是上面okios 團購介紹的產品。但價錢只有白色轉接器的一半，在唯物原則的考量下，我當然是選擇了這個350元的台灣產品。![](http://a5288.blogspot.com/)  
+雖然說明書上沒挑明它是否可支援MAC OSX ，我想以小白的聰明，應該是可以自行偵測到新接硬體，進而找出支援的驅動程式。於是我便把它接上ibook  USB上插槽後，但小白並沒有任何異狀，此時耳機也沒法聽到任何聲音。我開始發急地想要從versiontracker  網站上找找有關OSX UBS MIC 的驅動程式，一方面又到系統設定下面去看看音效系統是否該做些調整。果然在system Preference 下的 Sound input and output, 即出現了C-Media USB 選項。當我把原來built in audio 改選為C-media USB, 此時耳機裏即出現了令人滿意的五聲道效果！！！  
+不過到目前為止，我還沒法成功的測試它的麥克風效果。而?在不同的應用軟體下要透過UBS audio 播出音效，還得每每到system 或播放軟體的偏好設定下把它設為音效輸出的音源。唯一感到安慰的是，它的 USB五聲道效果，的確是讓ibook 原本內建的音效提高不少立體感。

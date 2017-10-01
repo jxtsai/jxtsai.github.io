@@ -1,0 +1,35 @@
+---
+author: jx tsai
+comments: true
+date: 2007-11-10 14:28:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/11/10/%e7%99%bd%e8%a9%b1%e7%89%88%e7%9a%84opensocial%e8%a9%b1%e9%a1%8c/
+slug: '%e7%99%bd%e8%a9%b1%e7%89%88%e7%9a%84opensocial%e8%a9%b1%e9%a1%8c'
+title: 白話版的OpenSocial話題
+wordpress_id: 303
+categories:
+- dotlife
+---
+
+我在實體生活世界裏面認識的朋友，網路對他們而言只是收發郵件、逛逛Bookmark底下幾個常去的網站、偶而用用IM之類，就算擁有個人部落格，也多半是最陽春基本的卑鄙小站之類的使用者XD，因此以下所談的Open Social 的話題，對他們可能也是有個無形門檻，並不想去了解的東西。不過因為讀到這二篇（  
+G[oogle的OpenSocial是黑船叩關還是六國攻秦](http://www.bigsound.org/portnoy/weblog/003908.html)by portnoy、[Google（和他的朋友們）要給大家「開放社會的…」 工具](http://ilyagram.org/blog/archives/2047.html) by ilya）一時之間不太能看懂的文章，於是想試著寫下一篇白話版的OpenSocial 介紹。
+
+  
+
+
+這兩天在網路界最受矚目的話題，就是Google 宣布和一堆社群網站建立OpenSocial 同盟，公開化網路應用套件的技術介面，讓有興趣開發應用小套件的設計者，可以讓寫出的程式暢行地使用於已加入Open social 的同盟網站上。而這個話題之所以引人興趣，正因為近來熱門崛起的社群網站[FACEBOOK](http://www.bnext.com.tw/LocalityView_6495) 卻沒有加入OpenSocial 同盟，許多人等著看接下來社群網站璧壘如何發展的討論。TechCrunch 甚致以1980年代的PC電腦和蘋果之爭來比喻，當初因為APPLE 關起門造車沒投入開放平台，即便APPLE 環境友善效能穩定度都勝過視窗系統，最終還是無法勝過百萬程式設計者在windows 環境下的撰寫出各類應用軟件，於是在個人電腦市場的競逐敗陣。更何況幾週前，微軟打敗了Google ，砸出兩億四千萬美金，「才」買下Facebook 1.6 % 的股份。
+
+  
+
+
+就我個人使用社群網站的經驗而已，我的確比較喜歡facebook（其實我只有加入它、hi5、Orkut而已，而最後一個根本沒有去使用，所完全是不太準確的使用者經驗），因為F 游走網友隱私邊緣的minifeeds讓我可以窺探朋友在做什麼(特別是只要在Firefox上加一個toolbar小外掛)，更因為它提供了許多有趣的小插件（雖然我不會裝太多，也不喜歡朋友太多的邀請干擾）。但是如果未來，HI5提供了更豐富的插件應用軟體更可以讓使用者的簡介頁面有個人化的資訊集中效果如果朋友們都在Hi5，我可能就改成掛單在Hi5了。不過目前最困擾我的，還是這兩邊都有朋友，又沒辦法把hi5的朋友騙去facebook ，就像有人愛用Windows Live MSN ，有人死忠於AOL、yahoo massager，所以只好一直在眾多社群網站上疲於奔命啦XD。
+
+  
+
+
+呃，以上白話版的說明，應該可以看得懂吧 ？
+
+  
+
+
+OpenSocial

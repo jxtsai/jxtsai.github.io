@@ -1,0 +1,21 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-07-28 15:21:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/07/28/%e6%b8%ac%e7%94%a8-zoundry/
+slug: '%e6%b8%ac%e7%94%a8-zoundry'
+title: 測用 Zoundry
+wordpress_id: 816
+categories:
+- blogging
+- dotlife
+- software
+---
+
+砍掉了原本使用的 windows live writer ，改用Zoundry這套離線部落格編輯軟體，這篇文章就是用它來編輯的測試文  
+  
+介面還不錯，也支援多重帳戶的轉換，但不知是小蟲的問題還是我電腦之前安裝flyakite 、還是目前互聯網不穩定的因素，zoundry 常常運行到一半就會沒有任何回應，只好強迫關閉。對於我這種重度使用電腦，但夜間工作結束後，卻常無法掛網的人來說，利用離線編輯工具，實不失為一個好方法，隨手記一些筆記。  
+  
+查了一下，它可以支援樂多網誌的離線編輯，看來是時候重整我的幾處分散的網誌了。  
+

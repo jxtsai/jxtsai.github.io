@@ -1,0 +1,16 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-09-22 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/09/22/%e7%ac%ac%e4%b8%80%e7%af%87%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0/
+slug: '%e7%ac%ac%e4%b8%80%e7%af%87%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0'
+title: 第一篇測試文章
+wordpress_id: 953
+categories:
+- blogging
+- dotlife
+---
+
+Movable Type 3.121版，給非營利組織支援多個網誌與多名作者共寫的版本。不過好像以五人以下的單位為限。  
+試裝之後，證實可以支援5個以上的網誌開設，而且安裝的方法比過去試2.661還要容易許多，有機會把它整理出來給各NGO朋友分享吧。

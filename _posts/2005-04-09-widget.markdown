@@ -1,0 +1,25 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-04-09 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/04/09/widget/
+slug: widget
+title: widget
+wordpress_id: 886
+categories:
+- software
+---
+
+自己使用Apple 系統一年多來，還不算完全被馴化成為一個死忠的反窗戶蘋果用戶。不過偶而在PC系統老要遇上一堆設定、中毒、當機、重灌的問題，apple 電腦則是設計得簡單方便，透由網路上不少老手的介紹，自己慢慢地越能上手OSX 作業系統。問我選擇下一台電腦的偏好，我可能還是會絕大留在apple  陣營。  
+  
+話說今年四月間，Apple 發表他們新一代的作業系統OSX 10.4 Tiger 後，最為 mac 迷熱衷運用開發的，莫過一個叫做[Dashboard](http://www.jxtsai.info/blog/) 的功能。 而由Apple 官方或是許多Mac程式式開發者提供的各式 widget  則是一種小型的浮動視窗，可以依使用者之需要，出現在電腦螢幕上展示相關的資訊。  
+  
+還不及把自己的ibook昇級成Tiger 作業系統，一直無法體會widget 的好處何在，直到今晚，看到Applewoods 上介紹了一個可以在OSX 10.3.9  Panther 上執行widget 的小程式--[Amnesty Widget Browser](http://www.jxtsai.info/blog/)，並試著下載安裝了幾個widget 試用。  
+  
+[BBC 廣播](http://www.jxtsai.info/blog/)  
+[線上字典  
+氣象預報](http://www.jxtsai.info/blog/)  
+  
+  
+天啊，我只能說，這真是太神奇了，它真是方便又好玩的小玩意。用widget 叫出來的浮動小視窗可以很快地秀出你指定的相關網路資訊，或是隨手筆記本，或是多媒體播放器。

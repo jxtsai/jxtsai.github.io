@@ -1,0 +1,31 @@
+---
+author: jx tsai
+comments: true
+date: 2007-11-10 14:26:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/11/10/%e7%b7%9a%e4%b8%8a%e5%8b%9f%e6%ac%be%e5%b7%a5%e5%85%b7/
+slug: '%e7%b7%9a%e4%b8%8a%e5%8b%9f%e6%ac%be%e5%b7%a5%e5%85%b7'
+title: 線上募款工具
+wordpress_id: 309
+categories:
+- development
+- dotlife
+- NGO
+---
+
+前天收到[kiva](http://www.formosa319.org/a5288/?p=416) 寄來小額貸款人的最新償還記錄進度報告，結果一點進去不是先看到那位借款者柬埔寨農人的情況，反而是我自己在kiva 帳戶的使用分析，強烈地暗示我的contribution 遠在kiva 其它會員的平均值之下。呃，這樣的[捐款同儕壓力](http://www.richyli.com/blog/2007/09/kiva.html)也太大了吧XD。
+
+  
+
+
+剛好在Beth Blog 上面看到她寫了一篇如何利用[web 2.0 等工具來做線上募款](http://beth.typepad.com/beths_blog/2007/10/the-campaign-%20re.html)的方法。 除了大家比較熟悉的付款平台payapl 之外，另外再介紹了一款[chipIn](http://www.chipin.com/) 的線上募款工具，它當然也是利用paypal 作為付款的方式，減少了多一次申請認證信用的麻煩，所以更加深了它的簡化與受歡迎的程度。  
+chipIn 的使用很簡單（但你同時也要有一個paypal 帳號），只要填入email 申請，得到確認後，就可以在其網站上發動一次線上募款活動－－填入籌錢目的、金額大小、完成日期之後就算搞定。當然，別忘了把自己發起的募款活動的宣傳小貼紙chinpIn有提供html 原始碼）貼在網站上，讓公眾知道捐款的情況如何。  
+以下就是一個示範的樣版，不過目前還不能支援中文編碼。(這只是一個試用的募款活動，所以根本沒有什麼偏遠地區中學，但如果有人真的想要試試，順便捐錢給我，那.....就謝謝啦ORz)
+
+  
+
+
+  
+
+
+哦對了，提到這種線上付款，順便發一下勞騷，台灣的銀行金融業雖然發達，ATM轉帳手續便利信用卡也流通許多，但是為什麼就是沒有類似像paypal 或是支付寶之類的第三方網路付款機制呢？(有ezpay 這玩意，但好像沒什麼人使用吧)。我上星期就是這樣在奇摩網拍上跌了觔斗，活生生地被詐騙了5000多元XD。

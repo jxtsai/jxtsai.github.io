@@ -1,0 +1,22 @@
+---
+author: jx tsai
+comments: true
+date: 2012-11-10 01:57:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2012/11/10/un%e4%ba%ba%e6%ac%8a%e9%ab%98%e5%b0%88%e8%be%a6%e5%85%ac%e5%ae%a4%e6%9c%80%e6%96%b0%e5%87%ba%e7%89%88%e5%93%81%e4%ba%ba%e6%ac%8a%e6%8c%87%e6%a8%99%e5%b7%a5%e5%85%b7%e6%9b%b8/
+slug: un%e4%ba%ba%e6%ac%8a%e9%ab%98%e5%b0%88%e8%be%a6%e5%85%ac%e5%ae%a4%e6%9c%80%e6%96%b0%e5%87%ba%e7%89%88%e5%93%81%e4%ba%ba%e6%ac%8a%e6%8c%87%e6%a8%99%e5%b7%a5%e5%85%b7%e6%9b%b8
+title: UN人權高專辦公室最新出版品:人權指標工具書
+wordpress_id: 224
+categories:
+- human rights
+- OHCHR
+- toolkit
+---
+
+前兩天在一封email 上發現聯合國人權高級專員辦公室在今年11月份，剛出版了一本[Human Rights Indicators- A Guide to Measurement and Implementation](http://www.ohchr.org/EN/NewsEvents/Pages/IndicatorsessentialtoolsinrealizationofHR.aspx)工具書。  
+  
+過去也曾經討論、動念，到底一個社會人權進展或倒退的情況，是否能用一些統計性指標展現出來。尤其是最近遇到老外在問我們，到底台灣批淮兩公約之後的人權狀況如何，又或是我們如何向這個政府質問到底人權政策有效落實的狀況，我益發覺得，透過某些工具指標的發展與應用，至少提供了一個貌似「客觀」的評估工具。  
+  
+當然聯合國這本手冊內容並不是馬上揭示說，要衡量CCPR第14條公平審判，那可以採用哪些指標、CCPR第22條結社自由，又有哪些現成的指標可以運用(雖然我個人比較想要這樣現成方便的東西XD)。它的撰寫邏輯，無寧是從最基本的人權理念與內涵，發展不同本質與階段的人權指標架構概念，到最後一些案例的參考。也就是簡單說，我們還是得從頭看起，想想自身的狀況，決定出合適於本土情境的人權指標，而這套工具手冊，就是在協助發展、挑選人權指標的引導工具。  
+  
+

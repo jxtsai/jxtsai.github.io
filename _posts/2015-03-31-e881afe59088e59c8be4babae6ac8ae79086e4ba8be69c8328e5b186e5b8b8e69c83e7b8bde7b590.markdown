@@ -1,0 +1,21 @@
+---
+author: jx tsai
+comments: true
+date: 2015-03-31 11:06:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/03/31/%e8%81%af%e5%90%88%e5%9c%8b%e4%ba%ba%e6%ac%8a%e7%90%86%e4%ba%8b%e6%9c%8328%e5%b1%86%e5%b8%b8%e6%9c%83%e7%b8%bd%e7%b5%90/
+slug: '%e8%81%af%e5%90%88%e5%9c%8b%e4%ba%ba%e6%ac%8a%e7%90%86%e4%ba%8b%e6%9c%8328%e5%b1%86%e5%b8%b8%e6%9c%83%e7%b8%bd%e7%b5%90'
+title: 聯合國人權理事會28屆常會總結
+wordpress_id: 164
+categories:
+- human rights
+- UNHRC
+---
+
+[![](https://uploads.liberties.eu/news/3206/image/show_140304_2.png_effected__1_.png)](http://www.liberties.eu/en/news/call-for-un-special-rapporteur-on-privacy)  
+  
+四週前曾經在[UNHRC 28常會開幕之際](http://www.jxtsai.info/blog/?p=1152)寫了一篇簡介，上週五（March 28th）每年三次的常會結束，其中我個人最關心的決議－－依聯合國憲章權力，新創設隱私權特別報告員一職務，也順利在3月27日通過此決議，據[衛報說法](http://www.theguardian.com/world/2015/mar/27/un-sets-up-privacy-rapporteur-role-snowden-leaks)，應該會在下次常會（６月份）任命這位隱私權獨立專家<del>，不過我個人覺得似乎不會那麼快吧？</del>(４月２日更新，聯合國人權理事會已對外作出招[募公告](http://www.ohchr.org/EN/HRBodies/SP/Pages/HRC29.aspx)，可望在下次６月會常會上任命新的隱私權特別報告員)以前還不了解聯合國人權特別特程序機制，也不知道那些國別任務或主題任務的職務任命是怎麼産生的，但這四五年下來，觀察到集遊結社權特別報告員以及今年新增的隱私權特別報告員，稍微地去理解或想像一下這些決議與任命過程背後的國際政治角力與時空環境，其實還蠻有趣的。　  
+  
+我個人會再看看ISHR (International Service for Human Rights)在人權理事會常會前後所做的電子報相關[報導與分析](http://www.ishr.ch/news/un-human-rights-council), 從NGO角度了解這次會議的重點進展。另外人權觀察（Human Rights Watch）去年開始系統化整理分析人權理事會上各成員國的[投票取向數據與分析](https://votescount.hrw.org/)，不過標的只限於以「國別人權情況」之決議。  
+  
+另外，今年才知道的智庫型研究組織 Universal Rights Group, 他們對於聯合國人權機制提出的[幾份建議報告](http://www.universal-rights.org/reports/policy-reports)，都讓我受用不少。剛才稍看了一下他們對[UN HRC 28次常會的總結整理](http://www.universal-rights.org/reports/hrc-session-reports/129-report-on-the-28th-session-of-the-human-rights-council)， 是我這兩三年來看過最優的滙總，幫忙省去了把時間精力消耗在一堆浩瀚文書龐雜資料中卻是舉目無助的挫折，還可以有一個清楚全面樣貌，大推。

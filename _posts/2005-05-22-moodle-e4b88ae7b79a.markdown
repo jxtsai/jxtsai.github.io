@@ -1,0 +1,17 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-05-22 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/05/22/moodle-%e4%b8%8a%e7%b7%9a/
+slug: moodle-%e4%b8%8a%e7%b7%9a
+title: moodle 上線
+wordpress_id: 864
+categories:
+- dotlife
+- software
+---
+
+從Elearning Newsletter 上，得知 [Moodle](http://moodle.org/)這個課程管理線上學習的自由軟體。後來在它的用戶分布版圖上，找到了[台灣的使用者](http://moodle.org/sites/index.php?country=TW)，也多是以學校的數位教學網。試著在[本站](http://www.timayouth.org/moodle)也安裝了這套自由軟體，不過還不知道可以把它運用在什麼地方。倒是想到，如果tima 今年要做ASAP的分組全年實務操作，也許有一部份課程的記錄是可以透過數位化處理，開放在網路系統上持續作追縱和教案的整理吧。  
+  
+另外 Jedi 這一篇介紹[「版本控制系統」](http://jedi.org/blog/archives/004784.html)的文章，也讓我長了不少眼界，才知道：原來有這東西！ 如果能透過控制系統的方式來協助工作伙伴之間的合作，那麼應該可以減少同一個計畫出現各自衍生版本的混亂狀況。這一點，倒是目前辦公室在編整年度成果報告上，可以學習應用的工具。

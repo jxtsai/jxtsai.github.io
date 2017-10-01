@@ -1,0 +1,19 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-03-29 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/03/29/ngo-%e7%ae%a1%e7%90%86%e7%b6%93%e7%87%9f%e8%80%85%e7%9a%84%e7%b5%84%e7%b9%94%e8%a9%95%e9%87%8f%e5%b7%a5%e5%85%b7/
+slug: ngo-%e7%ae%a1%e7%90%86%e7%b6%93%e7%87%9f%e8%80%85%e7%9a%84%e7%b5%84%e7%b9%94%e8%a9%95%e9%87%8f%e5%b7%a5%e5%85%b7
+title: NGO 管理經營者的組織評量工具
+wordpress_id: 888
+categories:
+- development
+- NGO
+---
+
+[NGO Manager Organizational Assessement Tool ](http://www.ngomanager.org/tools/OAT_July_2004.pdf) (pdf 格式檔)  
+  
+24頁的短文介紹，說穿了就是如何應用SWOT 來做非營利組織的分析，不過提供的一些標準的表格式樣，其上所列的項目，倒是可以提醒一個組織管理者一些面向的考量，如組織使命、理事會選任、人力資源、預算管理等要項。從組織面臨的問題檢視，再來發響可能的行動策略。  
+  
+The purpose of the Organisational Assessment Tool (OAT) is to help organisations to improve their performance. It helps to find out their strong and weak points. The OAT is a learning tool on problems and questions concerning the organisation’s strategy, it’s management processes, finances, staffing,relationships with others and it’s results. It asks to identify causes of problems and helps in the decision-making to overcome them. Assessment tools are also important for consultants and support organisations. This guide was written by Marco Kirschbaum.

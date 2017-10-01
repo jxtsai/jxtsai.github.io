@@ -1,0 +1,198 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-21 12:09:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/21/%e7%b3%a7%e9%a3%9f%e6%8f%b4%e5%8a%a9%e7%9a%84%e7%88%ad%e8%ad%b0/
+slug: '%e7%b3%a7%e9%a3%9f%e6%8f%b4%e5%8a%a9%e7%9a%84%e7%88%ad%e8%ad%b0'
+title: 糧食援助的爭議
+wordpress_id: 335
+categories:
+- development
+---
+
+約莫十天前一個「很大的」國際援助發展組組織CARE，表明他們在2009年後，將不再接受美國聯邦政府對非洲貧窮國家的糧食援助作法，而希望改採直接扶助當地農民、建立可獲利計畫模式以及尋找其它私人捐助的方式來進行其國際援助。  
+簡單的說，歐美日國家的官方國際援助作法之一，就是不直接把援助金錢移轉給受助國家，而是用在國內購買本國所生產的物品後，再運送到受援國家。這是「國際援助」之所以成為一大經濟產業的基本運作方式，也引起發展經濟學者對於Aid Effective （援助有效性，指是否具體改善受援國家人民生活、經濟表現）不同的討論。例如這一陣子阿扁總統訪問中美洲，捐了500部台灣製造的機車給薩國警方，希望有助於提昇警方打擊犯罪的效率云云。在沒有污錢的情況下，假設這筆捐助約為5000萬台幣(含運費等)，則最直接的第一個受益人應該先是台灣機車製造商（和產業相關的供應鏈廠家）、貨運公司，再來是受贈的薩國警方，最後才來看看警方效能是否因此提高更增進了當地居民的生命財產安全。如果5000萬元直接交給薩國警方由其在當地購買機車，這筆錢的使用效率會不會更好呢？這恐怕要在進一步了解當地機車工業水準，才能進一步判斷。但很顯然的，從台灣買了機車運贈給薩國，則薩國機車工業完全沒有在這回援助計畫中直接受益，他們輸給了台灣對手，捐失5000萬元的生意機會。或許在這個案例中，只有台幣5000萬援助金額，看不出對二國摩拖車產業的重大影響，但如果把這樣的援助操作模式來看歐美國家的糧食就會發生更複雜的反應。  
+美國的糧食援助過程中，多了一些中介團體，產生另一道「NGO產業」的風景。聯邦的對外援助經費先在美國境內購買了大量農產品，坐上美國船運公司千里迢迢地運送到非洲，移交捐贈給美國NGO團體。獲得「聯邦補助」的NGO並不是取得一筆美國政府問開的美金支票現金，而是得把漂過洋水的糧食在當地市場上販售換取金錢，這樣NGO才能有經費投助於不同的發展計畫。由此來看，美國政府的糧食援助，不但先「援助」了本國的農業（我不能確定美國農民是否直接受益，但農產品公司一定賺了不少錢)、美其名援助了貧窮國家的政府和人民，還「援助」了國際NGO組織。  
+這樣的作法引人爭議之處，除了效率浪費之外，就是受援國家本土產業發展的討論。試想一個種稻子的肯亞小農夫，不但在國際市場上已無力競爭富國政府高價補貼的農產品，在自家市場內更要面對戴上援助面孔的大軍壓境。我們都了解，要讓不發達地區得到真正改善，不只給他們魚，若行市場經濟，還要讓他們學會釣魚更能把魚賣出去，以換取更大的經濟效益。只是照目前的國際經濟的政治玩法，恐怕弱勢者會被迫持續貧弱，才能滿足援助產業的利益。  
+下面是全文轉錄紐約時報的報導，為了讀這本文章，我才知道要在紐約時報現上閱讀全文，還得付費。
+
+  
+
+
+CARE Turns Down Federal Funds for Food Aid  
+[New York Times](http://www.nytimes.com/2007/08/16/world/africa/16food.html?pagewanted=print)  
+August 16, 2007 CELIA W. DUGGER
+
+  
+
+
+MALELA, Kenya - CARE, one of the world's biggest charities, is walking away from some $45 million a year in federal financing, saying American food aid is not only plagued with inefficiencies, but also may hurt some of the very poor people it aims to help.
+
+  
+
+
+CARE's decision is focused on the practice of selling tons of often heavily subsidized American farm products in African countries that in some cases, it says, compete with the crops of struggling local farmers.
+
+  
+
+
+The charity says it will phase out its use of the practice by 2009. But it has already deeply divided the world of food aid and has spurred growing criticism of the practice as Congress considers a new farm bill.
+
+  
+
+
+"If someone wants to help you, they shouldn't do it by destroying the very thing that they're trying to promote," said George Odo, a CARE official who grew disillusioned with the practice while supervising the sale of American wheat and vegetable oil in Nairobi, Kenya's capital.
+
+  
+
+
+Under the system, the United States government buys the goods from American agribusinesses, ships them overseas, mostly on American-flagged carriers, and then donates them to the aid groups as an indirect form of financing. The groups sell the products on the market in poor countries and use the money to finance their antipoverty programs. It amounts to about $180 million a year.
+
+  
+
+
+Neither the Bush administration nor members of Congress are looking to undo the practice, which has gone on for more than a decade. In fact, some of the nonprofit groups say it has worked well and are pressing for sharp increases in the amount of American food shipped for sale and distribution to support development programs.
+
+  
+
+
+The Christian charity World Vision and 14 other groups, which call themselves the Alliance for Food Aid, say that CARE is mistaken; they say the system works because it keeps hard currency in poor countries, can help prevent food price spikes in those countries and does not hurt their farmers. Not least, they argue, it also pays for their antipoverty programs.
+
+  
+
+
+But some people active in trying to help Africa's farmers are critical of the practice. Former President Jimmy Carter, whose Atlanta-based Carter Center uses private money to help African farmers be more productive, said in an interview that it was a flawed system that had survived partly because the charities that received money from it defended it.
+
+  
+
+
+Agribusiness and shipping interest groups have tremendous political influence, but charitable groups are influential, too, Mr. Carter said, because "they speak from the standpoint of angels."
+
+  
+
+
+Some charities that champion the system bristle at such suggestions. Their allies in Congress say that maritime and agribusiness interests are essential allies for programs to aid the hungry.
+
+  
+
+
+"Sure it's self-interest if staying in business to help the hungry is self-interested," said Avram E. Guroff, a senior official at ACDI/VOCA, which ranked sixth in such sales last year. "We're not lining our pockets."
+
+  
+
+
+But Peter J. Matlon, a Nairobi-based agricultural economist and a managing director of the Rockefeller Foundation, said in an interview that converting American commodities into cash for development was a case of "the tail wagging the dog," with domestic farm policies in the United States shaping hunger-fighting methods abroad.
+
+  
+
+
+The nongovernmental organizations "have been ignoring this evidence for years that there's a negative impact on the prices farmers receive," Mr. Matlon said.. He is involved in an effort by the Rockefeller Foundation and the Bill and Melinda Gates Foundation, financed with an initial $150 million, to increase the productivity of Africa's farmers.
+
+  
+
+
+The Government Accountability Office, the nonpartisan, investigative arm of Congress, also concluded this year that the system was "inherently inefficient." CARE and Catholic Relief Services - who rank first and second in money raised through the current system - say they recover only 70 to 80 percent of what the United States paid for the commodities and shipping.
+
+  
+
+
+But while Catholic Relief Services and Save the Children, which ranked fifth last year in such sales, agree with CARE that the system is inefficient, they also say they will not stop converting American food into money unless Congress replaces the lost revenues with cash. They help poor people with the money, they say.
+
+  
+
+
+The experiences of Walter Otieno, a grizzled Kenyan farmer in mud-stained pants, illustrate the paradoxes of paying for rural development through sales of American farm goods.
+
+  
+
+
+Over the years, he had watched 4 of his 12 children die of measles, which is more often fatal for the malnourished. He has had difficulty growing enough to feed his family. "My children were skinny, and their skin was dull," he said. Then last year he began growing a small patch of sunflowers on a hill sloping down to Lake Victoria in the village of Malela, with help from a program that CARE finances through the sale of American farm goods here. A CARE extension worker, Rosemary Ogala, taught him and dozens of farmers in his group where to buy sunflower seed, when to plant it, how to space the rows and when to harvest.
+
+  
+
+
+CARE has also connected them to a ready market: the Kenyan company Bidco Oil Refineries, whose managers say they could more than quintuple the amount of sunflower seed they buy from Kenyan farmers to process into vegetable oil. The profit Mr. Otieno earned from the crop rescued his family from dire poverty. Now, with his new earnings, he is able to play with his sons and daughters, who are plump on eggs and milk, at the family's general store, a tiny shack stocked with goods financed by the sunflower sales.
+
+  
+
+
+The question is whether small-scale sunflower farmers like Mr. Otieno would have done better if nonprofit groups had not sold tons of American crude soybean oil, a competing product, to the same Kenyan company that purchased Mr. Otieno's meager crop. CARE and some other experts say the answer is a clear yes.
+
+  
+
+
+In 2003, Bidco bought almost 9,000 metric tons of crude soybean oil sold to the United States by Bunge, the agribusiness giant. Altogether that year, Bunge sold the United States 15,180 metric tons of oil for resale by the nonprofits in Kenya. A metric ton equals 1,000 kilograms, or 2,204.62 pounds.
+
+  
+
+
+American law requires aid groups to establish that such sales will not discourage production by local farmers, but some critics say it is a conflict of interest to ask the nonprofits to select experts to make this determination.
+
+  
+
+
+In this case, the nonprofits hired a consultant who advised them in 2003 that they could safely sell up to 38,000 metric tons of vegetable oil in Kenya, which mostly depends on imports. That amount, about 10 percent of the country's consumption, was "negligible," he said.
+
+  
+
+
+But Mr. Odo of CARE disagreed, saying in a memo that the importation from the United States "reduces the growth in the local market."
+
+  
+
+
+Ultimately, CARE's decision to phase out such sales evolved from a senior manager's change of heart. Daniel G. Maxwell, a professor of nutrition at Tufts University, was a food security adviser for CARE in Nairobi who saw sales of American food as an imperfect, but useful way to raise money. He knew firsthand, however, how risky it was to manage projects financed in fluctuating commodities markets. When prices sank, CARE had too little money and was sometimes forced to lay off workers. Mr. Maxwell said he also strongly suspected that buyers had offered too little for the farm goods, knowing they were dealing with aid workers who were novices in commodities trading.
+
+  
+
+
+As he and Christopher B. Barrett, an agricultural economist at Cornell University, researched a book, "Food Aid After Fifty Years," his doubts deepened. "Not only was it a pain the neck," he said, but there were possible serious effects "that would be damaging to farmers and trade."
+
+  
+
+
+In 2004, Mr. Maxwell and Mr. Barrett made the case against the practice at CARE headquarters in Atlanta. They recalled that the senior vice president, Patrick Carey, who has since died, cautioned them that leaving the system would be like "an act of partial suicide" for the nonprofits. Nonetheless, CARE committed to the shift the following year.
+
+  
+
+
+CARE says it will try to raise money to replace the lost revenues from philanthropies and other donors, and by making its own aid programs profitable.
+
+  
+
+
+One of those programs could be seen in action one recent afternoon in the Kenyan village of Poche. CARE has helped local women bypass local middlemen to sell pineapples at better prices in Nairobi's big supermarkets, 10 hours away by road. One woman, Doreen Amimo, a 52-year-old grandmother, has seen her weekly earnings rise to $18 from $11. She can now afford to feed and clothe an orphaned niece and nephew.
+
+  
+
+
+"And I never lack sugar in the house," she said, "and we can have tea and milk every morning!"
+
+  
+
+
+These farmers are selling their fruit to a small company, Vegcare, that CARE and a Kenyan company started with an investment of $170,000 in 2005. Vegcare advises farmers on how to grow pineapples that meet supermarket standards, buys them and trucks them to a wholesaler in Nairobi that supplies Nakumatt, a Kenyan supermarket chain.
+
+  
+
+
+CARE's idea is that a profitable business is more likely than a charitable venture to survive when foreign aid runs out.
+
+  
+
+
+"What's happened to humanitarian organizations over the years is that a lot of us have become contractors on behalf of the government," said Mr. Odo of CARE. "That's sad but true. It compromised our ability to speak up when things went wrong."
+
+  
+
+
+[Blogrunner](http://www.blogrunner.com/snapshot/D/4/1/46C3C4BA0693241F/) 整理了各大新聞通訊社的報導與部落客反應。[Trailrank](http://tailrank.com/2430402/CARE-Turns-Down-Federal-Funds-for-Food-Aid)(類似黑米，好像是一個收集美國部落格圈熱門討論話題的網站)也有這條消息的討論。
+
+  
+
+
+  
+   
+ Technorati : [aid](http://technorati.com/tag/aid)   
+

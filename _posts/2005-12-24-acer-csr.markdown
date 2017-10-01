@@ -1,0 +1,22 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-12-24 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/12/24/acer-csr/
+slug: acer-csr
+title: Acer CSR
+wordpress_id: 711
+categories:
+- development
+- human rights
+- NGO
+---
+
+從台權會的網站上看到了他們上週公布的2005年[「十大」人權新聞](http://www.tahr.org.tw/index.php/article/2005/12/22/432/)(事實上是11則)。今天從本週的Development Gate 每週通訊中，讀到一則有關[ Acer的研究報告](http://topics.developmentgateway.org/fdi/rc/ItemDetail.do~1053930?intcmp=700)。對Acer 進行研究報告的，是一個荷蘭的非營利研究單位[SOMO](http://www.somo.nl/)，他們成立三十餘年來都投入在有關跨國公司政策、企業社會責任研究的智庫角色。  
+  
+我只是草草地讀過這篇有關台灣「現代企業驕傲」的宏碁企業報告，文章中直指出了這家來自台灣的電腦科技硬體生產團體，在中國和菲律賓的轉包生產線伙伴廠商，其提供給勞工的工作環境條件非常不良，母公司本身對於在海外工廠中勞動條件既沒有明確的行為準則示範（code of conduct ），在實際工廠管理上也不允勞工僱員行使工會結社的基本人權。   
+  
+這些讀起來倒沒有什麼意外之處，唯一複雜的心情大概這個用了主流語言寫成的報告，它的流傳性勢必要比台灣少數博碩士論文更為人所得知。我也不曉得在華文的研究圈內，是否有對於台灣企業在海外的社會責任，進行比較系統的調查。  
+  
+嗯，其實我想說的是，台灣的「經濟人權」概念，不管是在島內對於勞工（外籍身份尤烈？），或是在海外的投資關係企業生產線上的勞工對待，都需要超脫企業主只眼於利潤極大化的視線。而期待Coperate Socail Responsibiliy 的實現，對於非企業中人的我，也不知道可以做點什麼。

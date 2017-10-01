@@ -1,0 +1,21 @@
+---
+author: jx tsai
+comments: true
+date: 2015-05-06 09:00:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/05/06/taiga-%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e4%b8%ad%e8%ad%af/
+slug: taiga-%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86%e8%bb%9f%e9%ab%94%e4%b8%ad%e8%ad%af
+title: Taiga 專案管理軟體中譯
+wordpress_id: 148
+categories:
+- localization
+- opensources
+- PM
+---
+
+今年二月份曾簡單提及一個在開源電子報上看到的最受矚開源專案－[專案管理Taiga](http://self.jxtsai.info/2015/05/taiga.html)。前一陣子弄完了英國Ｍy Society「Fix My Street」專案的中文化初稿翻譯，看到Taiga作者也把其前後台的語言待譯工作放上了[Transifax平台](https://www.transifex.com/organization/taiga-agile-llc)，故要求開發者讓我加入繁體中文的翻譯工作，大約在四月份期間，我協助完成了前安裝後台與前台使用介面的字串中文化翻譯，但似乎還有一些附加外掛功能作者還沒放到Transifex上〈原作者打算今年八月前推出正式版本，語言介面釋出也正一邊進行中。〉其實軟體的中文化工作要處理多半是簡單的字串，只有少數使用說明才會用上一個完整句子，英文本身並不算困難，但要使其符合使用者情境與文化習慣則需要多一點使用類似軟體與平台服務的經驗，才能翻得精準到位。  
+  
+[![](https://blog.taiga.io/images/2015-04-09_agile_non_it/image00.png)](https://blog.taiga.io/agile_as_management_tool_for_non_IT.html)  
+以Taiga這個號稱敏捷的專案管理軟體為例，其實它所謂的專案管理應該是給資訊產品開發過程的任務分工進度管控程式(參見上圖的專案屬性比例分布)，如果是一些社會經濟公衛等面向的「計畫」，就有大不同程序的設計呈現（或者根本不必要用「專案管理」方式來看待？）。自己雖早在前文中承認我對於「專案管理」這個字眼的某種痴迷，但其實正是因為過往一直沒機會用比較效率理性面的管理態度在看待自己的工作啊Orz  
+  
+正因為自己不是IT業界，也沒什麼專案管理經驗，所以這一份中文初稿翻譯的用辭文句會有不少錯誤，還望有合適的校對者可以協助勘正啊。

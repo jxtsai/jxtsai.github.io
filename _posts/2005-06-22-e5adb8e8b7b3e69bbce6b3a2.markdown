@@ -1,0 +1,21 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-06-22 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/06/22/%e5%ad%b8%e8%b7%b3%e6%9b%bc%e6%b3%a2/
+slug: '%e5%ad%b8%e8%b7%b3%e6%9b%bc%e6%b3%a2'
+title: 學跳曼波
+wordpress_id: 840
+categories:
+- dotlife
+- software
+---
+
+透過[yi-ting](http://ummchen.blogspot.com/) 的介紹，新架的[ASAP網站](http://asap.tima.org.tw/)採用了 [Mambo](http://www.taiwanmambo.com/) 這個開放碼網架管理軟體。(相信他自己也沒用過 :p)  
+  
+Mambo 和 XOOPs 之間有什麼[差異](http://www.taiwanmambo.com/content/view/122/1/)呢？ 在摸索 Mambo 的過程中，常搞不清的是它的元件(component) 和模組(module)之間有什麼差異。內容管理上，也有點不知它顥示的次序和架構為何。另一個小bug （還是Firefox Java Script 不太一樣的原故？），就是「經常會」無法依按鍵執行命令。但若換到IE 下操作，又不知為何會常被莫明奇妙地「踢」出後台管理，要求要再重新登入.......  
+  
+若問Mambo有什麼優點，我想應是版面美編佳，還有所謂的「所視即所得（WYSIWYG）」，啊逗....，那是什麼意思啊。  
+  
+總之希望能快上手Mambo，相信會在其中越來越了解它的優點。

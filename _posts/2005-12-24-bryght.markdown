@@ -1,0 +1,24 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-12-24 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/12/24/bryght/
+slug: bryght
+title: Bryght
+wordpress_id: 713
+categories:
+- blogging
+- dotlife
+---
+
+雖然Drupal 一直沒有成功地安裝起來，不過也正因為這樣的難度挑戰，更加深了Drupal 的傳奇性。  
+  
+如果可能，我還是會努力地試著去把drupal安裝起來，這部份可能得多請教一下yi-ting 。對於drupal仍未死心的執念，來自於[Schee](http://blog.schee.info/archives/2005/10/02/2109/)利用drupal 結合Flick、google map ，做出了很棒的地理資訊圖片整合介面。  
+  
+在查找drupal架站的過程中，意外發現一處提供末端使用者嚐鮮試用drupal的網站--http://bryght.com/ ，只要在此完成註冊手續，系統就會給你一個以drupal 建立起來的網站，完全體會一下drupal 管理後台的書寫與模組架構。（若想要有一個獨立的網域名稱，則得立刻交一年15美元的網域名稱費，不花一毛錢者，也可以享有自己帳號的副網域名稱。）  
+  
+我先註冊了一個[帳號](http://a5288.bryght.net/)，據說目前仍在開放試用階段，所以伸請者有一個月的時間，得以免費享受這些服務，至於未來會如何，只期待能早日克服drupal 架設的難度，建立專屬的drupal 平台。  
+  
+![](https://2.bp.blogspot.com/-h_RiT1u5vW4/V4IZjnuvWpI/AAAAAAAAKcI/JH5CTH-_8oc5-T3QVqq9cOKcSdvm-NU6QCLcB/s1600/76500690_2e1f7b5334-300x217.jpg) (這是它的後台介面)  
+

@@ -1,0 +1,42 @@
+---
+author: jx tsai
+comments: true
+date: 2007-01-30 04:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/01/30/%e9%a0%86%e5%88%a9%e6%98%87%e7%b4%9awp2-1/
+slug: '%e9%a0%86%e5%88%a9%e6%98%87%e7%b4%9awp2-1'
+title: 順利昇級WP2.1
+wordpress_id: 425
+categories:
+- blogging
+- dotlife
+- software
+---
+
+umm 年前介紹了把[WP從2.0升級到2.1版](http://umm.formosa319.org/archives/112)，因為這次改版聽說更動蠻大的，本來沒打算輕易嘗試。但昨天和[卡爾](http://www.formosa319.org/karlmarx/)聊他使用WP新站的問題，我給他安裝的版本正是2.1，因為版本差異，解說上有點小問題，所以索性昇級部落格。  
+  
+按著官方網站的說明，一步一步地指示進行  
+在此稍作一下中文化的解說  
+  
+1.先到自己的phpAdmin底下，備分資料庫，把它匯出成zip 或是SQL檔，升級過程中若發生不幸，至少還可以從資料庫來還原。  
+  
+2. 用FTP備份整個WP資料夾，把它整個地搬入自家電腦硬碟，這也是為了防止悲劇發生。我在昇級時，就是這個步做的不確實，差點發生問題。總之還是小心遵照為妙。  
+  
+3. 在WP管理後台，先暫時取消一切外掛程式功能。  
+  
+4. 用FTP把遠端主機上的WP目錄夾下檔案刪除。  
+   但要注意有幾個檔案可不能刪掉  
+   * wp-config.php file;  
+   * wp-content folder; （但底下的 wp-content/cache 要刪除）  
+   * wp-images folder;  
+   * wp-includes/languages/   
+   * .htaccess file  
+   * robots.txt file    
+  
+5. 下載最新版的WP 2.1 壓縮檔，解壓後FTP上傳到你放置部落格資料的目錄夾  
+  
+6. FTP傳輸完畢後，進入WP管理後台，它會出現叫你升級資料庫的畫面，按其指示，按一下步，它就會自動完成升級了！  
+  
+7. 登入後台，再恢復相關外掛程式的功能使用。  
+  
+老天保佑，昨天停站了10小時，現在順利地完成升級。

@@ -1,0 +1,44 @@
+---
+author: jx tsai
+comments: true
+date: 2015-02-13 10:09:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/02/13/%e4%bd%bf%e7%94%a8tor/
+slug: '%e4%bd%bf%e7%94%a8tor'
+title: 使用TOR
+wordpress_id: 187
+categories:
+- android
+- encrypt
+- human rights
+- software
+- ubuntu
+---
+
+之前有機會在幾次場合中聽聞科技技客或是從事「敏感」議題者推薦「TOR 洋䓤瀏覧器」（The Onion Router）。  
+  
+[![TOR hidden service](https://www.tacticaltech.org/sites/www.tacticaltech.org/files/projects/big/tor.jpg)](https://www.youtube.com/watch?v=eAxBuckgPuU)  
+  
+以我個人有限且可能不算正確的簡單地描述，它的特色就是「匿名」，透過各層代理器（proxy）構成虛擬電路的加密，讓使用者可以借用其高度加密代理器提供的管道上網，進而隱藏自己上網的IP位置。舉一個簡單的例子，一般在台灣上網的使用者，當我們打開google網頁，我是指在地址上輸入“google.com” , 它就會自動幫你轉到google.com.tw 的網址，因為它知道使用者的位置是在台灣，故自動判斷引導到在台灣的伺服器。相反地，如果使用的是TOR瀏覧器，正因為其可「隱去」使用者真正的實體IP位置，代之以TOR 代理器中提供的其它IP位置來「擾亂」連欲前住的伺服器之判斷，因此當你同樣在TOR瀏覧器地址上打入"google.com", TOR 可能把你帶到荷蘭，德國，曰本, 美國.......的google 首頁，正因為其當下，TOR使用者借用了其代理器中，某一個來自荷蘭，德國，曰本, 美國........的自動IP來對外連線，而這個自動IP位置還會不時變化，也因此讓外界無法追踪其真正的身份。  
+  
+嗯，勉強地試著寫了以上的白話文，希望能幫忙解釋一下利用某些防護工具，可促進使用者網路隱私與個人資料自主的重新掌握。  
+  
+以自己個人目前分別使用 ubuntu, windows 7, android 三種作業系統的經驗，其皆可以使用 TOR。  
+  
+1. ubuntu  
+我一開始先參考[ubuntu 中文版維基](http://wiki.ubuntu-tw.org/index.php?title=Tor)的作法，但是不知道為何在安裝好Vidalia準備運行，會一直跳出警告訊息說設定上有問題故無法連上TOR網路，自己又找不出修正的方法，只好放棄把它移除。  
+另外找到一個作法：  
+在終端機上輸入以下三行，就可以成功安裝 TOR Browser  
+$ sudo add-apt-repository ppa:webupd8team/tor-browser  
+$ sudo apt-get update  
+$ sudo apt-get install tor-browser  
+參考資料來源： [How to install TOR Browser ](http://linuxg.net/how-to-install-tor-browser-4-0-1-on-ubuntu-14-10-ubuntu-14-04-ubuntu-12-04-and-derivative-systems/)  
+  
+2. windows 7  
+我個人覺得相較放在ubuntu 上一開始遇到的挫折，在windows 7上安裝 TOR Browser 算是其中最簡單的。只要在[TOR Project 官網下載最新版軟體](https://www.torproject.org/download/download-easy.html.en#windows)，執行其安裝程式，就可以順利使用TOR Browser 上網。  
+  
+3. android   
+TOR 在安卓平台上的應用程式叫Orbot, 但手機需要取得管理者權限（即root）. 安裝好Orbot 之後，再安裝Orweb 瀏覽器搭配上網。  
+  
+後記：  
+因聯合國人權理事會任命的言論自由特別報告員 David Kaye 被要求在今年六月份的人權理事會上提交一份有關匿名與加密技術對於網路言論自由保障重要的報告，Kaye 特向全球公民社會邀請，歡迎人權組織或相關專家提供相關建議。美國民權自由聯盟（ACLU）在2月10曰期限前提交了一份[17頁的報告建議](https://www.aclu.org/sites/default/files/assets/aclu_submission_to_special_rapporteur_-_encryption_and_anonymity.pdf)（pdf檔案），如果沒時間看完ACLU的報告，可以先參考電子前鋒基金會（EFF）所提的[建議摘要](https://www.eff.org/deeplinks/2015/02/tell-un-anonymity-encryption)。

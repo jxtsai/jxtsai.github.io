@@ -1,0 +1,18 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-08-29 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/08/29/zfeeder/
+slug: zfeeder
+title: zFeeder
+wordpress_id: 784
+categories:
+- blogging
+- dotlife
+- software
+---
+
+今天把TIMAYOUTH.ORG 原本入口所用的Word Press 給殺了，想換上[zFeeder](http://www.jxtsai.info/blog/)這個可以匯集各類RSS頻道的東西，取代它成為本站索引頁，也避免Word Press 大材小用，這麼好的blog 軟件卻只能作為一個萬年不動的門面。   
+  
+不過還沒摸會zFeeder的功能，所以進入[首頁](http://www.jxtsai.info/blog/)後仍是一片空白，不過這裏倒是有點[起色](http://www.jxtsai.info/blog/)。我一直無法了解RSS、Feed 或是opml 這幾個字眼之間的關係和應用，之後再來研究這東西到底要怎麼玩吧。

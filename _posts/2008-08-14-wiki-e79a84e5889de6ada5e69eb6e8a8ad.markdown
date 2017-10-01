@@ -1,0 +1,19 @@
+---
+author: jx tsai
+comments: true
+date: 2008-08-14 15:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2008/08/14/wiki-%e7%9a%84%e5%88%9d%e6%ad%a5%e6%9e%b6%e8%a8%ad/
+slug: wiki-%e7%9a%84%e5%88%9d%e6%ad%a5%e6%9e%b6%e8%a8%ad
+title: wiki 的初步架設
+wordpress_id: 278
+categories:
+- dotlife
+- NGO
+---
+
+去年底有一段時間開始認真地投入了[ GVO 中文化小組的翻譯計畫](http://taipedia.selfip.info/mediawiki/index.php/GVO_Translation_Project/zh-hant)，其中讓我最驚嘆的，就是有一批電腦技客，利用了wiki的方便，讓原本不易協調整合的協力翻譯工作，可以在網路上打破時空限制，把集體智慧和工作效率大幅提昇。  
+  
+後來取得（模版）原作者KJ的慷慨同意，我把這套工具也複製了一套，希望以後可以作為NGO在組織協調志工的合力工作平台。  
+  
+目前[這個平台](http://tahr.site88.net/)，必備的模版外掛已經略見雛形，只剩下wiki  所寫即所視的編輯功能再強化。完成了基礎的架設工作，但最麻煩吃力的一點，就是教育推廣這個工作方式，讓使用者克服使用wiki 太困難的心理障礙。

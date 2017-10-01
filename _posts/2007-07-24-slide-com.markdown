@@ -1,0 +1,15 @@
+---
+author: jx tsai
+comments: true
+date: 2007-07-24 12:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/07/24/slide-com/
+slug: slide-com
+title: slide.com
+wordpress_id: 352
+categories:
+- dotlife
+- multimedia
+---
+
+看到有人用slide.com做了不錯的秀圖檔案，所以也去申請了一個帳號來玩玩。

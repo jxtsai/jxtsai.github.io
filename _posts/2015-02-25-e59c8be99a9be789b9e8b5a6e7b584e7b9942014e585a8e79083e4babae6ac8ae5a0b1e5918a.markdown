@@ -1,0 +1,21 @@
+---
+author: jx tsai
+comments: true
+date: 2015-02-25 12:12:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/02/25/%e5%9c%8b%e9%9a%9b%e7%89%b9%e8%b5%a6%e7%b5%84%e7%b9%942014%e5%85%a8%e7%90%83%e4%ba%ba%e6%ac%8a%e5%a0%b1%e5%91%8a/
+slug: '%e5%9c%8b%e9%9a%9b%e7%89%b9%e8%b5%a6%e7%b5%84%e7%b9%942014%e5%85%a8%e7%90%83%e4%ba%ba%e6%ac%8a%e5%a0%b1%e5%91%8a'
+title: 國際特赦組織2014全球人權報告
+wordpress_id: 181
+categories:
+- human rights
+---
+
+今天上午，地球上最知名也最龐大的人權團體－國際特赦組織（Amnesty International, 以下簡稱AI）在全世界同步以[十六種語言發表了他們一年一度的全球人權狀況報告](https://www.amnesty.org/en/search/?q=&documentType=Annual+Report&p=1)（嗯，要作到不同語言的譯本這點，至少也要有豐盛資源）。AI出版人權報告由來已久，也因為其組織結構和工作方式，其人權報告向來以各國國別為基礎分類，再進一步介紹說明該國國內「相對」嚴重的人權議題和事件。  
+例如在[台灣的部份](https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/report-taiwan/)，今年提及了集遊權，死刑，酷刑刑求和監獄狀況.......，這幾年就我看過的台灣人權狀況報告不管是議題還是內容進展似乎也都大同小異。(而今年的AI報告，在中國部份，則加了不少香港篇幅在集遊權狀況的更新)。  
+  
+因為AI是"非政府組織"NGO，因此比起美國國務院政治外交考量的官方各國人權報告，AI的人權報告還是算相對有其「客觀」之參考比較價值，例如在[美國的人權狀況](https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/)上，AI也是會不留情面地記上美國政府不光彩的人權侵害行為，例如Guantánamo不當關押，警察濫權，死刑等問題。  
+  
+嗯，其實因為自己這兩天在學一些基本的JavaScript Libries , modules....，我比較有興趣看這些人權報告的原始碼內容XDDD  
+  
+

@@ -1,0 +1,17 @@
+---
+author: jx tsai
+comments: true
+date: 2004-07-21 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/07/21/wiki-%e6%9b%b8%e7%9b%ae-2/
+slug: wiki-%e6%9b%b8%e7%9b%ae-2
+title: wiki 書目
+wordpress_id: 976
+categories:
+- dotlife
+- reading /watching/ listening
+---
+
+試過好幾種方式，但最後仍是失去耐性來電子化登錄購入的書本。看到[](http://a5288.blogspot.com/)tm用了pmwiki 做了一點個人記錄的示範。  
+  
+遏止自己不買書的簡單作法就是，不要走進書店......

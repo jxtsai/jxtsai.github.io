@@ -1,0 +1,17 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2006-01-14 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/01/14/%e6%9c%ac%e7%ab%99%e5%b7%b2%e8%bd%89%e7%a7%bb%e5%88%b0%e6%96%b0%e7%b6%b2%e5%9d%80/
+slug: '%e6%9c%ac%e7%ab%99%e5%b7%b2%e8%bd%89%e7%a7%bb%e5%88%b0%e6%96%b0%e7%b6%b2%e5%9d%80'
+title: 本站已轉移到新網址
+wordpress_id: 702
+categories:
+- blogging
+- dotlife
+---
+
+本站資料已全面轉至[新站](http://a5288.formosa319.org/)，本處將不再更新，且該網址即將取消。  
+  
+若有需要者，請重更新其訂閱網址，謝謝指教。

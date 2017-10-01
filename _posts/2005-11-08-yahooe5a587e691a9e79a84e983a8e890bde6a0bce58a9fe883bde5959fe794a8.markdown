@@ -1,0 +1,22 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-11-08 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/11/08/yahoo%e5%a5%87%e6%91%a9%e7%9a%84%e9%83%a8%e8%90%bd%e6%a0%bc%e5%8a%9f%e8%83%bd%e5%95%9f%e7%94%a8/
+slug: yahoo%e5%a5%87%e6%91%a9%e7%9a%84%e9%83%a8%e8%90%bd%e6%a0%bc%e5%8a%9f%e8%83%bd%e5%95%9f%e7%94%a8
+title: Yahoo奇摩的部落格功能啟用
+wordpress_id: 728
+categories:
+- blogging
+- dotlife
+---
+
+繼美國Yahoo 360" 之後，台灣的 yahoo奇摩也開始了入口網站提供部落格的服務。  
+  
+初初看上去，功能還算齊全，引用和回應之類的東西。不過在欄位的應用上，沒有養樂多那麼自由。版面設計上，除了提供了制式套版外，留有一點讓格主自由作出個人特色的修改設計空間。部落格聯播功能是不錯的想法，減少了自己去摸索NewsGator 之類的麻煩。不過目前只提供Yahoo奇摩的部落格，這樣它的意義，大概就只有類似無名小站中，會員可以設定站內好友的作用。  
+  
+我個人覺得，最奇怪的一點，就是它的網址很不好記。像我的奇摩 blog網址是： http://tw.myblog.yahoo.com/jw!NTl7xLKTRUU.pXc9LA--  
+然後說什麼如果要設定簡潔網址（http://tw.myblog.yahoo.com/a5288/ ），就會公開自己的Yahoo!奇摩帳號 ？啊不然用你的部落格服務要幹嘛咧....  
+  
+[BHS](http://www.jxtsai.info/blog/), [YahooBlog](http://www.jxtsai.info/blog/)

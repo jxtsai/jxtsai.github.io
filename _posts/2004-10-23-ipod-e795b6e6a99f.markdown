@@ -1,0 +1,20 @@
+---
+author: jx tsai
+comments: true
+date: 2004-10-23 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/10/23/ipod-%e7%95%b6%e6%a9%9f/
+slug: ipod-%e7%95%b6%e6%a9%9f
+title: ipod 當機
+wordpress_id: 934
+categories:
+- multimedia
+---
+
+今天試著第一次使用italk 來進行我的podcast錄音。但是不知是否因為稍早的匆忙中，ipod 不小心受到碰撞，所以在插入italk後，小帕居然無法正常運作，連硬碟內的歌曲也無法播放。找了[Oikos](http://www.jxtsai.info/blog/)生活網上如何處理類似的當機狀況，聽說要按住Menu 和圓盤中間的小圓鈕，就會自動reset。  
+  
+但悲慘的是，這樣的方法居然沒有奏效，於是我只有把ipod 插上firewire 上後出現終於蘋果logo，然後出現了類似硬碟重新式化的圖案，待整個格式化過程後，再重新連結firewire後，我的小帕就恢復正常，也幸好裏面的資料都沒有遺失。  
+  
+現在正試著italk 來錄音，一切應該正常了。接下來要試著學會用[audacity](http://www.audacityteam.org/)和 Adobe Audition這些軟體來做後製的音效修補。   
+  
+

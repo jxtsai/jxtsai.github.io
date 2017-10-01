@@ -1,0 +1,31 @@
+---
+author: jx tsai
+comments: true
+date: 2007-04-01 04:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/04/01/sketchup/
+slug: sketchup
+title: sketchup
+wordpress_id: 401
+categories:
+- multimedia
+- software
+---
+
+![]()
+
+  
+
+
+第一張利用[Sketchup](http://sketchup.google.com/) 做出來的三維空間圖。
+
+  
+
+
+  
+主題是，五月份展會的鋪位空間示意，6＊6平方米的空間裏，如何地擺放展櫃和組合架。
+
+  
+
+
+呃，即使只是畫立立方方的簡單圖面，還是費了我一個晚上近二小時間，才稍微弄懂這套軟體的基本操作。

@@ -1,0 +1,16 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-04-24 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/04/24/freemind-%e5%bf%83%e6%99%ba%e5%9c%96%e8%bb%9f%e9%ab%94/
+slug: freemind-%e5%bf%83%e6%99%ba%e5%9c%96%e8%bb%9f%e9%ab%94
+title: freemind 心智圖軟體
+wordpress_id: 876
+categories:
+- software
+---
+
+yi-ting 傳來了一個有關moodle相關站台的資料給我，上去了解一下如何使用moodle進行線上教學的模樣，看到一位歐展嘉老師所做的[自由軟體教學網](http://163.20.160.21/modules/news/)有許多軟體使用的flash教學檔，真是所見如所學，非常容易入手。  
+  
+這個教學網中提到一個 freemind 心智圖繪製軟體，之前有簡略地讀過一本[「心智圖學習速成」](http://www.flickr.com/photos/nairobi/2212551/)之類的東西，因為想用圖表的方式來整理一些想法或是工作上的計畫流程表。不過很快地那本書就被我束之高閣了。現在居然有看到這個有趣的 freemind  軟體，可以在任何作業平台上使用,如linux、OSX（可惜不包括palm  啦 >_

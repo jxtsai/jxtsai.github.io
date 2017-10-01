@@ -1,0 +1,25 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-05-28 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/05/28/smf/
+slug: smf
+title: SMF
+wordpress_id: 860
+categories:
+- dotlife
+- software
+---
+
+自Yi-ting 介紹後使用的 Mambo CMS架站軟體後，參考台灣[Mambo 開發者社群網站](http://www.taiwanmambo.com/)所推薦使用的[SMF](http://www.simplemachines.org/)論壇討論區，也把它加入成為[ASAP青少年反菸資訊網](http://asap.tima.org.tw/)的後台軟體之一。  
+  
+我之前只有使用過phpBB 這個討論區，它也是台灣許多網站最常用的論壇討論區軟體。有機會多多試試不同的架站平台，從CMS, BLOG, WIKI 到forum 討論區，都是很有趣的經驗。  
+  
+使用SMF的感想是，它的使用者後台管理，絲毫不遜於phpBB ，其如同Mambo所強調的「WYSIWYG」所視即所得編輯器，讓不黯BCCode 或 html語法的人，也可以很方便地編輯插入各種網路多媒體檔案，整體畫面風格看起來也比phpBB更為清爽。我特別喜歡的是它的統計資訊，可以秀出該論壇一些發言流量和人氣指數。  
+  
+不過目前使用上較大的麻煩是 ，我希望可以增加一些功能（如rss訂閱，便於了解有哪些新增文章或回應），但聽說因為它的授權方式是：是自己定的版權，雖屬於完全開放元碼，也可以修改但是不能重新發布，似乎在外掛更新的功能上，仍略顥不足。  
+  
+另外對岸BBS開發的[DISCUZ](http://www.discuz.net/)使用者端介面看來也蠻舒服的，不過它好像是須付費的軟體。  
+  
+除了CMS  或是討論區論壇功能，我想，ASAP網站應該還可以成為一個工作平台，讓每一組使用它來記錄自己的工作進度，也可以了解它組討論的狀況。第一個想到的Mark之前曾介紹的[dotproject](http://www.dotproject.net/) 軟體，而自由軟體鑄場的專案管理看來也頗酷，另外不知道有哪些可以便於上手的軟體包可使用，有空再請教Yiting好了。

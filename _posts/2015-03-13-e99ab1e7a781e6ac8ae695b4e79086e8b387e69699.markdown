@@ -1,0 +1,24 @@
+---
+author: jx tsai
+comments: true
+date: 2015-03-13 06:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/03/13/%e9%9a%b1%e7%a7%81%e6%ac%8a%e6%95%b4%e7%90%86%e8%b3%87%e6%96%99/
+slug: '%e9%9a%b1%e7%a7%81%e6%ac%8a%e6%95%b4%e7%90%86%e8%b3%87%e6%96%99'
+title: 隱私權整理資料
+wordpress_id: 171
+categories:
+- e-learning
+- human rights
+- privacy
+---
+
+３月13日到屏東與教育部南區中小學人權教育議題輔導群委員交流所做的「隱私權」報告資料  
+  
+利用 inkscape 加上 sozi外卦作成的[svg格式簡報檔](http://blog.jxtsai.info/files/privacy.svg) (支援fireFox, Chrome線上觀看，可利用“pagedown”,“pageup”進行前後頁操作，似乎IE流覽器尚不支援)  
+  
+dipity製作之[隱私權大事記](http://www.dipity.com/a5288/personal/)   
+  
+案例討論用之[參考資料](http://edu.law.moe.gov.tw/LawContent.aspx?id=FL050895)   
+  
+隱私權相關[教材資料整理 ](https://hackpad.com/l3TCCWsPxnD)

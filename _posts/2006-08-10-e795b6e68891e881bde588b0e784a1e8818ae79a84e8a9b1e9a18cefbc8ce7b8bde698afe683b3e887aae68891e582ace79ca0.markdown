@@ -1,0 +1,22 @@
+---
+author: jx tsai
+comments: true
+date: 2006-08-10 22:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/08/10/%e7%95%b6%e6%88%91%e8%81%bd%e5%88%b0%e7%84%a1%e8%81%8a%e7%9a%84%e8%a9%b1%e9%a1%8c%ef%bc%8c%e7%b8%bd%e6%98%af%e6%83%b3%e8%87%aa%e6%88%91%e5%82%ac%e7%9c%a0/
+slug: '%e7%95%b6%e6%88%91%e8%81%bd%e5%88%b0%e7%84%a1%e8%81%8a%e7%9a%84%e8%a9%b1%e9%a1%8c%ef%bc%8c%e7%b8%bd%e6%98%af%e6%83%b3%e8%87%aa%e6%88%91%e5%82%ac%e7%9c%a0'
+title: 當我聽到無聊的話題，總是想自我催眠
+wordpress_id: 586
+categories:
+- ordinary or complaints
+---
+
+重新地整理了一下網誌上的文章分類。把一些莫名其妙，連自己也不思其解的分類名稱拿掉，且硬是要把中文湊成五字訣:p。晚點再來弄sidebar欄的內容更新。  
+  
+試著把新開發的外掛加入CMS網站，也重溫一下Mambo後台管理。因為Mambo, Joomla的分家，好像大部份原關注這個CMS軟體發展的工程師，轉?跟著Joomla起爐灶走，所以Mambo的相關專案開發，也緩慢下來，幾乎沒有什麼更新。其實也很想轉換到Joomla系統，但我始終實是無法看懂，如何從Mambo跳槽到Joomla的工作文件。所以只好裝忙地先整理一下Mambo站的內容分類，讓網站地圖和結構比較有層次感地顯示出來。不然再下去死守著這個沒有進步的CMS，這裏的資料也將變成糊了一堆混帳。  
+  
+把玩了一下Google Analytisc，它所提供的資料還蠻有趣，但沒有時間細看，大概是我很懶的去想這個個人網誌和行銷商業策略有什麼關係吧。只要Google Adsense可以補助我付Hosting 費用就好了XD  
+  
+昨天因為近傍晚的一場雨，錯了[這場介紹](http://www.xiachao.org.tw/?act=page&repno=802)西班牙內戰時期的紀實攝影家Robert Capa的演講。 而今天打算要去NGO會館聽[「國家暴力與政治暗殺」](http://61.222.52.195/news/database/Interface/DetailACT-print.asp?ID=117565)的座談會。另外，還欠自己的良心（雖然它一點都不值）和所花時間參加一篇有關8月3日的獨立音樂與音樂祭的記錄。  
+  
+對了，沒錯，這篇文章就是我半夜睡不著記流水帳的報告。

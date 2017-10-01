@@ -1,0 +1,56 @@
+---
+author: jx tsai
+comments: true
+date: 2012-10-22 22:34:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2012/10/22/20121022-%e6%94%b6%e8%97%8f%e7%9a%84%e6%8e%a8%e7%89%b9%e7%ad%86%e8%a8%98/
+slug: 20121022-%e6%94%b6%e8%97%8f%e7%9a%84%e6%8e%a8%e7%89%b9%e7%ad%86%e8%a8%98
+title: 2012/10/22 收藏的推特筆記
+wordpress_id: 242
+categories:
+- blogging
+- development
+- human rights
+- NGO
+---
+
+自從前三天開始重新認真每天早起寫部落格文章後，常常會自問到：那明天要記錄什麼樣的內容，才算交差了事？（似乎在進行某種夏日挑戰XD）。當然如果生活中發生了什麼「異常」趣事，自然有了書寫的材料，但如果生活平淡、忙碌、無奇，那該怎麼辦？我自己之所以想開始重新寫部落格的想法，覺得至少有一件日常的事應該把它記錄、整理、分享出來的，應該是我平日快速瀏灠過的tweets，如果有意思值得仔細閱讀內文的，就會先把它收藏起來。但收藏之後，即使偶而固定一段時間會去「清理」一下這些「最愛」，但總覺得自己沒再進一步作好功課。  
+  
+於是乎，在某個沒什麼值得書寫的日子裏，這種對於收藏的推特筆記一種簡單的說明，似乎就可以拿來用作墊檔的文章XD。以下是昨晚入睡前，用手機讀推時特別再留意的幾則：  
+  
+  
+
+
+<blockquote>TED Tweets ‏@TED_Tweets  
+TED: Pankaj Ghemawat: Actually, the world isn't flat - Pankaj Ghemawat (2012) http://bit.ly/X22r3H </blockquote>
+
+TED 演講短片自然不用多介紹，我想聽聽這位學者分析「未全球化」的觀點。  
+  
+
+
+<blockquote>@NonprofitOrgs ‏@nonprofitorgs  
+22 Must-Read Updates to Social Media for Social Good: A How-To Guide for Nonprofits: http://bit.ly/TCqX64 </blockquote>
+
+從去年追蹤nonprofitorgs的推文，常常看到他們在打書推銷這本＂[Social Media for Social Good: A How-To Guide for Nonprofits](http://nonprofitorgs.wordpress.com/book/)＂。收藏此推當然不是為他們作廣告，只是最近我個人在作組織工作評估時，發現自己不專業的推估台灣NGO在社群網站經營的時效計算，只是把辦公室人人每天花在臉書的時間加總:p。嗯，其實我們離入門的社群經營，還遠得很久耶。  
+  
+
+
+<blockquote>FrontlineSMS o/ ‏@FrontlineSMS  
+RT @meowtree: New post: 10 tips on using new ICTs for qualitative monitoring and evaluation. http://ht.ly/eEZs6  #ICT4D #TSNYC </blockquote>
+
+1. 我不知道有一個群眾糾力的線上字幕翻譯網站：http://dotsub.com/，是以為記。  
+2. 如果有時間快速地把這十大要點標題翻成中文，也是惠人良多吧？  
+  
+
+
+<blockquote>Rebecca MacKinnon ‏@rmack  
+RT @globalvoices: The Public Voice: Privacy Rights are a Global Challenge http://bit.ly/RV0Uei  via @Advox #netfreedom #privacy </blockquote>
+
+全球之聲子計畫：倡議之聲正在烏拉圭進行隱私權的社團討論，以作為[34屆個人資料保護與隱私監察官國際會議](http://privacyconference2012.org/english/)的前夕會議。  
+  
+
+
+<blockquote>UN Human Rights ‏@UNrightswire  
+Register for #BusinessForum for #HumanRights 4/5 Dec. Join our #Googleplus circle on business & rights: http://bit.ly/SdsF0P </blockquote>
+
+其實我只是先作個筆記，好記得隨後要上去看一下UN OHCHR google+ 對於商業與人權的討論有哪些東西。

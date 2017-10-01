@@ -1,0 +1,37 @@
+---
+author: jx tsai
+comments: true
+date: 2007-08-14 15:02:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/08/14/asap%e8%ab%96%e5%a3%87%e6%81%a2%e5%be%a9/
+slug: asap%e8%ab%96%e5%a3%87%e6%81%a2%e5%be%a9
+title: ASAP論壇恢復
+wordpress_id: 337
+categories:
+- dotlife
+---
+
+[ASAP論壇](http://asap.tima.org.tw/forum)終於恢復正常了，該感謝智邦的工程師，把SQL資料表Latin1再重新轉成UTF8，設定了MySQL資料庫的文字編碼設定，才解決了這些問題。
+
+  
+
+
+稍後弄了一下SMF的模版外觀調整，加強某一些模組功能。其實我從來不懂php 、MySQL語法或是什麼程式邏輯，這些CMS軟體的安裝，幾乎都是硬著頭皮，一步步地看著安裝說明書來摸索過程，如果碰上麻煩，就請出google 大神來開示，有時候問題雖然解決了，但未必真正知道其緣由道理。唉，這種學習方法，真不知道是心酸還是什麼。
+
+  
+
+
+發一下苦悶的心情，言歸正傳，關於[ASAP主站](http://asap.tima.org.tw/)的部份，我已經不打算再用Mambo或是Joomla 來架設，也許做html靜態網頁，整理過去幾年的成果報告、講義下載、照片秀圖，這樣就可以吧。
+
+  
+
+
+哦對了，昨天已順便把[首頁](http://www.formosa319.org/)用Drupal所架的內容和佈景稍微修改了一下，大家可以很明白地看得出來，現在是各類廣告撲天蓋地而來XD。
+
+  
+
+
+  
+   
+ Technorati : [smf MySQL](http://technorati.com/tag/smf%20MySQL)   
+

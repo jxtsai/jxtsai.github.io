@@ -1,0 +1,22 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-02-22 11:25:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/02/22/%e9%ab%98%e9%9b%84%e5%b8%82%e7%84%a1%e7%b7%9a%e9%a0%bb%e4%b8%8a%e7%b6%b2/
+slug: '%e9%ab%98%e9%9b%84%e5%b8%82%e7%84%a1%e7%b7%9a%e9%a0%bb%e4%b8%8a%e7%b6%b2'
+title: 高雄市無線頻上網
+wordpress_id: 898
+categories:
+- dotlife
+---
+
+繼上週抱著小白在台北市捷運站四週嘗試無線上網的「無聊」實驗後（對啊，沒事幹嘛一直抱著nb在冷風中打字啊）。這兩天回到高雄繼續體驗這兩大直轄市的數位競爭。高雄市在去年底宣佈了市內四個行政觀光景點，和百分之八十的學校完成無線覆蓋後，進一步提出了要在今年內完成全市無線上網的[願景](http://www.gov.tw/PUBLIC/view.php3?id=86908&sub=60&main=GOVNEWS)。  
+  
+我家剛好在試行的四個行政區中，回到高雄立刻用小白四處偵測無線訊號，在學校的四週果真有無線網域，不過都是要密碼進入。而在我家街角的便利商店前找到一組不用密碼的網路，應該是附近紅茶店發出的訊號吧 XD  
+  
+而在文化中心四週，則可以清晰地收到KH_CITY 的訊號，打開browser 會要求使用者登入id 密碼 ，我找了半天才知道原是要打入 kcg , kcg ，就可以順利地使用網路。  
+  
+我想在戶外上網唯一的缺點就是：到了晚上，蚊子特多.....  
+  
+今天白天去[屏東舊書店](http://www.ylib.com/bid/oldstore/storearea.asp?Area=5&page=5)搜了一堆二手書，晚點再來報告今天的戰果吧。

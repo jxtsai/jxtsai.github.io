@@ -1,0 +1,21 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-01-11 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/01/11/t21-%e7%b6%9c%e5%90%88%e7%99%bc%e5%b1%95%e6%a8%a1%e5%9e%8b/
+slug: t21-%e7%b6%9c%e5%90%88%e7%99%bc%e5%b1%95%e6%a8%a1%e5%9e%8b
+title: T21 綜合發展模型
+wordpress_id: 910
+categories:
+- development
+- software
+---
+
+從聯合國人口發展基金會上看到了一個名之為[Threshold 21](http://www.threshold21.com/index.html)的「整合電腦化發展模型」(Integrated Computer Development Mode) ，希望結合對於經濟、社會、環境的面向因素來考慮對於綜合發展政策的規劃制定。  
+  
+其實說起來，這套工具是由一個叫做Millennium Institute 美國電腦模型規劃公司所開發出來，也根據了不同的使用組織需求，調整了這個模型的變量和條件。不過整體來說，它的核心仍是希望以促進資訊的收集與發展策略分析，提供給規劃者對於潛在影響與達成目標的可支策略提供一些參考。   
+  
+以UNFPA所發展出來的T21 模型為例，它主要是應用在其關心的主題：人口發展、生殖健康等議，模擬是否可能藉由外部政策的界入來達成發展目標的實現。  
+  
+我自己試玩這個軟體，但還是搞不太清楚一些人口健康指標的定義和經濟學上推算的方法和意義，所以就把它貼出來，希望有識之士能指教解惑一番。

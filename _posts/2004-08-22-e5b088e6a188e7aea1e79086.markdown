@@ -1,0 +1,20 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-08-22 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/08/22/%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86/
+slug: '%e5%b0%88%e6%a1%88%e7%ae%a1%e7%90%86'
+title: 專案管理
+wordpress_id: 965
+categories:
+- dotlife
+- PM
+- software
+---
+
+感謝[Mark](http://blog.markplace.net/)所介紹的 dot project 這個開放程式碼的線上專案管理軟體。我順利地把它安裝在工作單位所使用的[虛擬主機上](http://www.tobaccocontrol.org.tw/dotproject)。  
+  
+正用這個軟體在摸索所謂「專案管理」的工作方法。不知是不是自己待過的工作性質或是潛在某種反骨的調性，自己一直很不願被拘束地去做出一板一眼的工作規劃。不過也不知是不是台灣許多的NGO、NPO組織也仍在學習這種效率提昇與理想堅持之間的平衡。  
+  
+另外一個問題，該是小型NGO、NPO工作者的「E化」接受度（或曰「數位差距？」）。我不知道，辦公室同仁對於共用這個線上專案管理的接受度如何？或者反過來看，這個專案管理介面和內容設計是否合於一個非營利組織？我想這都是一個有待使用後再來報告的故事吧。

@@ -1,0 +1,15 @@
+---
+author: jx tsai
+comments: true
+date: 2006-11-03 12:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/11/03/%e8%81%af%e6%92%ad%e7%b6%b2/
+slug: '%e8%81%af%e6%92%ad%e7%b6%b2'
+title: 聯播網
+wordpress_id: 486
+categories:
+- blogging
+- dotlife
+---
+
+訂閱的幾個網誌，特別是，有些BSP被GFW封了，只能透過RSS讀到摘要。

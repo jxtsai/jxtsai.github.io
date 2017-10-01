@@ -1,0 +1,18 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-08-02 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/08/02/%e6%98%87%e7%b4%9a%e4%ba%86tiger/
+slug: '%e6%98%87%e7%b4%9a%e4%ba%86tiger'
+title: 昇級了Tiger
+wordpress_id: 808
+categories:
+- dotlife
+---
+
+終於昇級了Tiger  
+  
+在Apple 推出OSX 10.4出近三個月之後，我終於有機會把自己的小白也從美洲豹變成了亞洲虎。Tiger 內建的瀏?器Safari 現在已能如Firefox一樣支援RSS，不過我還沒有摸會怎麼訂閱相關頻道。另一個為人稱道的Dashboard玩意（我也是因為先試玩過[Amnesty](http://www.jxtsai.info/blog/) 這個在OSX10.3 的Widget 支援器，才真正動念決心要昇級），在Tiger 底下表現更酷，不過我還不知道怎麼移除不須要的widget :p 。  
+  
+總之，要好好慢慢體驗Tiger 的威力和樂趣，等著更多的新發現與驚喜。（不像微軟視窗XP，沒事一直要你更新爛掉的安全漏洞，讓我真想砸電腦）。最後，當然要感謝奧勒崗大學的贊助和朋友的慷慨。（好啦，我還欠你一套Shostakovich 和Hannah Arendt、Theda Skocpol的中譯著作）

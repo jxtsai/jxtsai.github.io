@@ -1,0 +1,32 @@
+---
+author: jx tsai
+comments: true
+date: 2006-09-27 15:21:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/09/27/%e7%97%9b%e8%8b%a6%e7%9a%84%e9%9a%94%e9%9b%a2%e7%94%9f%e6%b4%bb/
+slug: '%e7%97%9b%e8%8b%a6%e7%9a%84%e9%9a%94%e9%9b%a2%e7%94%9f%e6%b4%bb'
+title: 痛苦的隔離生活
+wordpress_id: 548
+categories:
+- dotlife
+---
+
+昨天讀到BBC News，他們剛和Google Youtube 簽下合約，要透過Youtube 全球最大影片分享網站，放上3個BBC頻道.目的是希望籍由youtube 的人氣，再把人氣吸引回BBC網站。
+
+  
+
+
+在中國使用網路實在是一件痛苦的事，BBC新聞網根本連不上去(我是用PDA軟體Avantgo 看國外新聞)。那現在至少可以用Youtube 來看新聞了吧？對不起，宿舍提供的無線網路供應又把Youtube 給鎖了。Google 還沒開始在中國 提供Video服務。
+
+  
+
+
+據中國的網路使用調查，有1.37億網民，他們絕大多數滿足於國內ICP提供的資訊，認為已消化不了了,根本無暇再問什麼國外哪些網路被GFW封鎖。
+
+  
+
+
+這兩天，我就因為利用辦公室網路下載電影檔，立刻被防火牆給封了 :p而住的地方只提供無線訊號，而且常常連線停擺訊號不穩，用個skype 常常是「空谷足音」........
+
+  
+

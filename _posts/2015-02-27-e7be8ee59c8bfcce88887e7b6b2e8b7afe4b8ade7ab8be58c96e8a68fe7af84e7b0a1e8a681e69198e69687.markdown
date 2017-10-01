@@ -1,0 +1,30 @@
+---
+author: jx tsai
+comments: true
+date: 2015-02-27 11:34:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/02/27/%e7%be%8e%e5%9c%8bfcc%e8%88%87%e7%b6%b2%e8%b7%af%e4%b8%ad%e7%ab%8b%e5%8c%96%e8%a6%8f%e7%af%84%e7%b0%a1%e8%a6%81%e6%91%98%e6%96%87/
+slug: '%e7%be%8e%e5%9c%8bfcc%e8%88%87%e7%b6%b2%e8%b7%af%e4%b8%ad%e7%ab%8b%e5%8c%96%e8%a6%8f%e7%af%84%e7%b0%a1%e8%a6%81%e6%91%98%e6%96%87'
+title: 美國FCC與網路中立化規範簡要摘文
+wordpress_id: 180
+categories:
+- dotlife
+- human rights
+---
+
+今早一起來滑手機推特，讀到的訊息有百分之五十以上是關於昨日（美國時間2月26日週四）,聯邦政府下的FCC(Federal Communications Commission)委員以3比2通過強化FCC對網路中立化措施的規範，FCC得此授權的方式是多數委員同意依通訊法（Communications Act）之規定，把寬頻網路服務提供商ISP重新歸類為電信產業「公共承載者」（commom carriers），因此FCC有對ISP業者更嚴格的規範監督權力。（這應屬於行政機關的決定，而非一種經過國會的新立法。但如果FCC此舉是為回應美國聯邦巡迴上訴法院2010年對FCC的敗訴裁定，重新對行政規則作了更嚴諽的修正，這裏會不會有行政權力擴張的爭議？有點不太了相關的權力制衡程序要如何）  
+  
+我並不了「網路中立化」Net Neutrality的內容與爭點 , 因此順著推特閱讀了一些報導，想稍知道目前的狀況。個人覺得就有限所讀的東西，寫比較讓英文不太好如我的讀者理解較清楚的是  
+  
+1. BBC [Net neutrality rules passed by US regulator](http://www.bbc.com/news/technology-31638528)  
+2. 美國國家公共廣播 NPR　[NPR The FCC's Net Neutrality Vote: Here's What You Need To Know](http://www.npr.org/blogs/thetwo-way/2015/02/26/389089145/the-fccs-net-neutrality-vote-heres-what-you-need-to-know)2  
+3. 電子前峰基金會EFF: [Dear FCC: Thanks for Listening to Team Internet!](https://www.eff.org/deeplinks/2015/02/fcc-votes-net-neutrality-big-win)  
+4. 美國自由民權聯盟ACLU [Net Neutrality Vote a Victory for Free Speech   
+](https://www.aclu.org/free-speech/net-neutrality-vote-victory-free-speech)  
+如果還有耐心的話，可以看看衛報科技版的評論  
+5.[ Net neutrality is only the beginning of an open internet](http://www.theguardian.com/technology/2015/feb/26/net-neutrality-is-only-the-beginning-of-an-open-internet)   
+以及哥倫比亞大學法學教授Tim Wu　刊登在New Yorker 上的文章  
+6. [Why Everyone Was Wrong About Net Neutrality](http://www.newyorker.com/business/currency/why-everyone-was-wrong-about-net-neutrality)  
+  
+[![]()](http://netneutralitymap.org/)  
+(圖片來源：　[Here’s how other countries are addressing net neutrality](http://www.marketwatch.com/story/heres-how-other-countries-are-addressing-net-neutrality-2015-02-26) )

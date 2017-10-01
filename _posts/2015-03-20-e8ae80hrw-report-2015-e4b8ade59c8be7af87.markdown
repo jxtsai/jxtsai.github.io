@@ -1,0 +1,31 @@
+---
+author: jx tsai
+comments: true
+date: 2015-03-20 10:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/03/20/%e8%ae%80hrw-report-2015-%e4%b8%ad%e5%9c%8b%e7%af%87/
+slug: '%e8%ae%80hrw-report-2015-%e4%b8%ad%e5%9c%8b%e7%af%87'
+title: 讀HRW report 2015 中國篇
+wordpress_id: 167
+categories:
+- CapacityBuilding
+- development
+- human rights
+- NGO
+---
+
+今天得空隨手翻讀（其實是下載到平板的PDF檔案）Human Rights Watch去年底今年初出版的「[2015 World Human Rights Report](https://www.hrw.org/world-report/2015)」，全書約莫600多頁，我只能簡單地挑選自己比較感興趣的題目與國家狀況來閱讀。如果要粗糙比較HRW之報告與[AI全球人權報告](http://www.jxtsai.info/blog/?p=1119)的差異，我個人覺得  
+倒是可以稍看看HRW在撰寫各國人權狀況時，最後會加入一段「關鍵國際角色」（Key International Actors），例如哪些跨國政府組織（UN／EU）或「外國勢力」對其國內人權政策的態度或作為。  
+  
+不可避免地先看了「中國」這一篇。讀到下面這兩段文字特別感慨：  
+  
+
+
+<blockquote>China has 500,000 registered nongovernmental organizations (NGOs), though many are effectively government-run. An estimated 1.5 million more NGOs operate without proper registration because the criteria for doing so remain stringent despite gradual relaxation in recent years. The government remains suspicious of NGOs, and there are signs that authorities stepped up surveillance of some groups in 2014.  
+In June, a Chinese website posted an internal National Security Commission document that announced a nationwide investigation of foreign-based groups operating in China and Chinese groups that work with them. Subsequently, a number of groups reportedly were made to answer detailed questionnaires about their operations and funding, and were visited by the police. In June and July, Yirenping, an anti-discrimination organization, had its bank account frozen and its office searched by the police in connection with the activism of one of its legal representatives.</blockquote>
+
+  
+  
+感慨主要來自最近也同時線上註冊了北京大學與聯合國開發總署UNDP北京辦公室共同在coursera開設的「[民間組織能力建構入門」課程(Building Capacity of CSOs in China](https://class.coursera.org/undpcso-001/wiki/coursesyllabus))。或許不少台灣人會嘲笑，幹嘛去聽中國哪個沒民主沒人權的國家討論什麼公民組織，那請指引一下台灣是否有相應的認知與方式，來檢視一下目前公民組織的能力或困境？如果輕易落入自認為很好的滿足或是單細胞的反中情緒，都將錯失了一個反省（台灣）NGO自身位置的機會，我是這麼認為。  
+  
+當然在中國搞民間組織如果要存活，如同HRW所指出，的確還無法挑戰威權黨國要求的意識型態甚致強力指導介預，因而頂多只能扮演國家政策的民間補充角色宿命。在這種現實嚴峻環境下，中國民間組織工作者仍然熱衷地學習著「外來社群」提供如何強化自身能力建構，想像一種後進者優勢的追趕，卻又不思或無能碰觸「敏感辭」的情境。因此透過中國這樣的案例，我似乎比較能理解當國際發展主流社群舉著「民主，問責，參與，包容」大旗，這幾個聽起來這麼理所當然的正向價值字眼，為何還得窮究其內涵----我和你說的，彼此理解的異同。（[Accountability, Transparency, Participation and Inclusion: A New Development Consensus?](http://carnegieendowment.org/files/new_development_consensus.pdf)）

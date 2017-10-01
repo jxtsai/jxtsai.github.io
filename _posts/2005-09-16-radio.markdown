@@ -1,0 +1,38 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-09-16 02:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/09/16/radio/
+slug: radio
+title: Radio
+wordpress_id: 770
+categories:
+- dotlife
+- multimedia
+---
+
+目前這個網路電台，只是我打開iTunes時，順便透過Nicecast 來播放音樂。未來希望可以用它來放一些有意思的活動、演講的錄音或是自己再有時間做一點設計過的廣播節目。  
+  
+電台開放時間嘛....不定時關閉 :p  
+  
+[收聽線上 Radio指南]  
+  
+**一、. 使用瀏覽器開啟 [http://a5288.listen2myradio.com](http://www.jxtsai.info/blog/)**  
+過五秒鐘後即自動以網頁內建之音樂播放軟體，自動播出該線上電台。  
+  
+**二、. 使用瀏覽器開啟 [http://208.109.236.118:32916/](http://208.109.236.118:32916/)**  
+  
+-點選 Listen  
+-自動跳出播放軟體播放  
+-若跳出下載 listen.pls  
+-請選擇儲存  
+-儲存後，以個人慣用之音樂播放軟體，如Winamp, Foorbar, Media player, 開啟 listen.pls ，即可收聽。  
+  
+**三. 直接開啟播放軟體**  
+1. Foobar, 點選: File → ADD Location → 輸入http://208.109.236.118:32916  
+2.iTunes, 點選: 進階(A)→ 開啟串流→ 輸入 http://208.109.236.118:32916  
+3.Winamp:點選: ADD → ADD URL→ 輸入 http://208.109.236.118:32916  
+4.realplayer:點選: 檔案(F) → 開啟位置(L) → 輸入 http://208.109.236.118:32916  
+5.MediaPlayer: 點選: 檔案(F) → 開啟位置(L) → 輸入http://208.109.236.118:32916  
+6. Flash 自動播放[![]()](http://www.formosa319.org/a5288/wp-content/uploads/2007/04/radio.swf)(Flash 很耗資源，不建議使用；其實是還沒真正搞定Flash 製作)

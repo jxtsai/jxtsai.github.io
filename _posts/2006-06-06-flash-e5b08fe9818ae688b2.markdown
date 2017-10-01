@@ -1,0 +1,20 @@
+---
+author: jx tsai
+comments: true
+date: 2006-06-06 02:39:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2006/06/06/flash-%e5%b0%8f%e9%81%8a%e6%88%b2/
+slug: flash-%e5%b0%8f%e9%81%8a%e6%88%b2
+title: flash 小遊戲
+wordpress_id: 638
+categories:
+- development
+- dotlife
+- NGO
+---
+
+還沒有時間好好看看上星期所抓下來的電影[「生命國界」](http://www.imdb.com/title/tt0388505/)，從影片簡介中大約知道它是一支有關蘇丹境內猶太裔難民避險逃亡，又面臨族群鄉土認同的故事。  
+  
+研究了一下前幾天Bookmark 在delicious 上面的flash 遊戲-- [Darfur is Daying](http://www.darfurisdying.com/)。 這是MTV公司協助，為了讓世人更加了解此刻非洲蘇丹Darfur 難民營中正在發生中的種族滅絕行動。這個教育遊戲簡單地模擬了當地生活的狀況，也呼籲唯有外界世人不斷向自己的政府採取施壓行動，支持非洲聯盟界入當地維和工作，教育更多人了解當前Darfur難民營所面臨的窮窘景況......，才得以舒緩這悲慘的人間煉獄。  
+  
+這個遊戲設計並不複雜，要比諷刺[McDonald](http://www.juegosjuegos.com/flash.php?juego=1995.swf&titulo=mcdonalds)的flash 小遊戲，簡單多了。

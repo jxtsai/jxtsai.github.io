@@ -1,0 +1,17 @@
+---
+author: jx tsai
+comments: true
+date: 2010-08-25 09:10:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2010/08/25/%e8%aa%8d%e7%9c%9f%e8%a9%a6%e7%94%a8xunbutu/
+slug: '%e8%aa%8d%e7%9c%9f%e8%a9%a6%e7%94%a8xunbutu'
+title: 認真試用xunbutu
+wordpress_id: 252
+categories:
+- dotlife
+- ubuntu
+---
+
+之前曾幾次使用過linux當中介面勘稱友善華麗的ubuntu。最近則是因為工作電腦已邁入老舊之林，衝著號稱linux 較節省系統資源的印象，試著多安裝了xubuntu 作業系統。  
+  
+其實目前一切使用便利，唯一的困擾是不知如何讓xubuntu 作業系統順利連線到windows 區域網域。試過了Samba， 終端機伺服器等方式。雖然在Gigolo下已地把windows 區域網域中的共享資料匧顯示出來，但是卻無法成功地把資料匧打開。真是傷腦筋，繼續奮戰中～～

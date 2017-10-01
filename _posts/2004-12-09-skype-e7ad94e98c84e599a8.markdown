@@ -1,0 +1,16 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-12-09 23:32:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/12/09/skype-%e7%ad%94%e9%8c%84%e5%99%a8/
+slug: skype-%e7%ad%94%e9%8c%84%e5%99%a8
+title: Skype 答錄器
+wordpress_id: 920
+categories:
+- software
+---
+
+從[佛瑞德](http://blog.sina.com.tw/archive.php?blog_id=30&md=entry&id=9762)的介紹中，知道了 有支援Skype PC版的答錄器[SAM](http://www.freewebs.com/skypeansweringmachine/index.htm)，下載後安裝還蠻正常的，應該可以使用（須搭配和Skype 登入一起使用）。不過我很少開skype ，現在連MSN也很少用了。  
+  
+有時人生難免漏接點什麼吧......

@@ -1,0 +1,28 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-07-30 04:03:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/07/30/%e7%b6%b2%e8%b7%af%e9%9b%bb%e5%8f%b0%e9%87%8d%e9%96%8b/
+slug: '%e7%b6%b2%e8%b7%af%e9%9b%bb%e5%8f%b0%e9%87%8d%e9%96%8b'
+title: 網路電台重開
+wordpress_id: 814
+categories:
+- dotlife
+- multimedia
+- software
+---
+
+改用了foobar作為預設的MP3播放器後，找找是否有辦法利用其它工具組合，來建立個人網路播音電台  
+  
+幸好foobar DSP Manager 不是太困難，利用Oddcast即可，只是找設定位置，一時沒找到關鍵花了點時間。  
+  
+所謂的關鍵點，就是在成功地把oddcast 加入 foobar 底下後，開啟foorbar 即會自動跳出oddcast 的視窗，要設定它，就按其視窗下方的「Add Encorder」，用滑鼠反白其中任一列編碼，就會出現configure 的選項 ，然後在ServerIP, PORT資料欄，填入你的電台轉播位置、密碼等資訊，如果一切正常的話，按connect 就會看到Transfer Rate 的變化。  
+  
+其它的Shoutcast 設定，一如winamp ＋ Shoutcast DSP，只要更改shoutcast server 組態設定檔的 portbase 即可  
+  
+太久沒有登入Listen2myradio.com， 帳號已被作廢，只好重新申請。  
+  
+這回從[Zonble處](http://zonble.twbbs.org/archives/2006_12/905.php)學習如何利用flash 來自動打開shoutcast 文件，不過我的flash 軟體使用，完全沒有到位，連個簡單的圖片效果都做不出來，還是按照原先抄來的[使用說明](http://www.formosa319.org/a5288/?p=204)來收聽吧，  
+  
+今晚浪費時間做這件事，是標準的玩物喪志，另外還翻了十分鐘左右的「利瑪竇的記憶之宮」，舛想著史景遷到底要告訴我們什麼，不明白於是放棄，眼睛好痛。

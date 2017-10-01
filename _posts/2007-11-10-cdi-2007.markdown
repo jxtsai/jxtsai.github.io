@@ -1,0 +1,29 @@
+---
+author: jx tsai
+comments: true
+date: 2007-11-10 14:27:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2007/11/10/cdi-2007/
+slug: cdi-2007
+title: CDI 2007
+wordpress_id: 306
+categories:
+- development
+---
+
+由獨立研究機構Center for Global Development 一年一度調查的全球Commitment to Development index 結果已於日前公告，所謂的發展投入指數，不單只是看對外金援的數字大小，還放入了貿易、技術、援助、投資、移民、國家安全、環境保護等面向的總體表現，可說在完全的數字和經濟面上是比較周嚴的考慮和評量。但其缺點，也就是只用經濟指標來看待發展。
+
+  
+
+
+[![cdi2.jpg]()](http://www.cgdev.org/section/initiatives/_active/cdi/)
+
+  
+
+
+從03年調查開始，總體看來，大部份已開發國家的「發展投入」有所改善。
+
+  
+
+
+Commitment to Development Index

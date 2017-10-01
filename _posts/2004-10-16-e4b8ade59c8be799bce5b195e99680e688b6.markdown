@@ -1,0 +1,24 @@
+---
+author: jx tsai
+comments: true
+date: 2004-10-16 11:24:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/10/16/%e4%b8%ad%e5%9c%8b%e7%99%bc%e5%b1%95%e9%96%80%e6%88%b6/
+slug: '%e4%b8%ad%e5%9c%8b%e7%99%bc%e5%b1%95%e9%96%80%e6%88%b6'
+title: 中國發展門戶
+wordpress_id: 942
+categories:
+- development
+- dotlife
+---
+
+從[Development Gateway](http://www.developmentgateway.org/) 的九月份通訊上看到他們終於展開與中國發展單位團體在資訊科技與資料交換上的正式合作。我初初讀到以下的報導，心裏忍不住發毛，這可能是一個台灣人感到更為孤立也將充滿可怕潛力的華文發展資訊平台。  
+  
+連上它所指的中國合作伙伴的網址，看不出在「發展」方面的新知突顯，只是一堆未分類的雜亂情報，陌名奇妙的影視八卦。一種令人啼笑皆非的鬆了一口氣。  
+  
+China and the Development Gateway Launch Partnership -  
+On September 14, the Government of China and the Development Gateway Foundation formally launched a partnership to use information and communication technologies (ICT) to improve people's lives in China and other countries. China is a founding member of the Development Gateway and its partnership now includes the China Country Gateway, a research center in Shanghai, a training center in Gansu, and an Asian ICT conference. As a country that is evolving from a recipient of international aid to a contributor, China is eager to support peaceful development worldwide and to share its own development experience with the rest of the world, said Zou Jia Yi, Director General of China's Ministry of Finance. At the same time, for a country that is still addressing its own development challenges, "ICT is an important means to reduce poverty in China," she said. Some partnership work has already begun: The China Country Gateway already has some 50,000 visitors each month to the bilingual site and has translated dgMarket services into Chinese on the Development Gateway's global web portal.  
+  
+Visit the China Development Gateway at: http://www.chinagate.com/cn  
+  
+(from Development Gateway Newsletter - September 2004 )

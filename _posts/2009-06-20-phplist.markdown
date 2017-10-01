@@ -1,0 +1,15 @@
+---
+author: jx tsai
+comments: true
+date: 2009-06-20 03:02:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2009/06/20/phplist/
+slug: phplist
+title: phplist
+wordpress_id: 255
+categories:
+- dotlife
+- software
+---
+
+成功地安裝了phplist ,但還不知道如何做好後台設定

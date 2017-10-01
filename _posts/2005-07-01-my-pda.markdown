@@ -1,0 +1,27 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-07-01 16:11:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/07/01/my-pda/
+slug: my-pda
+title: My PDA
+wordpress_id: 828
+categories:
+- dotlife
+- software
+---
+
+PDA已被預言過了產品生命高峰，Smartphone 將取而代之，成為新一代的個人隨身數位助理。不過我實在很少用手機，一台簡單的PDA已經滿足了我所要求的功能。  
+  
+自從我2000年開始使用PDA以來，[Avantgo ](http://www.jxtsai.info/blog/)就是我PDA上不可或缺的軟體，這一個離線閱讀軟體，提供了一些新聞頻道的訂閱（免費會員在8m的容量。）雖然網路數位時代資訊已十分發達，但叫我長時間瞪著電腦螢幕來讀新聞，實在是一件辛苦的事。而這種新聞時效的東西，若再把它打印出來閱讀，又太浪費紙張。而以PDA做為數位閱讀的工具，我自己覺得是比較方便的，它手掌大小的LCD，眼力看起來較不會感到吃力，我就好幾次用了PDA讀完一些大部頭的長篇小說。  
+  
+我的Avantgo 頻道上訂閱了:  
+[Guardian Unlimited](http://www.jxtsai.info/blog/)  
+Guardian unlimited Books  
+[New York Times Book Reviews](http://www.jxtsai.info/blog/)  
+[Spiegel Online ](http://www.jxtsai.info/blog/)  
+  
+算是我保持一些國際主流新聞資訊的來源，又可以持續讀外語。  
+  
+前一陣子新購入了一台二手 WinCe 作業系統的Mio 558 Pocket PC，用久了Palm OS 還真是用不習慣它操作。所以仍以Sony Clie N760 做為主要的電子閱讀器。現在因為clie 的USB傳輸線有問題，無法順利同步資料，所以正在強迫自己要習慣PPC的使用。其實是很難習慣的，PPC 上的軟體，不知是不是這台機子的問題，Avanto 很容易掛點，害我每天不只要連接PC電腦做資料同步傳輸，還要一再地在Pocket PC上重覆移除、安裝Avantgo 。更莫明奇妙的是，有時還會把別的應用軟體也併刪除......這樣實在很累耶>

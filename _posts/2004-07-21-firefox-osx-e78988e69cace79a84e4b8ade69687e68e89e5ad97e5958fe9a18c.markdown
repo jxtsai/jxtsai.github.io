@@ -1,0 +1,24 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2004-07-21 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2004/07/21/firefox-osx-%e7%89%88%e6%9c%ac%e7%9a%84%e4%b8%ad%e6%96%87%e6%8e%89%e5%ad%97%e5%95%8f%e9%a1%8c/
+slug: firefox-osx-%e7%89%88%e6%9c%ac%e7%9a%84%e4%b8%ad%e6%96%87%e6%8e%89%e5%ad%97%e5%95%8f%e9%a1%8c
+title: firefox OSX 版本的中文掉字問題
+wordpress_id: 973
+categories:
+- dotlife
+---
+
+在我的ibook 使用上，我也如同在PC windows作業系統底下，習慣firefox作為預設的網頁溜?器。不只是因為它執行的速度快效高，我特別喜歡它支援在同一視窗下分頁閱?（tab），還有書籤直接支援live bookmarks, RSS的訂閱，省去另外安裝RSS 閱讀器的麻煩。  
+  
+但喜愛firefox歸喜愛，卻有一件事讓我傷透腦筋。那就是火狐常會發生中文字型掉字的現象，上網找蘋果的愛用者討論區也得不到什麼具體的建議。唯一聽來有介事的建議是，完全移除你的firefox ，選用英文版，否不要安裝無益的擴充套件。我照著這方法作了，嚴重中文掉字的現像好像暫時得到了改善，但是過了一陣子後，又會舊態故萌。在沒找到其它適當的替代browser 之前，我只好又重來上述步驟，心疼的是??些建立起的bookamrks和網址快速連結又要重新來過。  
+  
+日前在[冰果室](http://self.jxtsai.info/)終於看到了此問題有解的方案。原來說是「Mozilla 的 Gecko 繪圖引擎在 Mac OS 平台上的程式碼還是使用老舊的 QuickDraw 界面來產生文字所致。」 （呃，完全的引用，因為不了它到底是什麼意思:p）  
+  
+幸而台灣[jclin](http://www.jxtsai.info/blog/) 他花了不少精力來解決這個問題，也在他的blog上開放這個修正過檔案的下載。目前我用過的情況都還蠻不錯的，真是要感動地掉淚。等會就來安裝幾個常用的extension  來操看看它的表現。  
+  
+今天稍早，在英國[Pledge Bank](http://www.jxtsai.info/blog/) 這個希望透過網路來進行社會動員的網站，剛簽署了願意和其它100人一起[ 我發誓使用firefox](http://www.jxtsai.info/blog/) 的聲明。火狐狸啊，我再也不用擔心你亂吃東西後不聽話搞怪了，我們就和其它100位同志一起「衝」吧！  
+  
+[firefox](http://www.jxtsai.info/), [PledgeBank](http://www.jxtsai.info/)

@@ -1,0 +1,51 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-06-21 16:29:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/06/21/audacity-%e4%bd%bf%e7%94%a8%e4%bb%8b%e7%b4%b9/
+slug: audacity-%e4%bd%bf%e7%94%a8%e4%bb%8b%e7%b4%b9
+title: Audacity 使用介紹
+wordpress_id: 842
+categories:
+- dotlife
+- podcast
+---
+
+podcast製作與audacity 軟體使用教學  
+  
+這篇文章想來簡單地介紹一下how to 的工具使用指南。這也是我自己在摸索podcast 製作過程中的一點分享。  
+  
+  
+[audacity](http://www.jxtsai.info/blog/)  
+  
+Audacity 是一個編輯聲音檔案的免費自由軟體。我們使用錄音筆、mp3 隨身聽錄下來的原始聲音檔案，可以透過它來做聲音的修改、編輯，讓原本平淡的聲音添加一些意想不到的效果。例如原本只是一段人物訪問的聲音，你可以透過audacity 來加入說明的前場音樂，或是結束時候的片尾曲目。如果原始聲音錄製的效果不佳（例如很多雜音，或是收音不良），也可以透過這個編輯軟體來稍作補救！  
+  
+以下是有關audacity  的教學說明。  
+從網路[下載audacity](http://www.jxtsai.info/blog/) 後，執行安裝功能。  
+  
+1. 這是它的開啟介面。  
+![](http://www.jxtsai.info/blog/)  
+  
+2. 從檔案(File)選單下開啟一個聲音檔(通常是mp3，或是wav 的副檔名)，它就會將讓聲音檔轉成可供audacity 編輯的格式。  
+  
+3.各項編輯功能介紹：  
+若要刪除一段聲音，則比照作文字編輯一樣，先用滑鼠反黑選取一段聲音，再選「Edit」選單下的「delete」指令，即可刪除選取的那一段聲音。  
+![](http://www.jxtsai.info/blog/)  
+  
+A. 「Generate 」：它可以自動在音軌上製造許多聲音，如：無聲、電台響聲、白噪音（吵雜聲）pitch..彈弦聲...  
+![](http://www.jxtsai.info/blog/)  
+B. 「Effect」要進行各種效果的強化，即選擇「effect 」選單。以最簡單的「放大聲音」效果為例，同樣先用滑鼠選出你所要編輯的那一段聲音（如果是全軌都要，就按「edit」下的select All (Ctrl+A）  
+接下來，到「effect」下，選取第一個「amplifer」的功能，它即會出現一個視窗，詢問你要放大多少分貝的音量。通常來說，當音量放的越大，就會出現一些雜音，所以兩者之間的平衡，就有待音效控制師自己耳朵的敏感。  
+其它聲音效果的編輯也是類似的操作方法，除了放大音量之外，你還可以：強化低重音、改變音調、改變聲音速度、改變快慢、製作回聲、平衡、淡入淡出、移除噪音......等等的特別效果。  
+![](http://www.jxtsai.info/blog/)  
+  
+5. 加入不同聲軌的編輯  
+打開「Project」選單，選擇「import」另一個聲音檔案，如此在Audacity的編輯畫面上就會出現二軌聲音。若試聽時，這兩軌聲音會同時間播放。通常你要為主音源的檔案配置旁白背景音樂或是轉場、結束片尾曲的時候，就會常用到這個多軌編輯的功能。  
+![](http://www.jxtsai.info/blog/)  
+  
+6.儲存專案進度  
+當你尚未完成一個聲音專案，還沒法把它輸出成一個完整的聲音檔，就可選取 「File」下的「Save Project」，定期儲存你的工作進度。這個專案的存取，會依照你目前為止的工作進度中做了多少，在下次開啟該專案時，重現這些東西。等到你完全滿意於這個專案後，就可以把它輸出成一個單獨的聲音檔案囉。  
+![](http://www.jxtsai.info/blog/)  
+  
+

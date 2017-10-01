@@ -1,0 +1,17 @@
+---
+author: chihsun.tsai@gmail.com
+comments: true
+date: 2005-10-24 15:40:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2005/10/24/%e8%81%af%e5%90%88%e5%9c%8b60%e5%b9%b4%e6%85%b6/
+slug: '%e8%81%af%e5%90%88%e5%9c%8b60%e5%b9%b4%e6%85%b6'
+title: 聯合國60年慶
+wordpress_id: 742
+categories:
+- development
+---
+
+  
+  
+  
+

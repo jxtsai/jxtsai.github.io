@@ -1,0 +1,25 @@
+---
+author: jx tsai
+comments: true
+date: 2015-05-01 13:06:00+00:00
+layout: post
+link: http://www.jxtsai.info/0928/2015/05/01/ubuntu-%e5%ae%89%e8%a3%9dsozi-%e8%a8%98%e9%8c%84/
+slug: ubuntu-%e5%ae%89%e8%a3%9dsozi-%e8%a8%98%e9%8c%84
+title: ubuntu 安裝sozi 記錄
+wordpress_id: 151
+categories:
+- ordinary or complaints
+- software
+- ubuntu
+---
+
+嗯，本文沒什麼閱讀價值，只是本人留一份網路筆記記錄。  
+  
+把原本５年前買入的AIO桌機與３年前購入的筆記型電腦改裝ubuntu 作業系統後近半年，慢慢習慣了開源的LibreOffice(文書，試算表製作編輯軟體), inkscape(向量繪圖軟體),GIMP(點陣繪圖軟體)，真的覺得蠻方便好用的。但最近因為老舊的AIO可能已跑不太動桌面絃華而吃掉不少資源ubuntu，因此決定再把它改裝輕量的Lubuntu 系統。因為新裝、原本在ubuntu 上已設好的環境又要查找網路上的資料來設安裝、故用此文來做點記錄，做為日後如果要砍掉重練的參考(但我想只有在不同的linux下嘗試、不太會回去windows)。  
+  
+現在已經少用office software 中的投影片製作軟體，不管是powerpoint 或是impress, 而是透過inkscape 外掛的[sozi 功能](http://user.frdm.info/ckhung/b/svg/sozi.php)，好在一張大畫布上呈現出自己要報告或分享的簡報內容。  
+雖然[原開發者網站上有說明如何安裝sozi](http://sozi.baierouge.fr/pages/install-linux.html)，但我在ubuntu 系統下常會遇到因為無root 管理者權限(這個小問題我居然還不會處理)、而無法自由搬動複制檔案的問題，因此按它的作法，實在無法順利在inkscape 下安裝sozi，而我覺得在ubuntu下最方便的，反而是叫出terminal 進入純文字介面進行程式式檔案的安裝。  
+  
+因此如要安裝sozi 外掛，只是叫出terminal , 在$ 後輸入(用貼上也可以)這一行：apt-get install sozi　(如果遇到權限不符的問題，只要在最前加入　sudo, 變成　$ sudo apt-get install sozi 即可)；而如果要移除該功能、則輸入這一句"apt-get remove sozi"  
+  
+![]()圖片來源出處:[ Free & Fedorized](http://haks-fedoraproject.blogspot.tw/2011/09/sozi-extension-for-inkscape-to-make.html)
